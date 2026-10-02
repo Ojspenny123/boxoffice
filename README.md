@@ -1,6 +1,6 @@
 # Box Office
 
-Version 1.0.1
+Version 1.1.0
 
 Name the actor from their biggest films.
 

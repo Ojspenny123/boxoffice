@@ -1,5 +1,10 @@
 # Changelog
 
+## V1.1.0 — 2026-10-02
+
+- Character names are no longer shown. The film table is year, poster and title, budget, and worldwide gross.
+- `data/actors.json` no longer stores a character field. The build script still uses the role internally to drop cameos and self credits.
+
 ## V1.0.1 — 2026-10-02
 
 - Rebuilt `data/actors.json` from TMDB: photos, posters, budgets, and worldwide grosses.
