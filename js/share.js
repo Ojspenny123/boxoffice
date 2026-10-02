@@ -31,8 +31,12 @@ export async function shareResult(text) {
     }
   }
   if (navigator.clipboard?.writeText) {
-    await navigator.clipboard.writeText(text);
-    return "copied";
+    try {
+      await navigator.clipboard.writeText(text);
+      return "copied";
+    } catch {
+      // Permission can be denied even on a click. Fall through to the textarea copy.
+    }
   }
   const area = document.createElement("textarea");
   area.value = text;

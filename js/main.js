@@ -76,8 +76,7 @@ function displayedStats() {
 function refreshChrome() {
   const stats = displayedStats();
   setStreak(stats.currentStreak);
-  const started = state.progress.rounds[0].guesses.length > 0 || state.progress.index > 0 || state.progress.complete;
-  setTaglineVisible(!started);
+  setTaglineVisible(!state.progress.complete && state.progress.index === 0);
 }
 
 function paint() {
@@ -209,7 +208,10 @@ function pick(name) {
   recordIfDayDone();
   persist();
   paint();
-  if (result.round.status === "playing") clearGuessInput(root);
+  if (result.round.status === "playing") {
+    clearGuessInput(root);
+    updateSuggestions(root, null, -1);
+  }
 }
 
 function winText(round) {
