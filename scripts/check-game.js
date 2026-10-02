@@ -138,6 +138,7 @@ const dataPath = path.join(root, "data", "actors.json");
 if (fs.existsSync(dataPath)) {
   const rawText = fs.readFileSync(dataPath, "utf8");
   const payload = JSON.parse(rawText);
+  assert(!rawText.includes('"character"'), "actors.json has no character field");
   const actors = payload.actors.map(decodeActor);
   assert(actors.length >= 60, `at least 60 actors, got ${actors.length}`);
   for (const tier of [1, 2, 3]) {

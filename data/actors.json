@@ -1,7 +1,7 @@
 {
   "version": "1.0.1",
   "source": "tmdb",
-  "generatedAt": "2026-10-02T12:13:55.940Z",
+  "generatedAt": "2026-10-02T12:57:24.919Z",
   "actors": [
     {
       "id": "p719ahb",
@@ -21,7 +21,6 @@
         {
           "year": 2000,
           "title": "Gone in Sixty Seconds",
-          "character": "Sara 'Sway' Wayland",
           "poster": "https://image.tmdb.org/t/p/w185/fToQDmkBtiXYGh9xfgAh3gpo6GZ.jpg",
           "budget": 90000000,
           "gross": 237200000
@@ -29,7 +28,6 @@
         {
           "year": 2004,
           "title": "Shark Tale",
-          "character": "Lola (voice)",
           "poster": "https://image.tmdb.org/t/p/w185/r08DpyPyhXcJTfNZAICNGMzcQ8l.jpg",
           "budget": 75000000,
           "gross": 367300000
@@ -37,7 +35,6 @@
         {
           "year": 2005,
           "title": "Mr. & Mrs. Smith",
-          "character": "Jane Smith",
           "poster": "https://image.tmdb.org/t/p/w185/kjD700RtyhveN3ZbOnSvUSne0Qj.jpg",
           "budget": 110000000,
           "gross": 487287646
@@ -45,7 +42,6 @@
         {
           "year": 2008,
           "title": "Kung Fu Panda",
-          "character": "Tigress (voice)",
           "poster": "https://image.tmdb.org/t/p/w185/wWt4JYXTg5Wr3xBW2phBrMKgp3x.jpg",
           "budget": 130000000,
           "gross": 632091832
@@ -53,7 +49,6 @@
         {
           "year": 2008,
           "title": "Wanted",
-          "character": "Fox",
           "poster": "https://image.tmdb.org/t/p/w185/njy7Pz7ZHZceO7lNfGIHKphY8Hd.jpg",
           "budget": 75000000,
           "gross": 342463063
@@ -61,7 +56,6 @@
         {
           "year": 2010,
           "title": "The Tourist",
-          "character": "Elise Clifton-Ward",
           "poster": "https://image.tmdb.org/t/p/w185/vVmek9VTnsfpQTIFWtL9h4HhOIP.jpg",
           "budget": 100000000,
           "gross": 278731369
@@ -69,7 +63,6 @@
         {
           "year": 2011,
           "title": "Kung Fu Panda 2",
-          "character": "Tigress (voice)",
           "poster": "https://image.tmdb.org/t/p/w185/mtqqD00vB4PGRt20gWtGqFhrkd0.jpg",
           "budget": 150000000,
           "gross": 665692281
@@ -77,7 +70,6 @@
         {
           "year": 2014,
           "title": "Maleficent",
-          "character": "Maleficent",
           "poster": "https://image.tmdb.org/t/p/w185/ik8PugpL41s137RAWEGTAWu0dPo.jpg",
           "budget": 180000000,
           "gross": 758539785
@@ -85,7 +77,6 @@
         {
           "year": 2016,
           "title": "Kung Fu Panda 3",
-          "character": "Tigress (voice)",
           "poster": "https://image.tmdb.org/t/p/w185/oajNi4Su39WAByHI6EONu8G8HYn.jpg",
           "budget": 145000000,
           "gross": 521170825
@@ -93,7 +84,6 @@
         {
           "year": 2021,
           "title": "Eternals",
-          "character": "Thena",
           "poster": "https://image.tmdb.org/t/p/w185/lFByFSLV5WDJEv3KabbdAF959F2.jpg",
           "budget": 200000000,
           "gross": 402064899
@@ -118,7 +108,6 @@
         {
           "year": 1995,
           "title": "Se7en",
-          "character": "Mills",
           "poster": "https://image.tmdb.org/t/p/w185/191nKfP0ehp3uIvWqgPbFmI4lv9.jpg",
           "budget": 33000000,
           "gross": 327311859
@@ -126,7 +115,6 @@
         {
           "year": 1999,
           "title": "Fight Club",
-          "character": "Tyler Durden",
           "poster": "https://image.tmdb.org/t/p/w185/jSziioSwPVrOy9Yow3XhWIBDjq1.jpg",
           "budget": 63000000,
           "gross": 100853753
@@ -134,7 +122,6 @@
         {
           "year": 2001,
           "title": "Ocean's Eleven",
-          "character": "Rusty Ryan",
           "poster": "https://image.tmdb.org/t/p/w185/hQQCdZrsHtZyR6NbKH2YyCqd2fR.jpg",
           "budget": 85000000,
           "gross": 450717150
@@ -142,7 +129,6 @@
         {
           "year": 2004,
           "title": "Troy",
-          "character": "Achilles",
           "poster": "https://image.tmdb.org/t/p/w185/a07wLy4ONfpsjnBqMwhlWTJTcm.jpg",
           "budget": 175000000,
           "gross": 497409852
@@ -150,7 +136,6 @@
         {
           "year": 2009,
           "title": "Inglourious Basterds",
-          "character": "LT. Aldo Raine",
           "poster": "https://image.tmdb.org/t/p/w185/aupnPtagH9JVBuMrGEanf4iqXEQ.jpg",
           "budget": 70000000,
           "gross": 321457747
@@ -158,7 +143,6 @@
         {
           "year": 2013,
           "title": "World War Z",
-          "character": "Gerry Lane",
           "poster": "https://image.tmdb.org/t/p/w185/aCnVdvExw6UWSeQfr0tUH3jr4qG.jpg",
           "budget": 200000000,
           "gross": 531865000
@@ -166,7 +150,6 @@
         {
           "year": 2014,
           "title": "Fury",
-          "character": "Don 'Wardaddy' Collier",
           "poster": "https://image.tmdb.org/t/p/w185/pfte7wdMobMF4CVHuOxyu6oqeeA.jpg",
           "budget": 68000000,
           "gross": 211817906
@@ -174,7 +157,6 @@
         {
           "year": 2018,
           "title": "Deadpool 2",
-          "character": "Vanisher",
           "poster": "https://image.tmdb.org/t/p/w185/to0spRl1CMDvyUbOnbb4fTk3VAd.jpg",
           "budget": 110000000,
           "gross": 785896632
@@ -182,7 +164,6 @@
         {
           "year": 2019,
           "title": "Once Upon a Time... in Hollywood",
-          "character": "Cliff Booth",
           "poster": "https://image.tmdb.org/t/p/w185/8j58iEBw9pOXFD2L0nt0ZXeHviB.jpg",
           "budget": 95000000,
           "gross": 393869691
@@ -190,7 +171,6 @@
         {
           "year": 2022,
           "title": "Bullet Train",
-          "character": "Ladybug",
           "poster": "https://image.tmdb.org/t/p/w185/j8szC8OgrejDQjjMKSVXyaAjw3V.jpg",
           "budget": 90000000,
           "gross": 239268602
@@ -217,7 +197,6 @@
         {
           "year": 2001,
           "title": "The Lord of the Rings: The Fellowship of the Ring",
-          "character": "Galadriel",
           "poster": "https://image.tmdb.org/t/p/w185/6oom5QYQ2yQTMJIbnvbkBL9cHo6.jpg",
           "budget": 93000000,
           "gross": 871368364
@@ -225,7 +204,6 @@
         {
           "year": 2002,
           "title": "The Lord of the Rings: The Two Towers",
-          "character": "Galadriel",
           "poster": "https://image.tmdb.org/t/p/w185/5VTN0pR8gcqV3EPUHHfMGnJYN9L.jpg",
           "budget": 79000000,
           "gross": 926287400
@@ -233,7 +211,6 @@
         {
           "year": 2003,
           "title": "The Lord of the Rings: The Return of the King",
-          "character": "Galadriel",
           "poster": "https://image.tmdb.org/t/p/w185/rCzpDGLbOoPwLjy3OAm5NUPOTrC.jpg",
           "budget": 94000000,
           "gross": 1118888979
@@ -241,7 +218,6 @@
         {
           "year": 2012,
           "title": "The Hobbit: An Unexpected Journey",
-          "character": "Galadriel",
           "poster": "https://image.tmdb.org/t/p/w185/yHA9Fc37VmpUA5UncTxxo3rTGVA.jpg",
           "budget": 250000000,
           "gross": 1021103568
@@ -249,7 +225,6 @@
         {
           "year": 2013,
           "title": "The Hobbit: The Desolation of Smaug",
-          "character": "Galadriel",
           "poster": "https://image.tmdb.org/t/p/w185/xQYiXsheRCDBA39DOrmaw1aSpbk.jpg",
           "budget": 250000000,
           "gross": 958400000
@@ -257,7 +232,6 @@
         {
           "year": 2014,
           "title": "How to Train Your Dragon 2",
-          "character": "Valka (voice)",
           "poster": "https://image.tmdb.org/t/p/w185/d13Uj86LdbDLrfDoHR5aDOFYyJC.jpg",
           "budget": 145000000,
           "gross": 621537519
@@ -265,7 +239,6 @@
         {
           "year": 2014,
           "title": "The Hobbit: The Battle of the Five Armies",
-          "character": "Galadriel",
           "poster": "https://image.tmdb.org/t/p/w185/xT98tLqatZPQApyRmlPL12LtiWp.jpg",
           "budget": 250000000,
           "gross": 956019788
@@ -273,7 +246,6 @@
         {
           "year": 2015,
           "title": "Cinderella",
-          "character": "Stepmother, Lady Tremaine",
           "poster": "https://image.tmdb.org/t/p/w185/j91LJmcWo16CArFOoapsz84bwxb.jpg",
           "budget": 95000000,
           "gross": 543514353
@@ -281,7 +253,6 @@
         {
           "year": 2017,
           "title": "Thor: Ragnarok",
-          "character": "Hela",
           "poster": "https://image.tmdb.org/t/p/w185/rzRwTcFvttcN1ZpX2xv4j3tSdJu.jpg",
           "budget": 180000000,
           "gross": 855301806
@@ -289,7 +260,6 @@
         {
           "year": 2021,
           "title": "Don't Look Up",
-          "character": "Brie Evantee",
           "poster": "https://image.tmdb.org/t/p/w185/th4E1yqsE8DGpAseLiUrI60Hf8V.jpg",
           "budget": 75000000,
           "gross": 791863
@@ -314,7 +284,6 @@
         {
           "year": 2001,
           "title": "Training Day",
-          "character": "Alonzo",
           "poster": "https://image.tmdb.org/t/p/w185/bUeiwBQdupBLQthMCHKV7zv56uv.jpg",
           "budget": 45000000,
           "gross": 104900000
@@ -322,7 +291,6 @@
         {
           "year": 2004,
           "title": "Man on Fire",
-          "character": "John W. Creasy",
           "poster": "https://image.tmdb.org/t/p/w185/grCGLCcTHv9TChibzOwzUpykcjB.jpg",
           "budget": 70000000,
           "gross": 130300000
@@ -330,7 +298,6 @@
         {
           "year": 2006,
           "title": "Déjà Vu",
-          "character": "Doug Carlin",
           "poster": "https://image.tmdb.org/t/p/w185/eTX6hklzFOiEVqVukNCEedZKhix.jpg",
           "budget": 75000000,
           "gross": 180557550
@@ -338,7 +305,6 @@
         {
           "year": 2006,
           "title": "Inside Man",
-          "character": "Keith Frazier",
           "poster": "https://image.tmdb.org/t/p/w185/ffMUgkDZICNiyaws1Jkv8qG8uFW.jpg",
           "budget": 45000000,
           "gross": 186003591
@@ -346,7 +312,6 @@
         {
           "year": 2007,
           "title": "American Gangster",
-          "character": "Frank Lucas",
           "poster": "https://image.tmdb.org/t/p/w185/sX9idXDqRUxE5ffww3n3RV5gL55.jpg",
           "budget": 100000000,
           "gross": 269755430
@@ -354,7 +319,6 @@
         {
           "year": 2010,
           "title": "The Book of Eli",
-          "character": "Eli",
           "poster": "https://image.tmdb.org/t/p/w185/1H1y9ZiqNFaLgQiRDDZLA55PviW.jpg",
           "budget": 80000000,
           "gross": 157107755
@@ -362,7 +326,6 @@
         {
           "year": 2012,
           "title": "Flight",
-          "character": "Whip Whitaker",
           "poster": "https://image.tmdb.org/t/p/w185/tFsHDNclXoCKy2xMxskzXXMaFJS.jpg",
           "budget": 31000000,
           "gross": 161772575
@@ -370,7 +333,6 @@
         {
           "year": 2014,
           "title": "The Equalizer",
-          "character": "Robert McCall",
           "poster": "https://image.tmdb.org/t/p/w185/9u4yW7yPA0BQ2pv9XwiNzItwvp8.jpg",
           "budget": 55000000,
           "gross": 192330738
@@ -378,7 +340,6 @@
         {
           "year": 2016,
           "title": "The Magnificent Seven",
-          "character": "Sam Chisolm",
           "poster": "https://image.tmdb.org/t/p/w185/ezcS78TIjgr85pVdaPDd2rSPVNs.jpg",
           "budget": 90000000,
           "gross": 162400000
@@ -386,7 +347,6 @@
         {
           "year": 2018,
           "title": "The Equalizer 2",
-          "character": "Robert McCall",
           "poster": "https://image.tmdb.org/t/p/w185/cQvc9N6JiMVKqol3wcYrGshsIdZ.jpg",
           "budget": 62000000,
           "gross": 190400157
@@ -411,7 +371,6 @@
         {
           "year": 1977,
           "title": "Star Wars",
-          "character": "Han Solo",
           "poster": "https://image.tmdb.org/t/p/w185/fai0rspsNeJCS69wHNjOdWxcI7P.jpg",
           "budget": 11000000,
           "gross": 775398007
@@ -419,7 +378,6 @@
         {
           "year": 1979,
           "title": "Apocalypse Now",
-          "character": "Colonel",
           "poster": "https://image.tmdb.org/t/p/w185/gQB8Y5RCMkv2zwzFHbUJX3kAhvA.jpg",
           "budget": 31500000,
           "gross": 150000000
@@ -427,7 +385,6 @@
         {
           "year": 1981,
           "title": "Raiders of the Lost Ark",
-          "character": "Indiana Jones",
           "poster": "https://image.tmdb.org/t/p/w185/ceG9VzoRAVGwivFU403Wc3AHRys.jpg",
           "budget": 18000000,
           "gross": 389925971
@@ -435,7 +392,6 @@
         {
           "year": 1982,
           "title": "Blade Runner",
-          "character": "Deckard",
           "poster": "https://image.tmdb.org/t/p/w185/63N9uy8nd9j7Eog2axPQ8lbr3Wj.jpg",
           "budget": 28000000,
           "gross": 41722424
@@ -443,7 +399,6 @@
         {
           "year": 1984,
           "title": "Indiana Jones and the Temple of Doom",
-          "character": "Indiana Jones",
           "poster": "https://image.tmdb.org/t/p/w185/gpdVNUaa4LhRMLfJOPj1AZdhAZ3.jpg",
           "budget": 28000000,
           "gross": 333000000
@@ -451,7 +406,6 @@
         {
           "year": 1989,
           "title": "Indiana Jones and the Last Crusade",
-          "character": "Indiana Jones",
           "poster": "https://image.tmdb.org/t/p/w185/sizg1AU8f8JDZX4QIgE4pjUMBvx.jpg",
           "budget": 48000000,
           "gross": 474171806
@@ -459,7 +413,6 @@
         {
           "year": 2014,
           "title": "The Expendables 3",
-          "character": "Max Drummer",
           "poster": "https://image.tmdb.org/t/p/w185/utS5euWHlEdKBNnEFwjpZ2oGuhF.jpg",
           "budget": 95000000,
           "gross": 214657577
@@ -467,7 +420,6 @@
         {
           "year": 2015,
           "title": "Star Wars: The Force Awakens",
-          "character": "Han Solo",
           "poster": "https://image.tmdb.org/t/p/w185/wqnLdwVXoBjKibFRR5U3y0aDUhs.jpg",
           "budget": 245000000,
           "gross": 2068223624
@@ -475,7 +427,6 @@
         {
           "year": 2015,
           "title": "The Age of Adaline",
-          "character": "William Jones",
           "poster": "https://image.tmdb.org/t/p/w185/3XFuCS6wBfpSnUQboLd1JtkJqe0.jpg",
           "budget": 25000000,
           "gross": 65663276
@@ -483,7 +434,6 @@
         {
           "year": 2017,
           "title": "Blade Runner 2049",
-          "character": "Rick Deckard",
           "poster": "https://image.tmdb.org/t/p/w185/gajva2L0rPYkEWjzgFlBXCAVBE5.jpg",
           "budget": 150000000,
           "gross": 259239658
@@ -508,7 +458,6 @@
         {
           "year": 2006,
           "title": "The Prestige",
-          "character": "Robert Angier",
           "poster": "https://image.tmdb.org/t/p/w185/Ag2B2KHKQPukjH7WutmgnnSNurZ.jpg",
           "budget": 40000000,
           "gross": 109676311
@@ -516,7 +465,6 @@
         {
           "year": 2011,
           "title": "Real Steel",
-          "character": "Charlie Kenton",
           "poster": "https://image.tmdb.org/t/p/w185/4GIeI5K5YdDUkR3mNQBoScpSFEf.jpg",
           "budget": 110000000,
           "gross": 299300000
@@ -524,7 +472,6 @@
         {
           "year": 2012,
           "title": "Rise of the Guardians",
-          "character": "Bunny (voice)",
           "poster": "https://image.tmdb.org/t/p/w185/yfzmfWGjcmyugH6FZ13WcsUGiNj.jpg",
           "budget": 145000000,
           "gross": 306941670
@@ -532,7 +479,6 @@
         {
           "year": 2013,
           "title": "Prisoners",
-          "character": "Keller Dover",
           "poster": "https://image.tmdb.org/t/p/w185/uhviyknTT5cEQXbn6vWIqfM4vGm.jpg",
           "budget": 46000000,
           "gross": 122127446
@@ -540,7 +486,6 @@
         {
           "year": 2014,
           "title": "X-Men: Days of Future Past",
-          "character": "Logan / Wolverine",
           "poster": "https://image.tmdb.org/t/p/w185/tYfijzolzgoMOtegh1Y7j2Enorg.jpg",
           "budget": 250000000,
           "gross": 748045700
@@ -548,7 +493,6 @@
         {
           "year": 2015,
           "title": "Chappie",
-          "character": "Vincent Moore",
           "poster": "https://image.tmdb.org/t/p/w185/uuDUpzlMFomdSfNWlpEPS9nVZWV.jpg",
           "budget": 49000000,
           "gross": 104399548
@@ -556,7 +500,6 @@
         {
           "year": 2017,
           "title": "Logan",
-          "character": "Logan / X-24",
           "poster": "https://image.tmdb.org/t/p/w185/fnbjcRDYn6YviCcePDnGdyAkYsB.jpg",
           "budget": 97000000,
           "gross": 619021436
@@ -564,7 +507,6 @@
         {
           "year": 2017,
           "title": "The Greatest Showman",
-          "character": "P. T. Barnum",
           "poster": "https://image.tmdb.org/t/p/w185/b9CeobiihCx1uG1tpw8hXmpi7nm.jpg",
           "budget": 84000000,
           "gross": 459066134
@@ -572,7 +514,6 @@
         {
           "year": 2021,
           "title": "Free Guy",
-          "character": "Masked Player in Alley (voice)",
           "poster": "https://image.tmdb.org/t/p/w185/dxraF0qPr1OEgJk17ltQTO84kQF.jpg",
           "budget": 110000000,
           "gross": 331526598
@@ -580,7 +521,6 @@
         {
           "year": 2024,
           "title": "Deadpool & Wolverine",
-          "character": "Logan / Wolverine",
           "poster": "https://image.tmdb.org/t/p/w185/8cdWjvZQUExUUTzyp4t6EDMubfO.jpg",
           "budget": 200000000,
           "gross": 1338073645
@@ -605,7 +545,6 @@
         {
           "year": 1995,
           "title": "Rumble in the Bronx",
-          "character": "Keung",
           "poster": "https://image.tmdb.org/t/p/w185/1nAfchiXHQB3iyhK8fCJJEnNs5A.jpg",
           "budget": 7500000,
           "gross": 76028558
@@ -613,7 +552,6 @@
         {
           "year": 1998,
           "title": "Rush Hour",
-          "character": "Inspector Lee",
           "poster": "https://image.tmdb.org/t/p/w185/nwPhAsfnb7f46bZkWLG7IRP5HXr.jpg",
           "budget": 33000000,
           "gross": 244721064
@@ -621,7 +559,6 @@
         {
           "year": 2000,
           "title": "Shanghai Noon",
-          "character": "Chon Wang",
           "poster": "https://image.tmdb.org/t/p/w185/b0WwWRcDiDahkah5vZ0KjB4N9ZZ.jpg",
           "budget": 55000000,
           "gross": 99274467
@@ -629,7 +566,6 @@
         {
           "year": 2001,
           "title": "Rush Hour 2",
-          "character": "Inspector Lee",
           "poster": "https://image.tmdb.org/t/p/w185/aBQf2vMiCINeVC9v6BGVYKXurTh.jpg",
           "budget": 90000000,
           "gross": 347325802
@@ -637,7 +573,6 @@
         {
           "year": 2002,
           "title": "The Tuxedo",
-          "character": "Jimmy Tong",
           "poster": "https://image.tmdb.org/t/p/w185/lTMnOx7E2zEzIGY0og1KkfgYMhY.jpg",
           "budget": 60000000,
           "gross": 104400000
@@ -645,7 +580,6 @@
         {
           "year": 2003,
           "title": "Shanghai Knights",
-          "character": "Chon Wang",
           "poster": "https://image.tmdb.org/t/p/w185/vVNQStMlZS9mn2AKBEpadRunHgt.jpg",
           "budget": 50000000,
           "gross": 88323487
@@ -653,7 +587,6 @@
         {
           "year": 2007,
           "title": "Rush Hour 3",
-          "character": "Inspector Lee",
           "poster": "https://image.tmdb.org/t/p/w185/mp9CzKxLa2i7yblMXUrzVfGqsCo.jpg",
           "budget": 140000000,
           "gross": 258097122
@@ -661,7 +594,6 @@
         {
           "year": 2010,
           "title": "The Karate Kid",
-          "character": "Mr. Han",
           "poster": "https://image.tmdb.org/t/p/w185/b1RBy3l297N0c7PHjlz35cClWju.jpg",
           "budget": 40000000,
           "gross": 359126022
@@ -669,7 +601,6 @@
         {
           "year": 2017,
           "title": "The Foreigner",
-          "character": "Quan Ngoc Minh",
           "poster": "https://image.tmdb.org/t/p/w185/rwM4hzrmc5HiWfQD9ls9DL4QgGl.jpg",
           "budget": 35000000,
           "gross": 145374099
@@ -694,7 +625,6 @@
         {
           "year": 2012,
           "title": "The Hunger Games",
-          "character": "Katniss Everdeen",
           "poster": "https://image.tmdb.org/t/p/w185/apa5G43Hha7kH7wJG0gkkHT7FA9.jpg",
           "budget": 75000000,
           "gross": 694000000
@@ -702,7 +632,6 @@
         {
           "year": 2013,
           "title": "The Hunger Games: Catching Fire",
-          "character": "Katniss Everdeen",
           "poster": "https://image.tmdb.org/t/p/w185/vrQHDXjVmbYzadOXQ0UaObunoy2.jpg",
           "budget": 130000000,
           "gross": 865011746
@@ -710,7 +639,6 @@
         {
           "year": 2014,
           "title": "The Hunger Games: Mockingjay - Part 1",
-          "character": "Katniss Everdeen",
           "poster": "https://image.tmdb.org/t/p/w185/4FAA18ZIja70d1Tu5hr5cj2q1sB.jpg",
           "budget": 125000000,
           "gross": 755356711
@@ -718,7 +646,6 @@
         {
           "year": 2014,
           "title": "X-Men: Days of Future Past",
-          "character": "Raven / Mystique",
           "poster": "https://image.tmdb.org/t/p/w185/tYfijzolzgoMOtegh1Y7j2Enorg.jpg",
           "budget": 250000000,
           "gross": 748045700
@@ -726,7 +653,6 @@
         {
           "year": 2015,
           "title": "The Hunger Games: Mockingjay - Part 2",
-          "character": "Katniss Everdeen",
           "poster": "https://image.tmdb.org/t/p/w185/lImKHDfExAulp16grYm8zD5eONE.jpg",
           "budget": 160000000,
           "gross": 653428261
@@ -734,7 +660,6 @@
         {
           "year": 2016,
           "title": "Passengers",
-          "character": "Aurora Lane",
           "poster": "https://image.tmdb.org/t/p/w185/jK9S6HANSf2no64v1x1HxfcpmcA.jpg",
           "budget": 110000000,
           "gross": 303144152
@@ -742,7 +667,6 @@
         {
           "year": 2016,
           "title": "X-Men: Apocalypse",
-          "character": "Raven / Mystique",
           "poster": "https://image.tmdb.org/t/p/w185/ikA8UhYdTGpqbatFa93nIf6noSr.jpg",
           "budget": 178000000,
           "gross": 543934787
@@ -750,7 +674,6 @@
         {
           "year": 2018,
           "title": "Red Sparrow",
-          "character": "Dominika Egorova",
           "poster": "https://image.tmdb.org/t/p/w185/cdefNr6aS00IwVbSlxdFJnfmzKh.jpg",
           "budget": 69000000,
           "gross": 151572634
@@ -758,7 +681,6 @@
         {
           "year": 2019,
           "title": "Dark Phoenix",
-          "character": "Raven Darkholme / Mystique",
           "poster": "https://image.tmdb.org/t/p/w185/cCTJPelKGLhALq3r51A9uMonxKj.jpg",
           "budget": 200000000,
           "gross": 252442974
@@ -766,7 +688,6 @@
         {
           "year": 2021,
           "title": "Don't Look Up",
-          "character": "Kate Dibiasky",
           "poster": "https://image.tmdb.org/t/p/w185/th4E1yqsE8DGpAseLiUrI60Hf8V.jpg",
           "budget": 75000000,
           "gross": 791863
@@ -791,7 +712,6 @@
         {
           "year": 1990,
           "title": "Pretty Woman",
-          "character": "Vivian Ward",
           "poster": "https://image.tmdb.org/t/p/w185/oVKX1Pt1q7jXTkTk51mu2S0sAB0.jpg",
           "budget": 14000000,
           "gross": 463406268
@@ -799,7 +719,6 @@
         {
           "year": 1993,
           "title": "The Pelican Brief",
-          "character": "Darby Shaw",
           "poster": "https://image.tmdb.org/t/p/w185/7B1HS0SqfJR1jbeHS6V0ZWdzLXP.jpg",
           "budget": 45000000,
           "gross": 195268056
@@ -807,7 +726,6 @@
         {
           "year": 1997,
           "title": "My Best Friend's Wedding",
-          "character": "Julianne Potter",
           "poster": "https://image.tmdb.org/t/p/w185/b5g4bp8gS5ovMyR5439AII6zQ3n.jpg",
           "budget": 38000000,
           "gross": 299288605
@@ -815,7 +733,6 @@
         {
           "year": 1999,
           "title": "Notting Hill",
-          "character": "Anna Scott",
           "poster": "https://image.tmdb.org/t/p/w185/hHRIf2XHeQMbyRb3HUx19SF5Ujw.jpg",
           "budget": 42000000,
           "gross": 363889678
@@ -823,7 +740,6 @@
         {
           "year": 2000,
           "title": "Erin Brockovich",
-          "character": "Erin Brockovich",
           "poster": "https://image.tmdb.org/t/p/w185/eMs20iUQyZVs05Ck7Q0LNnRsstr.jpg",
           "budget": 52000000,
           "gross": 256271286
@@ -831,7 +747,6 @@
         {
           "year": 2001,
           "title": "Ocean's Eleven",
-          "character": "Tess Ocean",
           "poster": "https://image.tmdb.org/t/p/w185/hQQCdZrsHtZyR6NbKH2YyCqd2fR.jpg",
           "budget": 85000000,
           "gross": 450717150
@@ -839,7 +754,6 @@
         {
           "year": 2003,
           "title": "Mona Lisa Smile",
-          "character": "Katherine Watson",
           "poster": "https://image.tmdb.org/t/p/w185/bg0VKsXnLjIZ0cHmZHZLs9gzrvm.jpg",
           "budget": 72300000,
           "gross": 141337989
@@ -847,7 +761,6 @@
         {
           "year": 2004,
           "title": "Ocean's Twelve",
-          "character": "Tess Ocean",
           "poster": "https://image.tmdb.org/t/p/w185/pE5anFf7nf6ah7V3VRezQ1KSovi.jpg",
           "budget": 110000000,
           "gross": 362744280
@@ -855,7 +768,6 @@
         {
           "year": 2022,
           "title": "Ticket to Paradise",
-          "character": "Georgia Cotton",
           "poster": "https://image.tmdb.org/t/p/w185/1tzERH50P5c2mFWtLbgixzLZS1L.jpg",
           "budget": 20000000,
           "gross": 168800000
@@ -882,7 +794,6 @@
         {
           "year": 1997,
           "title": "Titanic",
-          "character": "Jack Dawson",
           "poster": "https://image.tmdb.org/t/p/w185/9xjZS2rlVxm8SFx8kPC3aIGCOYQ.jpg",
           "budget": 200000000,
           "gross": 2264162353
@@ -890,7 +801,6 @@
         {
           "year": 2002,
           "title": "Catch Me If You Can",
-          "character": "Frank Abagnale Jr.",
           "poster": "https://image.tmdb.org/t/p/w185/ctjEj2xM32OvBXCq8zAdK3ZrsAj.jpg",
           "budget": 52000000,
           "gross": 352114312
@@ -898,7 +808,6 @@
         {
           "year": 2006,
           "title": "The Departed",
-          "character": "Billy",
           "poster": "https://image.tmdb.org/t/p/w185/nT97ifVT2J1yMQmeq20Qblg61T.jpg",
           "budget": 90000000,
           "gross": 291465000
@@ -906,7 +815,6 @@
         {
           "year": 2010,
           "title": "Inception",
-          "character": "Dom Cobb",
           "poster": "https://image.tmdb.org/t/p/w185/xlaY2zyzMfkhk0HSC5VUwzoZPU1.jpg",
           "budget": 160000000,
           "gross": 839030630
@@ -914,7 +822,6 @@
         {
           "year": 2010,
           "title": "Shutter Island",
-          "character": "Teddy Daniels",
           "poster": "https://image.tmdb.org/t/p/w185/nrmXQ0zcZUL8jFLrakWc90IR8z9.jpg",
           "budget": 80000000,
           "gross": 294804195
@@ -922,7 +829,6 @@
         {
           "year": 2012,
           "title": "Django Unchained",
-          "character": "Calvin J. Candie",
           "poster": "https://image.tmdb.org/t/p/w185/7oWY8VDWW7thTzWh3OKYRkWUlD5.jpg",
           "budget": 100000000,
           "gross": 425368238
@@ -930,7 +836,6 @@
         {
           "year": 2013,
           "title": "The Wolf of Wall Street",
-          "character": "Jordan Belfort",
           "poster": "https://image.tmdb.org/t/p/w185/kW9LmvYHAaS9iA0tHmZVq8hQYoq.jpg",
           "budget": 100000000,
           "gross": 407039432
@@ -938,7 +843,6 @@
         {
           "year": 2015,
           "title": "The Revenant",
-          "character": "Hugh Glass",
           "poster": "https://image.tmdb.org/t/p/w185/ji3ecJphATlVgWNY0B0RVXZizdf.jpg",
           "budget": 135000000,
           "gross": 532950503
@@ -946,7 +850,6 @@
         {
           "year": 2019,
           "title": "Once Upon a Time... in Hollywood",
-          "character": "Rick Dalton",
           "poster": "https://image.tmdb.org/t/p/w185/8j58iEBw9pOXFD2L0nt0ZXeHviB.jpg",
           "budget": 95000000,
           "gross": 393869691
@@ -954,7 +857,6 @@
         {
           "year": 2021,
           "title": "Don't Look Up",
-          "character": "Dr. Randall Mindy",
           "poster": "https://image.tmdb.org/t/p/w185/th4E1yqsE8DGpAseLiUrI60Hf8V.jpg",
           "budget": 75000000,
           "gross": 791863
@@ -979,7 +881,6 @@
         {
           "year": 1979,
           "title": "Kramer vs. Kramer",
-          "character": "Joanna Kramer",
           "poster": "https://image.tmdb.org/t/p/w185/3CUP5V5SWfHSK4qvkZF7lMNyugY.jpg",
           "budget": 8000000,
           "gross": 106260000
@@ -987,7 +888,6 @@
         {
           "year": 1982,
           "title": "Sophie's Choice",
-          "character": "Sophie Zawistowski",
           "poster": "https://image.tmdb.org/t/p/w185/rZDPbPTFwuKgr5b9jixGFNYkGYt.jpg",
           "budget": 12000000,
           "gross": 30036166
@@ -995,7 +895,6 @@
         {
           "year": 1985,
           "title": "Out of Africa",
-          "character": "Karen Blixen",
           "poster": "https://image.tmdb.org/t/p/w185/6oMKqh08TfxmvnoFR4mm1wZB67P.jpg",
           "budget": 31000000,
           "gross": 227514205
@@ -1003,7 +902,6 @@
         {
           "year": 1995,
           "title": "The Bridges of Madison County",
-          "character": "Francesca Johnson",
           "poster": "https://image.tmdb.org/t/p/w185/aCBrhOQjhG397GLkEZ49zReQEKX.jpg",
           "budget": 24000000,
           "gross": 182000000
@@ -1011,7 +909,6 @@
         {
           "year": 2002,
           "title": "Adaptation",
-          "character": "Susan Orlean",
           "poster": "https://image.tmdb.org/t/p/w185/ffEmHQAiD0m5dEQ6rlsuA9vlllW.jpg",
           "budget": 19000000,
           "gross": 32800000
@@ -1019,7 +916,6 @@
         {
           "year": 2006,
           "title": "The Devil Wears Prada",
-          "character": "Miranda Priestly",
           "poster": "https://image.tmdb.org/t/p/w185/8912AsVuS7Sj915apArUFbv6F9L.jpg",
           "budget": 35000000,
           "gross": 326588371
@@ -1027,7 +923,6 @@
         {
           "year": 2008,
           "title": "Mamma Mia!",
-          "character": "Donna Sheridan",
           "poster": "https://image.tmdb.org/t/p/w185/xYLiCWmAMHJubx5jNZ7HuXKjAbV.jpg",
           "budget": 52000000,
           "gross": 609841637
@@ -1035,7 +930,6 @@
         {
           "year": 2009,
           "title": "Julie & Julia",
-          "character": "Julia Child",
           "poster": "https://image.tmdb.org/t/p/w185/1QZNWOOwfRi86ZApGvr2TtJZPBK.jpg",
           "budget": 40000000,
           "gross": 129500000
@@ -1043,7 +937,6 @@
         {
           "year": 2011,
           "title": "The Iron Lady",
-          "character": "Margaret Thatcher",
           "poster": "https://image.tmdb.org/t/p/w185/fx7wpKXOht7WOkeOslvErbrf69Q.jpg",
           "budget": 13000000,
           "gross": 115890792
@@ -1068,7 +961,6 @@
         {
           "year": 1994,
           "title": "The Shawshank Redemption",
-          "character": "Ellis Boyd 'Red' Redding",
           "poster": "https://image.tmdb.org/t/p/w185/9cqNxx0GxF0bflZmeSMuL5tnGzr.jpg",
           "budget": 25000000,
           "gross": 28341469
@@ -1076,7 +968,6 @@
         {
           "year": 1995,
           "title": "Se7en",
-          "character": "Somerset",
           "poster": "https://image.tmdb.org/t/p/w185/191nKfP0ehp3uIvWqgPbFmI4lv9.jpg",
           "budget": 33000000,
           "gross": 327311859
@@ -1084,7 +975,6 @@
         {
           "year": 2005,
           "title": "Batman Begins",
-          "character": "Lucius Fox",
           "poster": "https://image.tmdb.org/t/p/w185/sPX89Td70IDDjVr85jdSBb4rWGr.jpg",
           "budget": 150000000,
           "gross": 374218673
@@ -1092,7 +982,6 @@
         {
           "year": 2008,
           "title": "The Dark Knight",
-          "character": "Lucius Fox",
           "poster": "https://image.tmdb.org/t/p/w185/qJ2tW6WMUDux911r6m7haRef0WH.jpg",
           "budget": 185000000,
           "gross": 1004558444
@@ -1100,7 +989,6 @@
         {
           "year": 2012,
           "title": "The Dark Knight Rises",
-          "character": "Fox",
           "poster": "https://image.tmdb.org/t/p/w185/hr0L2aueqlP2BYUblTTjmtn0hw4.jpg",
           "budget": 250000000,
           "gross": 1081041287
@@ -1108,7 +996,6 @@
         {
           "year": 2013,
           "title": "Now You See Me",
-          "character": "Thaddeus Bradley",
           "poster": "https://image.tmdb.org/t/p/w185/tWsNYbrqy1p1w6K9zRk0mSchztT.jpg",
           "budget": 75000000,
           "gross": 351723989
@@ -1116,7 +1003,6 @@
         {
           "year": 2013,
           "title": "Olympus Has Fallen",
-          "character": "Alan Trumbull",
           "poster": "https://image.tmdb.org/t/p/w185/u3GTFGwesNBNd0t1hiLaEk1iqZU.jpg",
           "budget": 70000000,
           "gross": 170270201
@@ -1124,7 +1010,6 @@
         {
           "year": 2014,
           "title": "The Lego Movie",
-          "character": "Vitruvius (voice)",
           "poster": "https://image.tmdb.org/t/p/w185/lbctonEnewCYZ4FYoTZhs8cidAl.jpg",
           "budget": 60000000,
           "gross": 470759687
@@ -1132,7 +1017,6 @@
         {
           "year": 2015,
           "title": "Ted 2",
-          "character": "Patrick Meighan",
           "poster": "https://image.tmdb.org/t/p/w185/38C91I7Xft0gyY7BITm8i4yvuRb.jpg",
           "budget": 68000000,
           "gross": 215863606
@@ -1140,7 +1024,6 @@
         {
           "year": 2016,
           "title": "Now You See Me 2",
-          "character": "Thaddeus Bradley",
           "poster": "https://image.tmdb.org/t/p/w185/A81kDB6a1K86YLlcOtZB27jriJh.jpg",
           "budget": 120000000,
           "gross": 334897606
@@ -1165,7 +1048,6 @@
         {
           "year": 1994,
           "title": "Léon: The Professional",
-          "character": "Mathilda Lando",
           "poster": "https://image.tmdb.org/t/p/w185/bxB2q91nKYp8JNzqE7t7TWBVupB.jpg",
           "budget": 16000000,
           "gross": 20330788
@@ -1173,7 +1055,6 @@
         {
           "year": 1995,
           "title": "Heat",
-          "character": "Lauren Gustafson",
           "poster": "https://image.tmdb.org/t/p/w185/umSVjVdbVwtx5ryCA2QXL44Durm.jpg",
           "budget": 60000000,
           "gross": 187400000
@@ -1181,7 +1062,6 @@
         {
           "year": 1999,
           "title": "Star Wars: Episode I - The Phantom Menace",
-          "character": "Padmé Amidala",
           "poster": "https://image.tmdb.org/t/p/w185/6wkfovpn7Eq8dYNKaG5PY3q2oq6.jpg",
           "budget": 115000000,
           "gross": 1046515409
@@ -1189,7 +1069,6 @@
         {
           "year": 2006,
           "title": "V for Vendetta",
-          "character": "Evey",
           "poster": "https://image.tmdb.org/t/p/w185/1avD1JeaRiJX5M4ahPdZPypGoGN.jpg",
           "budget": 54000000,
           "gross": 134686457
@@ -1197,7 +1076,6 @@
         {
           "year": 2010,
           "title": "Black Swan",
-          "character": "Nina Sayers / The Swan Queen",
           "poster": "https://image.tmdb.org/t/p/w185/viWheBd44bouiLCHgNMvahLThqx.jpg",
           "budget": 13000000,
           "gross": 329398046
@@ -1205,7 +1083,6 @@
         {
           "year": 2011,
           "title": "No Strings Attached",
-          "character": "Emma Kurtzman",
           "poster": "https://image.tmdb.org/t/p/w185/9C09L1U9S13J4Ut029Qhu0oLcTQ.jpg",
           "budget": 25000000,
           "gross": 149200000
@@ -1213,7 +1090,6 @@
         {
           "year": 2011,
           "title": "Thor",
-          "character": "Jane Foster",
           "poster": "https://image.tmdb.org/t/p/w185/prSfAi1xGrhLQNxVSUFh61xQ4Qy.jpg",
           "budget": 150000000,
           "gross": 449326618
@@ -1221,7 +1097,6 @@
         {
           "year": 2013,
           "title": "Thor: The Dark World",
-          "character": "Jane Foster",
           "poster": "https://image.tmdb.org/t/p/w185/wp6OxE4poJ4G7c0U2ZIXasTSMR7.jpg",
           "budget": 170000000,
           "gross": 644783140
@@ -1229,7 +1104,6 @@
         {
           "year": 2018,
           "title": "Annihilation",
-          "character": "Lena",
           "poster": "https://image.tmdb.org/t/p/w185/4YRplSk6BhH6PRuE9gfyw9byUJ6.jpg",
           "budget": 40000000,
           "gross": 43070915
@@ -1237,7 +1111,6 @@
         {
           "year": 2022,
           "title": "Thor: Love and Thunder",
-          "character": "Jane Foster / The Mighty Thor",
           "poster": "https://image.tmdb.org/t/p/w185/pIkRyD18kl4FhoCNQuWxWu5cBLM.jpg",
           "budget": 250000000,
           "gross": 760928081
@@ -1265,7 +1138,6 @@
         {
           "year": 2008,
           "title": "Iron Man",
-          "character": "Tony Stark",
           "poster": "https://image.tmdb.org/t/p/w185/78lPtwv72eTNqFW9COBYI0dWDJa.jpg",
           "budget": 140000000,
           "gross": 585174222
@@ -1273,7 +1145,6 @@
         {
           "year": 2010,
           "title": "Iron Man 2",
-          "character": "Tony Stark",
           "poster": "https://image.tmdb.org/t/p/w185/6WBeq4fCfn7AN0o21W9qNcRF2l9.jpg",
           "budget": 200000000,
           "gross": 623933331
@@ -1281,7 +1152,6 @@
         {
           "year": 2012,
           "title": "The Avengers",
-          "character": "Tony Stark / Iron Man",
           "poster": "https://image.tmdb.org/t/p/w185/RYMX2wcKCBAr24UyPD7xwmjaTn.jpg",
           "budget": 220000000,
           "gross": 1518815515
@@ -1289,7 +1159,6 @@
         {
           "year": 2013,
           "title": "Iron Man 3",
-          "character": "Tony Stark",
           "poster": "https://image.tmdb.org/t/p/w185/qhPtAc1TKbMPqNvcdXSOn9Bn7hZ.jpg",
           "budget": 200000000,
           "gross": 1215577205
@@ -1297,7 +1166,6 @@
         {
           "year": 2015,
           "title": "Avengers: Age of Ultron",
-          "character": "Tony Stark / Iron Man",
           "poster": "https://image.tmdb.org/t/p/w185/4ssDuvEDkSArWEdyBl2X5EHvYKU.jpg",
           "budget": 235000000,
           "gross": 1405403694
@@ -1305,7 +1173,6 @@
         {
           "year": 2016,
           "title": "Captain America: Civil War",
-          "character": "Tony Stark / Iron Man",
           "poster": "https://image.tmdb.org/t/p/w185/rAGiXaUfPzY7CDEyNKUofk3Kw2e.jpg",
           "budget": 250000000,
           "gross": 1155046416
@@ -1313,7 +1180,6 @@
         {
           "year": 2017,
           "title": "Spider-Man: Homecoming",
-          "character": "Tony Stark / Iron Man",
           "poster": "https://image.tmdb.org/t/p/w185/c24sv2weTHPsmDa7jEMN0m2P3RT.jpg",
           "budget": 175000000,
           "gross": 880978185
@@ -1321,7 +1187,6 @@
         {
           "year": 2018,
           "title": "Avengers: Infinity War",
-          "character": "Tony Stark / Iron Man",
           "poster": "https://image.tmdb.org/t/p/w185/7WsyChQLEftFiDOVTGkv3hFpyyt.jpg",
           "budget": 300000000,
           "gross": 2052415039
@@ -1329,7 +1194,6 @@
         {
           "year": 2019,
           "title": "Avengers: Endgame",
-          "character": "Tony Stark / Iron Man",
           "poster": "https://image.tmdb.org/t/p/w185/ulzhLuWrPK07P1YkdWQLZnQh1JL.jpg",
           "budget": 356000000,
           "gross": 2885439100
@@ -1337,7 +1201,6 @@
         {
           "year": 2023,
           "title": "Oppenheimer",
-          "character": "Lewis Strauss",
           "poster": "https://image.tmdb.org/t/p/w185/8Gxv8gSFCU0XGDykEGv7zR1n2ua.jpg",
           "budget": 100000000,
           "gross": 952000000
@@ -1365,7 +1228,6 @@
         {
           "year": 1994,
           "title": "Pulp Fiction",
-          "character": "Jules Winnfield",
           "poster": "https://image.tmdb.org/t/p/w185/vQWk5YBFWF4bZaofAbv0tShwBvQ.jpg",
           "budget": 8000000,
           "gross": 213928762
@@ -1373,7 +1235,6 @@
         {
           "year": 2004,
           "title": "The Incredibles",
-          "character": "Lucius Best / Frozone (voice)",
           "poster": "https://image.tmdb.org/t/p/w185/2LqaLgk4Z226KkgPJuiOQ58wvrm.jpg",
           "budget": 92000000,
           "gross": 631442092
@@ -1381,7 +1242,6 @@
         {
           "year": 2010,
           "title": "Iron Man 2",
-          "character": "Nick Fury",
           "poster": "https://image.tmdb.org/t/p/w185/6WBeq4fCfn7AN0o21W9qNcRF2l9.jpg",
           "budget": 200000000,
           "gross": 623933331
@@ -1389,7 +1249,6 @@
         {
           "year": 2012,
           "title": "Django Unchained",
-          "character": "Stephen",
           "poster": "https://image.tmdb.org/t/p/w185/7oWY8VDWW7thTzWh3OKYRkWUlD5.jpg",
           "budget": 100000000,
           "gross": 425368238
@@ -1397,7 +1256,6 @@
         {
           "year": 2012,
           "title": "The Avengers",
-          "character": "Nick Fury",
           "poster": "https://image.tmdb.org/t/p/w185/RYMX2wcKCBAr24UyPD7xwmjaTn.jpg",
           "budget": 220000000,
           "gross": 1518815515
@@ -1405,7 +1263,6 @@
         {
           "year": 2014,
           "title": "Captain America: The Winter Soldier",
-          "character": "Nick Fury",
           "poster": "https://image.tmdb.org/t/p/w185/tVFRpFw3xTedgPGqxW0AOI8Qhh0.jpg",
           "budget": 170000000,
           "gross": 714766572
@@ -1413,7 +1270,6 @@
         {
           "year": 2015,
           "title": "Avengers: Age of Ultron",
-          "character": "Nick Fury",
           "poster": "https://image.tmdb.org/t/p/w185/4ssDuvEDkSArWEdyBl2X5EHvYKU.jpg",
           "budget": 235000000,
           "gross": 1405403694
@@ -1421,7 +1277,6 @@
         {
           "year": 2018,
           "title": "Incredibles 2",
-          "character": "Lucius Best / Frozone (voice)",
           "poster": "https://image.tmdb.org/t/p/w185/9lFKBtaVIhP7E2Pk0IY1CwTKTMZ.jpg",
           "budget": 200000000,
           "gross": 1243225667
@@ -1429,7 +1284,6 @@
         {
           "year": 2019,
           "title": "Captain Marvel",
-          "character": "Nick Fury",
           "poster": "https://image.tmdb.org/t/p/w185/AtsgWhDnHTq68L0lLsUrCnM7TjG.jpg",
           "budget": 152000000,
           "gross": 1131416446
@@ -1437,7 +1291,6 @@
         {
           "year": 2019,
           "title": "Spider-Man: Far From Home",
-          "character": "Nick Fury",
           "poster": "https://image.tmdb.org/t/p/w185/4q2NNj4S5dG2RLF9CpXsej7yXl.jpg",
           "budget": 160000000,
           "gross": 1132723226
@@ -1462,7 +1315,6 @@
         {
           "year": 1994,
           "title": "Speed",
-          "character": "Annie Porter",
           "poster": "https://image.tmdb.org/t/p/w185/82PkCE4R95KhHICUDF7G4Ly2z3l.jpg",
           "budget": 30000000,
           "gross": 350448145
@@ -1470,7 +1322,6 @@
         {
           "year": 1995,
           "title": "The Net",
-          "character": "Angela Bennett",
           "poster": "https://image.tmdb.org/t/p/w185/dtupntUFMD5iXBo8HLfALt2ET4R.jpg",
           "budget": 22000000,
           "gross": 110627965
@@ -1478,7 +1329,6 @@
         {
           "year": 1995,
           "title": "While You Were Sleeping",
-          "character": "Lucy Moderatz",
           "poster": "https://image.tmdb.org/t/p/w185/qNGO3ETcNwlWqK2kNRpbJSJRlos.jpg",
           "budget": 17000000,
           "gross": 182100000
@@ -1486,7 +1336,6 @@
         {
           "year": 2000,
           "title": "Miss Congeniality",
-          "character": "Gracie Hart",
           "poster": "https://image.tmdb.org/t/p/w185/pat3vKaRlB70he4ghwTMydR4TvP.jpg",
           "budget": 45000000,
           "gross": 212000000
@@ -1494,7 +1343,6 @@
         {
           "year": 2009,
           "title": "The Blind Side",
-          "character": "Leigh Anne Tuohy",
           "poster": "https://image.tmdb.org/t/p/w185/PhpAdRopu0sOWf0BY7vVtxrRD3.jpg",
           "budget": 29000000,
           "gross": 309231694
@@ -1502,7 +1350,6 @@
         {
           "year": 2009,
           "title": "The Proposal",
-          "character": "Margaret Tate",
           "poster": "https://image.tmdb.org/t/p/w185/6stnAm1wSek8ZrislwK4xGTyCnt.jpg",
           "budget": 40000000,
           "gross": 317400000
@@ -1510,7 +1357,6 @@
         {
           "year": 2013,
           "title": "Gravity",
-          "character": "Dr. Ryan Stone",
           "poster": "https://image.tmdb.org/t/p/w185/kZ2nZw8D681aphje8NJi8EfbL1U.jpg",
           "budget": 105000000,
           "gross": 723192705
@@ -1518,7 +1364,6 @@
         {
           "year": 2013,
           "title": "The Heat",
-          "character": "Sarah Ashburn",
           "poster": "https://image.tmdb.org/t/p/w185/yERBa1y5zNUOTRKQPiDCPIc2fuv.jpg",
           "budget": 43000000,
           "gross": 229930771
@@ -1526,7 +1371,6 @@
         {
           "year": 2018,
           "title": "Ocean's Eight",
-          "character": "Debbie Ocean",
           "poster": "https://image.tmdb.org/t/p/w185/MvYpKlpFukTivnlBhizGbkAe3v.jpg",
           "budget": 70000000,
           "gross": 297718711
@@ -1534,7 +1378,6 @@
         {
           "year": 2022,
           "title": "The Lost City",
-          "character": "Loretta Sage",
           "poster": "https://image.tmdb.org/t/p/w185/rnheO8cFvCYcmZsDrBoabJbKLFE.jpg",
           "budget": 74000000,
           "gross": 192907684
@@ -1561,7 +1404,6 @@
         {
           "year": 2006,
           "title": "The Prestige",
-          "character": "Olivia Wenscombe",
           "poster": "https://image.tmdb.org/t/p/w185/Ag2B2KHKQPukjH7WutmgnnSNurZ.jpg",
           "budget": 40000000,
           "gross": 109676311
@@ -1569,7 +1411,6 @@
         {
           "year": 2010,
           "title": "Iron Man 2",
-          "character": "Natalie Rushman / Natasha Romanoff",
           "poster": "https://image.tmdb.org/t/p/w185/6WBeq4fCfn7AN0o21W9qNcRF2l9.jpg",
           "budget": 200000000,
           "gross": 623933331
@@ -1577,7 +1418,6 @@
         {
           "year": 2012,
           "title": "The Avengers",
-          "character": "Natasha Romanoff / Black Widow",
           "poster": "https://image.tmdb.org/t/p/w185/RYMX2wcKCBAr24UyPD7xwmjaTn.jpg",
           "budget": 220000000,
           "gross": 1518815515
@@ -1585,7 +1425,6 @@
         {
           "year": 2014,
           "title": "Captain America: The Winter Soldier",
-          "character": "Natasha Romanoff / Black Widow",
           "poster": "https://image.tmdb.org/t/p/w185/tVFRpFw3xTedgPGqxW0AOI8Qhh0.jpg",
           "budget": 170000000,
           "gross": 714766572
@@ -1593,7 +1432,6 @@
         {
           "year": 2015,
           "title": "Avengers: Age of Ultron",
-          "character": "Natasha Romanoff / Black Widow",
           "poster": "https://image.tmdb.org/t/p/w185/4ssDuvEDkSArWEdyBl2X5EHvYKU.jpg",
           "budget": 235000000,
           "gross": 1405403694
@@ -1601,7 +1439,6 @@
         {
           "year": 2016,
           "title": "Captain America: Civil War",
-          "character": "Natasha Romanoff / Black Widow",
           "poster": "https://image.tmdb.org/t/p/w185/rAGiXaUfPzY7CDEyNKUofk3Kw2e.jpg",
           "budget": 250000000,
           "gross": 1155046416
@@ -1609,7 +1446,6 @@
         {
           "year": 2016,
           "title": "Sing",
-          "character": "Ash (voice)",
           "poster": "https://image.tmdb.org/t/p/w185/rwopfpHqPCYBSgBuZwkaXXqHp14.jpg",
           "budget": 75000000,
           "gross": 634151679
@@ -1617,7 +1453,6 @@
         {
           "year": 2018,
           "title": "Avengers: Infinity War",
-          "character": "Natasha Romanoff / Black Widow",
           "poster": "https://image.tmdb.org/t/p/w185/7WsyChQLEftFiDOVTGkv3hFpyyt.jpg",
           "budget": 300000000,
           "gross": 2052415039
@@ -1625,7 +1460,6 @@
         {
           "year": 2019,
           "title": "Avengers: Endgame",
-          "character": "Natasha Romanoff / Black Widow",
           "poster": "https://image.tmdb.org/t/p/w185/ulzhLuWrPK07P1YkdWQLZnQh1JL.jpg",
           "budget": 356000000,
           "gross": 2885439100
@@ -1633,7 +1467,6 @@
         {
           "year": 2021,
           "title": "Black Widow",
-          "character": "Natasha Romanoff / Black Widow",
           "poster": "https://image.tmdb.org/t/p/w185/qAZ0pzat24kLdO3o8ejmbLxyOac.jpg",
           "budget": 200000000,
           "gross": 379751131
@@ -1658,7 +1491,6 @@
         {
           "year": 1986,
           "title": "Top Gun",
-          "character": "Maverick",
           "poster": "https://image.tmdb.org/t/p/w185/xUuHj3CgmZQ9P2cMaqQs4J0d4Zc.jpg",
           "budget": 15000000,
           "gross": 356830601
@@ -1666,7 +1498,6 @@
         {
           "year": 1996,
           "title": "Mission: Impossible",
-          "character": "Ethan Hunt",
           "poster": "https://image.tmdb.org/t/p/w185/l5uxY5m5OInWpcExIpKG6AR3rgL.jpg",
           "budget": 80000000,
           "gross": 457696391
@@ -1674,7 +1505,6 @@
         {
           "year": 1999,
           "title": "Eyes Wide Shut",
-          "character": "Dr. William Harford",
           "poster": "https://image.tmdb.org/t/p/w185/knEIz1eNGl5MQDbrEAVWA7iRqF9.jpg",
           "budget": 65000000,
           "gross": 162517900
@@ -1682,7 +1512,6 @@
         {
           "year": 2005,
           "title": "War of the Worlds",
-          "character": "Ray",
           "poster": "https://image.tmdb.org/t/p/w185/6Biy7R9LfumYshur3YKhpj56MpB.jpg",
           "budget": 132000000,
           "gross": 603873119
@@ -1690,7 +1519,6 @@
         {
           "year": 2011,
           "title": "Mission: Impossible - Ghost Protocol",
-          "character": "Ethan Hunt",
           "poster": "https://image.tmdb.org/t/p/w185/eRZTGx7GsiKqPch96k27LK005ZL.jpg",
           "budget": 145000000,
           "gross": 694713380
@@ -1698,7 +1526,6 @@
         {
           "year": 2012,
           "title": "Jack Reacher",
-          "character": "Jack Reacher",
           "poster": "https://image.tmdb.org/t/p/w185/uQBbjrLVsUibWxNDGA4Czzo8lwz.jpg",
           "budget": 60000000,
           "gross": 218300000
@@ -1706,7 +1533,6 @@
         {
           "year": 2014,
           "title": "Edge of Tomorrow",
-          "character": "Cage",
           "poster": "https://image.tmdb.org/t/p/w185/nBM9MMa2WCwvMG4IJ3eiGUdbPe6.jpg",
           "budget": 178000000,
           "gross": 370541256
@@ -1714,7 +1540,6 @@
         {
           "year": 2017,
           "title": "The Mummy",
-          "character": "Nick Morton",
           "poster": "https://image.tmdb.org/t/p/w185/zxkY8byBnCsXodEYpK8tmwEGXBI.jpg",
           "budget": 125000000,
           "gross": 409231607
@@ -1722,7 +1547,6 @@
         {
           "year": 2022,
           "title": "Top Gun: Maverick",
-          "character": "Capt. Pete 'Maverick' Mitchell",
           "poster": "https://image.tmdb.org/t/p/w185/n0YuM4f5lvGAP6MAW2kBIzugXnc.jpg",
           "budget": 170000000,
           "gross": 1488732821
@@ -1730,7 +1554,6 @@
         {
           "year": 2023,
           "title": "Mission: Impossible - Dead Reckoning Part One",
-          "character": "Ethan Hunt",
           "poster": "https://image.tmdb.org/t/p/w185/NNxYkU70HPurnNCSiCjYAmacwm.jpg",
           "budget": 220000000,
           "gross": 571125435
@@ -1757,7 +1580,6 @@
         {
           "year": 1994,
           "title": "Forrest Gump",
-          "character": "Forrest Gump",
           "poster": "https://image.tmdb.org/t/p/w185/Cw4hIUIAmSYfK9QfaUW5igp9La.jpg",
           "budget": 55000000,
           "gross": 677387716
@@ -1765,7 +1587,6 @@
         {
           "year": 1995,
           "title": "Toy Story",
-          "character": "Woody (voice)",
           "poster": "https://image.tmdb.org/t/p/w185/uXDfjJbdP4ijW5hWSBrPrlKpxab.jpg",
           "budget": 30000000,
           "gross": 401157969
@@ -1773,7 +1594,6 @@
         {
           "year": 1998,
           "title": "Saving Private Ryan",
-          "character": "Captain Miller",
           "poster": "https://image.tmdb.org/t/p/w185/uqx37cS8cpHg8U35f9U5IBlrCV3.jpg",
           "budget": 70000000,
           "gross": 481840909
@@ -1781,7 +1601,6 @@
         {
           "year": 1999,
           "title": "The Green Mile",
-          "character": "Paul Edgecomb",
           "poster": "https://image.tmdb.org/t/p/w185/8VG8fDNiy50H4FedGwdSVUPoaJe.jpg",
           "budget": 60000000,
           "gross": 286801374
@@ -1789,7 +1608,6 @@
         {
           "year": 1999,
           "title": "Toy Story 2",
-          "character": "Woody (voice)",
           "poster": "https://image.tmdb.org/t/p/w185/4rbcp3ng8n1MKHjpeqW0L7Fnpzz.jpg",
           "budget": 90000000,
           "gross": 497375404
@@ -1797,7 +1615,6 @@
         {
           "year": 2002,
           "title": "Catch Me If You Can",
-          "character": "Carl Hanratty",
           "poster": "https://image.tmdb.org/t/p/w185/ctjEj2xM32OvBXCq8zAdK3ZrsAj.jpg",
           "budget": 52000000,
           "gross": 352114312
@@ -1805,7 +1622,6 @@
         {
           "year": 2006,
           "title": "The Da Vinci Code",
-          "character": "Robert Langdon",
           "poster": "https://image.tmdb.org/t/p/w185/9ejKfNk0LBhSI9AahH4f9NJNZNM.jpg",
           "budget": 125000000,
           "gross": 760006945
@@ -1813,7 +1629,6 @@
         {
           "year": 2009,
           "title": "Angels & Demons",
-          "character": "Robert Langdon",
           "poster": "https://image.tmdb.org/t/p/w185/tFZQAuulEOtFTp0gHbVdEXwGrYe.jpg",
           "budget": 150000000,
           "gross": 485930816
@@ -1821,7 +1636,6 @@
         {
           "year": 2010,
           "title": "Toy Story 3",
-          "character": "Woody (voice)",
           "poster": "https://image.tmdb.org/t/p/w185/AbbXspMOwdvwWZgVN0nabZq03Ec.jpg",
           "budget": 200000000,
           "gross": 1067316101
@@ -1829,7 +1643,6 @@
         {
           "year": 2019,
           "title": "Toy Story 4",
-          "character": "Woody (voice)",
           "poster": "https://image.tmdb.org/t/p/w185/w9kR8qbmQ01HwnvK4alvnQ2ca0L.jpg",
           "budget": 175000000,
           "gross": 1073841394
@@ -1854,7 +1667,6 @@
         {
           "year": 1995,
           "title": "Bad Boys",
-          "character": "Mike Lowrey",
           "poster": "https://image.tmdb.org/t/p/w185/x1ygBecKHfXX4M2kRhmFKWfWbJc.jpg",
           "budget": 19000000,
           "gross": 141407024
@@ -1862,7 +1674,6 @@
         {
           "year": 1996,
           "title": "Independence Day",
-          "character": "Capt. Steven Hiller",
           "poster": "https://image.tmdb.org/t/p/w185/p0BPQGSPoSa8Ml0DAf2mB2kCU0R.jpg",
           "budget": 75000000,
           "gross": 817400891
@@ -1870,7 +1681,6 @@
         {
           "year": 1997,
           "title": "Men in Black",
-          "character": "Jay",
           "poster": "https://image.tmdb.org/t/p/w185/uLOmOF5IzWoyrgIF5MfUnh5pa1X.jpg",
           "budget": 90000000,
           "gross": 589390539
@@ -1878,7 +1688,6 @@
         {
           "year": 2002,
           "title": "Men in Black II",
-          "character": "Jay",
           "poster": "https://image.tmdb.org/t/p/w185/enA22EPyzc2WQ1VVyY7zxresQQr.jpg",
           "budget": 140000000,
           "gross": 445135288
@@ -1886,7 +1695,6 @@
         {
           "year": 2004,
           "title": "I, Robot",
-          "character": "Del Spooner",
           "poster": "https://image.tmdb.org/t/p/w185/efwv6F2lGaghjPpBRSINHtoEiZB.jpg",
           "budget": 120000000,
           "gross": 347234916
@@ -1894,7 +1702,6 @@
         {
           "year": 2004,
           "title": "Shark Tale",
-          "character": "Oscar (voice)",
           "poster": "https://image.tmdb.org/t/p/w185/r08DpyPyhXcJTfNZAICNGMzcQ8l.jpg",
           "budget": 75000000,
           "gross": 367300000
@@ -1902,7 +1709,6 @@
         {
           "year": 2006,
           "title": "The Pursuit of Happyness",
-          "character": "Chris Gardner",
           "poster": "https://image.tmdb.org/t/p/w185/lBYOKAMcxIvuk9s9hMuecB9dPBV.jpg",
           "budget": 55000000,
           "gross": 307077295
@@ -1910,7 +1716,6 @@
         {
           "year": 2007,
           "title": "I Am Legend",
-          "character": "Robert Neville",
           "poster": "https://image.tmdb.org/t/p/w185/iPDkaSdKk2jRLTM65UOEoKtsIZ8.jpg",
           "budget": 150000000,
           "gross": 585410052
@@ -1918,7 +1723,6 @@
         {
           "year": 2016,
           "title": "Suicide Squad",
-          "character": "Deadshot",
           "poster": "https://image.tmdb.org/t/p/w185/sk3FZgh3sRrmr8vyhaitNobMcfh.jpg",
           "budget": 175000000,
           "gross": 749200054
@@ -1926,7 +1730,6 @@
         {
           "year": 2020,
           "title": "Bad Boys for Life",
-          "character": "Mike",
           "poster": "https://image.tmdb.org/t/p/w185/y95lQLnuNKdPAzw9F9Ab8kJ80c3.jpg",
           "budget": 90000000,
           "gross": 426505244
@@ -1951,7 +1754,6 @@
         {
           "year": 2002,
           "title": "Catch Me If You Can",
-          "character": "Brenda Strong",
           "poster": "https://image.tmdb.org/t/p/w185/ctjEj2xM32OvBXCq8zAdK3ZrsAj.jpg",
           "budget": 52000000,
           "gross": 352114312
@@ -1959,7 +1761,6 @@
         {
           "year": 2007,
           "title": "Enchanted",
-          "character": "Giselle",
           "poster": "https://image.tmdb.org/t/p/w185/8KCNzCArLlvLdQoHx6npua2VSVc.jpg",
           "budget": 85000000,
           "gross": 340487652
@@ -1967,7 +1768,6 @@
         {
           "year": 2009,
           "title": "Night at the Museum: Battle of the Smithsonian",
-          "character": "Amelia Earhart / Tess",
           "poster": "https://image.tmdb.org/t/p/w185/l9yAQn6TyrA3gv5xZZkiMMoZsiw.jpg",
           "budget": 150000000,
           "gross": 413106170
@@ -1975,7 +1775,6 @@
         {
           "year": 2013,
           "title": "American Hustle",
-          "character": "Sydney Prosser",
           "poster": "https://image.tmdb.org/t/p/w185/z6O1KDhfWDTm5ZBr6Ovr0eg8LqO.jpg",
           "budget": 40000000,
           "gross": 251171807
@@ -1983,7 +1782,6 @@
         {
           "year": 2013,
           "title": "Her",
-          "character": "Amy",
           "poster": "https://image.tmdb.org/t/p/w185/eCOtqtfvn7mxGl6nfmq4b1exJRc.jpg",
           "budget": 23000000,
           "gross": 47351251
@@ -1991,7 +1789,6 @@
         {
           "year": 2013,
           "title": "Man of Steel",
-          "character": "Lois Lane",
           "poster": "https://image.tmdb.org/t/p/w185/8GFtkImmK0K1VaUChR0n9O61CFU.jpg",
           "budget": 225000000,
           "gross": 668045518
@@ -1999,7 +1796,6 @@
         {
           "year": 2016,
           "title": "Arrival",
-          "character": "Louise Banks",
           "poster": "https://image.tmdb.org/t/p/w185/pEzNVQfdzYDzVK0XqxERIw2x2se.jpg",
           "budget": 47000000,
           "gross": 203388186
@@ -2007,7 +1803,6 @@
         {
           "year": 2016,
           "title": "Batman v Superman: Dawn of Justice",
-          "character": "Lois",
           "poster": "https://image.tmdb.org/t/p/w185/5UsK3grJvtQrtzEgqNlDljJW96w.jpg",
           "budget": 250000000,
           "gross": 874362803
@@ -2015,7 +1810,6 @@
         {
           "year": 2016,
           "title": "Nocturnal Animals",
-          "character": "Susan Morrow",
           "poster": "https://image.tmdb.org/t/p/w185/mdLDgQBD0va09npSQX5Zgo2evXM.jpg",
           "budget": 22500000,
           "gross": 29300000
@@ -2023,7 +1817,6 @@
         {
           "year": 2017,
           "title": "Justice League",
-          "character": "Lois Lane",
           "poster": "https://image.tmdb.org/t/p/w185/eifGNCSDuxJeS1loAXil5bIGgvC.jpg",
           "budget": 300000000,
           "gross": 661326987
@@ -2048,7 +1841,6 @@
         {
           "year": 2001,
           "title": "The Princess Diaries",
-          "character": "Mia Thermopolis",
           "poster": "https://image.tmdb.org/t/p/w185/7axhsbEzFan6HQQ1aMOy7w3CFRx.jpg",
           "budget": 37000000,
           "gross": 165335153
@@ -2056,7 +1848,6 @@
         {
           "year": 2005,
           "title": "Brokeback Mountain",
-          "character": "Lureen Newsome",
           "poster": "https://image.tmdb.org/t/p/w185/aByfQOQBNa4CMFwIgq3QrqY2ZHh.jpg",
           "budget": 14000000,
           "gross": 178043761
@@ -2064,7 +1855,6 @@
         {
           "year": 2006,
           "title": "The Devil Wears Prada",
-          "character": "Andy Sachs",
           "poster": "https://image.tmdb.org/t/p/w185/8912AsVuS7Sj915apArUFbv6F9L.jpg",
           "budget": 35000000,
           "gross": 326588371
@@ -2072,7 +1862,6 @@
         {
           "year": 2010,
           "title": "Alice in Wonderland",
-          "character": "Mirana / White Queen",
           "poster": "https://image.tmdb.org/t/p/w185/o0kre9wRCZz3jjSjaru7QU0UtFz.jpg",
           "budget": 200000000,
           "gross": 1025467110
@@ -2080,7 +1869,6 @@
         {
           "year": 2010,
           "title": "Love & Other Drugs",
-          "character": "Maggie Murdock",
           "poster": "https://image.tmdb.org/t/p/w185/wZLM2uKJRYNchLmiCIjosX0rXy8.jpg",
           "budget": 30000000,
           "gross": 102800000
@@ -2088,7 +1876,6 @@
         {
           "year": 2012,
           "title": "The Dark Knight Rises",
-          "character": "Selina",
           "poster": "https://image.tmdb.org/t/p/w185/hr0L2aueqlP2BYUblTTjmtn0hw4.jpg",
           "budget": 250000000,
           "gross": 1081041287
@@ -2096,7 +1883,6 @@
         {
           "year": 2014,
           "title": "Interstellar",
-          "character": "Brand",
           "poster": "https://image.tmdb.org/t/p/w185/yQvGrMoipbRoddT0ZR8tPoR7NfX.jpg",
           "budget": 165000000,
           "gross": 746606706
@@ -2104,7 +1890,6 @@
         {
           "year": 2015,
           "title": "The Intern",
-          "character": "Jules Ostin",
           "poster": "https://image.tmdb.org/t/p/w185/slAaLd8ar2JW8RFrfyIjEQR49OT.jpg",
           "budget": 35000000,
           "gross": 194564672
@@ -2112,7 +1897,6 @@
         {
           "year": 2016,
           "title": "Alice Through the Looking Glass",
-          "character": "Mirana / White Queen",
           "poster": "https://image.tmdb.org/t/p/w185/kbGamUkYfgKIYIrU8kW5oc0NatZ.jpg",
           "budget": 170000000,
           "gross": 299457024
@@ -2120,7 +1904,6 @@
         {
           "year": 2018,
           "title": "Ocean's Eight",
-          "character": "Daphne Kluger",
           "poster": "https://image.tmdb.org/t/p/w185/MvYpKlpFukTivnlBhizGbkAe3v.jpg",
           "budget": 70000000,
           "gross": 297718711
@@ -2145,7 +1928,6 @@
         {
           "year": 1997,
           "title": "The Devil's Advocate",
-          "character": "Mary Ann Lomax",
           "poster": "https://image.tmdb.org/t/p/w185/5ZzBGpxy55OQzHxKVY11IpY6a0o.jpg",
           "budget": 57000000,
           "gross": 153000000
@@ -2153,7 +1935,6 @@
         {
           "year": 2003,
           "title": "The Italian Job",
-          "character": "Stella Bridger",
           "poster": "https://image.tmdb.org/t/p/w185/eSkjK4kctyrWpFhxl35GPvSs6tI.jpg",
           "budget": 60000000,
           "gross": 176070171
@@ -2161,7 +1942,6 @@
         {
           "year": 2008,
           "title": "Hancock",
-          "character": "Mary",
           "poster": "https://image.tmdb.org/t/p/w185/7DyuV2G0hLEqHeueDfOqhZ2DVut.jpg",
           "budget": 150000000,
           "gross": 629400000
@@ -2169,7 +1949,6 @@
         {
           "year": 2012,
           "title": "Prometheus",
-          "character": "Meredith Vickers",
           "poster": "https://image.tmdb.org/t/p/w185/qsYQflQhOuhDpQ0W2aOcwqgDAeI.jpg",
           "budget": 130000000,
           "gross": 403354469
@@ -2177,7 +1956,6 @@
         {
           "year": 2012,
           "title": "Snow White and the Huntsman",
-          "character": "Queen Ravenna",
           "poster": "https://image.tmdb.org/t/p/w185/8HUa5kRubYbnAD5UVpnhTGGgMTW.jpg",
           "budget": 170000000,
           "gross": 396600000
@@ -2185,7 +1963,6 @@
         {
           "year": 2015,
           "title": "Mad Max: Fury Road",
-          "character": "Imperator Furiosa",
           "poster": "https://image.tmdb.org/t/p/w185/ulcAi4dKpAjHwYGS08vNyx9H6I9.jpg",
           "budget": 150000000,
           "gross": 378858340
@@ -2193,7 +1970,6 @@
         {
           "year": 2017,
           "title": "Atomic Blonde",
-          "character": "Lorraine Broughton",
           "poster": "https://image.tmdb.org/t/p/w185/kV9R5h0Yct1kR8Hf8sJ1nX0Vz4x.jpg",
           "budget": 30000000,
           "gross": 100014025
@@ -2201,7 +1977,6 @@
         {
           "year": 2017,
           "title": "The Fate of the Furious",
-          "character": "Cipher",
           "poster": "https://image.tmdb.org/t/p/w185/dImWM7GJqryWJO9LHa3XQ8DD5NH.jpg",
           "budget": 250000000,
           "gross": 1236000000
@@ -2209,7 +1984,6 @@
         {
           "year": 2022,
           "title": "Doctor Strange in the Multiverse of Madness",
-          "character": "Clea",
           "poster": "https://image.tmdb.org/t/p/w185/ddJcSKbcp4rKZTmuyWaMhuwcfMz.jpg",
           "budget": 295400000,
           "gross": 955775804
@@ -2217,7 +1991,6 @@
         {
           "year": 2023,
           "title": "Fast X",
-          "character": "Cipher",
           "poster": "https://image.tmdb.org/t/p/w185/fiVW06jE7z9YnO4trhaMEdclSiC.jpg",
           "budget": 340000000,
           "gross": 704709660
@@ -2242,7 +2015,6 @@
         {
           "year": 2011,
           "title": "Captain America: The First Avenger",
-          "character": "Captain America / Steve Rogers",
           "poster": "https://image.tmdb.org/t/p/w185/vSNxAJTlD0r02V9sPYpOjqDZXUK.jpg",
           "budget": 140000000,
           "gross": 370569774
@@ -2250,7 +2022,6 @@
         {
           "year": 2012,
           "title": "The Avengers",
-          "character": "Steve Rogers / Captain America",
           "poster": "https://image.tmdb.org/t/p/w185/RYMX2wcKCBAr24UyPD7xwmjaTn.jpg",
           "budget": 220000000,
           "gross": 1518815515
@@ -2258,7 +2029,6 @@
         {
           "year": 2013,
           "title": "Snowpiercer",
-          "character": "Curtis",
           "poster": "https://image.tmdb.org/t/p/w185/kw6YQudA0TMcNmGUGy5XIw7zbnV.jpg",
           "budget": 39200000,
           "gross": 86758912
@@ -2266,7 +2036,6 @@
         {
           "year": 2014,
           "title": "Captain America: The Winter Soldier",
-          "character": "Steve Rogers / Captain America",
           "poster": "https://image.tmdb.org/t/p/w185/tVFRpFw3xTedgPGqxW0AOI8Qhh0.jpg",
           "budget": 170000000,
           "gross": 714766572
@@ -2274,7 +2043,6 @@
         {
           "year": 2015,
           "title": "Avengers: Age of Ultron",
-          "character": "Steve Rogers / Captain America",
           "poster": "https://image.tmdb.org/t/p/w185/4ssDuvEDkSArWEdyBl2X5EHvYKU.jpg",
           "budget": 235000000,
           "gross": 1405403694
@@ -2282,7 +2050,6 @@
         {
           "year": 2016,
           "title": "Captain America: Civil War",
-          "character": "Steve Rogers / Captain America",
           "poster": "https://image.tmdb.org/t/p/w185/rAGiXaUfPzY7CDEyNKUofk3Kw2e.jpg",
           "budget": 250000000,
           "gross": 1155046416
@@ -2290,7 +2057,6 @@
         {
           "year": 2018,
           "title": "Avengers: Infinity War",
-          "character": "Steve Rogers / Captain America",
           "poster": "https://image.tmdb.org/t/p/w185/7WsyChQLEftFiDOVTGkv3hFpyyt.jpg",
           "budget": 300000000,
           "gross": 2052415039
@@ -2298,7 +2064,6 @@
         {
           "year": 2019,
           "title": "Avengers: Endgame",
-          "character": "Steve Rogers / Captain America",
           "poster": "https://image.tmdb.org/t/p/w185/ulzhLuWrPK07P1YkdWQLZnQh1JL.jpg",
           "budget": 356000000,
           "gross": 2885439100
@@ -2306,7 +2071,6 @@
         {
           "year": 2019,
           "title": "Knives Out",
-          "character": "Ransom Drysdale",
           "poster": "https://image.tmdb.org/t/p/w185/pThyQovXQrw2m0s9x82twj48Jq4.jpg",
           "budget": 40000000,
           "gross": 312897920
@@ -2314,7 +2078,6 @@
         {
           "year": 2024,
           "title": "Deadpool & Wolverine",
-          "character": "Johnny Storm",
           "poster": "https://image.tmdb.org/t/p/w185/8cdWjvZQUExUUTzyp4t6EDMubfO.jpg",
           "budget": 200000000,
           "gross": 1338073645
@@ -2339,7 +2102,6 @@
         {
           "year": 2009,
           "title": "Star Trek",
-          "character": "Commander George Kirk",
           "poster": "https://image.tmdb.org/t/p/w185/lV5OpzAss1z06YNagOVap1I35mH.jpg",
           "budget": 150000000,
           "gross": 386839614
@@ -2347,7 +2109,6 @@
         {
           "year": 2011,
           "title": "Thor",
-          "character": "Thor",
           "poster": "https://image.tmdb.org/t/p/w185/prSfAi1xGrhLQNxVSUFh61xQ4Qy.jpg",
           "budget": 150000000,
           "gross": 449326618
@@ -2355,7 +2116,6 @@
         {
           "year": 2012,
           "title": "The Avengers",
-          "character": "Thor",
           "poster": "https://image.tmdb.org/t/p/w185/RYMX2wcKCBAr24UyPD7xwmjaTn.jpg",
           "budget": 220000000,
           "gross": 1518815515
@@ -2363,7 +2123,6 @@
         {
           "year": 2013,
           "title": "Thor: The Dark World",
-          "character": "Thor",
           "poster": "https://image.tmdb.org/t/p/w185/wp6OxE4poJ4G7c0U2ZIXasTSMR7.jpg",
           "budget": 170000000,
           "gross": 644783140
@@ -2371,7 +2130,6 @@
         {
           "year": 2015,
           "title": "Avengers: Age of Ultron",
-          "character": "Thor",
           "poster": "https://image.tmdb.org/t/p/w185/4ssDuvEDkSArWEdyBl2X5EHvYKU.jpg",
           "budget": 235000000,
           "gross": 1405403694
@@ -2379,7 +2137,6 @@
         {
           "year": 2017,
           "title": "Thor: Ragnarok",
-          "character": "Thor",
           "poster": "https://image.tmdb.org/t/p/w185/rzRwTcFvttcN1ZpX2xv4j3tSdJu.jpg",
           "budget": 180000000,
           "gross": 855301806
@@ -2387,7 +2144,6 @@
         {
           "year": 2018,
           "title": "Avengers: Infinity War",
-          "character": "Thor",
           "poster": "https://image.tmdb.org/t/p/w185/7WsyChQLEftFiDOVTGkv3hFpyyt.jpg",
           "budget": 300000000,
           "gross": 2052415039
@@ -2395,7 +2151,6 @@
         {
           "year": 2019,
           "title": "Avengers: Endgame",
-          "character": "Thor",
           "poster": "https://image.tmdb.org/t/p/w185/ulzhLuWrPK07P1YkdWQLZnQh1JL.jpg",
           "budget": 356000000,
           "gross": 2885439100
@@ -2403,7 +2158,6 @@
         {
           "year": 2022,
           "title": "Thor: Love and Thunder",
-          "character": "Thor",
           "poster": "https://image.tmdb.org/t/p/w185/pIkRyD18kl4FhoCNQuWxWu5cBLM.jpg",
           "budget": 250000000,
           "gross": 760928081
@@ -2411,7 +2165,6 @@
         {
           "year": 2024,
           "title": "Furiosa: A Mad Max Saga",
-          "character": "Dementus",
           "poster": "https://image.tmdb.org/t/p/w185/iADOJ8Zymht2JPMoy3R7xceZprc.jpg",
           "budget": 168000000,
           "gross": 174287546
@@ -2436,7 +2189,6 @@
         {
           "year": 2000,
           "title": "American Psycho",
-          "character": "Patrick Bateman",
           "poster": "https://image.tmdb.org/t/p/w185/9uGHEgsiUXjCNq8wdq4r49YL8A1.jpg",
           "budget": 7000000,
           "gross": 34269748
@@ -2444,7 +2196,6 @@
         {
           "year": 2005,
           "title": "Batman Begins",
-          "character": "Bruce Wayne / Batman",
           "poster": "https://image.tmdb.org/t/p/w185/sPX89Td70IDDjVr85jdSBb4rWGr.jpg",
           "budget": 150000000,
           "gross": 374218673
@@ -2452,7 +2203,6 @@
         {
           "year": 2006,
           "title": "The Prestige",
-          "character": "Alfred Borden",
           "poster": "https://image.tmdb.org/t/p/w185/Ag2B2KHKQPukjH7WutmgnnSNurZ.jpg",
           "budget": 40000000,
           "gross": 109676311
@@ -2460,7 +2210,6 @@
         {
           "year": 2008,
           "title": "The Dark Knight",
-          "character": "Bruce Wayne",
           "poster": "https://image.tmdb.org/t/p/w185/qJ2tW6WMUDux911r6m7haRef0WH.jpg",
           "budget": 185000000,
           "gross": 1004558444
@@ -2468,7 +2217,6 @@
         {
           "year": 2009,
           "title": "Terminator Salvation",
-          "character": "John Connor",
           "poster": "https://image.tmdb.org/t/p/w185/gw6JhlekZgtKUFlDTezq3j5JEPK.jpg",
           "budget": 200000000,
           "gross": 371353001
@@ -2476,7 +2224,6 @@
         {
           "year": 2012,
           "title": "The Dark Knight Rises",
-          "character": "Bruce Wayne",
           "poster": "https://image.tmdb.org/t/p/w185/hr0L2aueqlP2BYUblTTjmtn0hw4.jpg",
           "budget": 250000000,
           "gross": 1081041287
@@ -2484,7 +2231,6 @@
         {
           "year": 2013,
           "title": "American Hustle",
-          "character": "Irving Rosenfeld",
           "poster": "https://image.tmdb.org/t/p/w185/z6O1KDhfWDTm5ZBr6Ovr0eg8LqO.jpg",
           "budget": 40000000,
           "gross": 251171807
@@ -2492,7 +2238,6 @@
         {
           "year": 2015,
           "title": "The Big Short",
-          "character": "Michael Burry",
           "poster": "https://image.tmdb.org/t/p/w185/scVEaJEwP8zUix8vgmMoJJ9Nq0w.jpg",
           "budget": 28000000,
           "gross": 133346506
@@ -2500,7 +2245,6 @@
         {
           "year": 2019,
           "title": "Ford v Ferrari",
-          "character": "Ken Miles",
           "poster": "https://image.tmdb.org/t/p/w185/dR1Ju50iudrOh3YgfwkAU1g2HZe.jpg",
           "budget": 97600000,
           "gross": 225508210
@@ -2508,7 +2252,6 @@
         {
           "year": 2022,
           "title": "Thor: Love and Thunder",
-          "character": "Gorr",
           "poster": "https://image.tmdb.org/t/p/w185/pIkRyD18kl4FhoCNQuWxWu5cBLM.jpg",
           "budget": 250000000,
           "gross": 760928081
@@ -2533,7 +2276,6 @@
         {
           "year": 2006,
           "title": "The Devil Wears Prada",
-          "character": "Emily",
           "poster": "https://image.tmdb.org/t/p/w185/8912AsVuS7Sj915apArUFbv6F9L.jpg",
           "budget": 35000000,
           "gross": 326588371
@@ -2541,7 +2283,6 @@
         {
           "year": 2011,
           "title": "The Adjustment Bureau",
-          "character": "Elise Sellas",
           "poster": "https://image.tmdb.org/t/p/w185/5ZzeR8iz1nEFLp94OBnbakLZawo.jpg",
           "budget": 50200000,
           "gross": 127900000
@@ -2549,7 +2290,6 @@
         {
           "year": 2012,
           "title": "Looper",
-          "character": "Sara",
           "poster": "https://image.tmdb.org/t/p/w185/sNjL6SqErDBE8OUZlrDLkexfsCj.jpg",
           "budget": 30000000,
           "gross": 47042000
@@ -2557,7 +2297,6 @@
         {
           "year": 2014,
           "title": "Edge of Tomorrow",
-          "character": "Rita",
           "poster": "https://image.tmdb.org/t/p/w185/nBM9MMa2WCwvMG4IJ3eiGUdbPe6.jpg",
           "budget": 178000000,
           "gross": 370541256
@@ -2565,7 +2304,6 @@
         {
           "year": 2015,
           "title": "Sicario",
-          "character": "Kate Macer",
           "poster": "https://image.tmdb.org/t/p/w185/lz8vNyXeidqqOdJW9ZjnDAMb5Vr.jpg",
           "budget": 30000000,
           "gross": 84997446
@@ -2573,7 +2311,6 @@
         {
           "year": 2016,
           "title": "The Girl on the Train",
-          "character": "Rachel Watson",
           "poster": "https://image.tmdb.org/t/p/w185/AhTO2QWG0tug7yDoh0XoaMhPt3J.jpg",
           "budget": 45000000,
           "gross": 173200000
@@ -2581,7 +2318,6 @@
         {
           "year": 2018,
           "title": "A Quiet Place",
-          "character": "Evelyn Abbott",
           "poster": "https://image.tmdb.org/t/p/w185/nAU74GmpUk7t5iklEp3bufwDq4n.jpg",
           "budget": 17000000,
           "gross": 340955294
@@ -2589,7 +2325,6 @@
         {
           "year": 2021,
           "title": "A Quiet Place Part II",
-          "character": "Evelyn Abbott",
           "poster": "https://image.tmdb.org/t/p/w185/4q2hz2m8hubgvijz8Ez0T2Os2Yv.jpg",
           "budget": 55000000,
           "gross": 297372261
@@ -2597,7 +2332,6 @@
         {
           "year": 2021,
           "title": "Jungle Cruise",
-          "character": "Dr. Lily Houghton",
           "poster": "https://image.tmdb.org/t/p/w185/yKy9ELL8CON5sqDg4yIvBb5LTZL.jpg",
           "budget": 200000000,
           "gross": 220889446
@@ -2605,7 +2339,6 @@
         {
           "year": 2023,
           "title": "Oppenheimer",
-          "character": "Kitty Oppenheimer",
           "poster": "https://image.tmdb.org/t/p/w185/8Gxv8gSFCU0XGDykEGv7zR1n2ua.jpg",
           "budget": 100000000,
           "gross": 952000000
@@ -2630,7 +2363,6 @@
         {
           "year": 2007,
           "title": "Superbad",
-          "character": "Jules",
           "poster": "https://image.tmdb.org/t/p/w185/ek8e8txUyUwd2BNqj6lFEerJfbq.jpg",
           "budget": 20000000,
           "gross": 170800000
@@ -2638,7 +2370,6 @@
         {
           "year": 2011,
           "title": "Crazy, Stupid, Love.",
-          "character": "Hannah",
           "poster": "https://image.tmdb.org/t/p/w185/p4RafgAPk558muOjnBMHhMArjS2.jpg",
           "budget": 50000000,
           "gross": 145079584
@@ -2646,7 +2377,6 @@
         {
           "year": 2011,
           "title": "The Help",
-          "character": "Skeeter Phelan",
           "poster": "https://image.tmdb.org/t/p/w185/3kmfoWWEc9Vtyuaf9v5VipRgdjx.jpg",
           "budget": 25000000,
           "gross": 216600000
@@ -2654,7 +2384,6 @@
         {
           "year": 2012,
           "title": "The Amazing Spider-Man",
-          "character": "Gwen Stacy",
           "poster": "https://image.tmdb.org/t/p/w185/jexoNYnPd6vVrmygwF6QZmWPFdu.jpg",
           "budget": 215000000,
           "gross": 758725893
@@ -2662,7 +2391,6 @@
         {
           "year": 2013,
           "title": "The Croods",
-          "character": "Eep (voice)",
           "poster": "https://image.tmdb.org/t/p/w185/27zvjVOtOi5ped1HSlJKNsKXkFH.jpg",
           "budget": 135000000,
           "gross": 587204668
@@ -2670,7 +2398,6 @@
         {
           "year": 2014,
           "title": "Birdman or (The Unexpected Virtue of Ignorance)",
-          "character": "Sam",
           "poster": "https://image.tmdb.org/t/p/w185/rHUg2AuIuLSIYMYFgavVwqt1jtc.jpg",
           "budget": 18000000,
           "gross": 103215094
@@ -2678,7 +2405,6 @@
         {
           "year": 2014,
           "title": "The Amazing Spider-Man 2",
-          "character": "Gwen Stacy",
           "poster": "https://image.tmdb.org/t/p/w185/bU7nTmvmy0h3VUP01v1T2imgH6N.jpg",
           "budget": 200000000,
           "gross": 716934779
@@ -2686,7 +2412,6 @@
         {
           "year": 2016,
           "title": "La La Land",
-          "character": "Mia",
           "poster": "https://image.tmdb.org/t/p/w185/uDO8zWDhfWwoFdKS4fzkUJt0Rf0.jpg",
           "budget": 30000000,
           "gross": 509183536
@@ -2694,7 +2419,6 @@
         {
           "year": 2021,
           "title": "Cruella",
-          "character": "Estella / Cruella",
           "poster": "https://image.tmdb.org/t/p/w185/hjS9mH8KvRiGHgjk6VUZH7OT0Ng.jpg",
           "budget": 200000000,
           "gross": 233503234
@@ -2702,7 +2426,6 @@
         {
           "year": 2023,
           "title": "Poor Things",
-          "character": "Bella Baxter",
           "poster": "https://image.tmdb.org/t/p/w185/kCGlIMHnOm8JPXq3rXM6c5wMxcT.jpg",
           "budget": 35000000,
           "gross": 117607117
@@ -2727,7 +2450,6 @@
         {
           "year": 2011,
           "title": "Thor",
-          "character": "Heimdall",
           "poster": "https://image.tmdb.org/t/p/w185/prSfAi1xGrhLQNxVSUFh61xQ4Qy.jpg",
           "budget": 150000000,
           "gross": 449326618
@@ -2735,7 +2457,6 @@
         {
           "year": 2013,
           "title": "Pacific Rim",
-          "character": "Stacker Pentecost",
           "poster": "https://image.tmdb.org/t/p/w185/8wo4eN8dWKaKlxhSvBz19uvj8gA.jpg",
           "budget": 180000000,
           "gross": 411000000
@@ -2743,7 +2464,6 @@
         {
           "year": 2013,
           "title": "Thor: The Dark World",
-          "character": "Heimdall",
           "poster": "https://image.tmdb.org/t/p/w185/wp6OxE4poJ4G7c0U2ZIXasTSMR7.jpg",
           "budget": 170000000,
           "gross": 644783140
@@ -2751,7 +2471,6 @@
         {
           "year": 2015,
           "title": "Avengers: Age of Ultron",
-          "character": "Heimdall",
           "poster": "https://image.tmdb.org/t/p/w185/4ssDuvEDkSArWEdyBl2X5EHvYKU.jpg",
           "budget": 235000000,
           "gross": 1405403694
@@ -2759,7 +2478,6 @@
         {
           "year": 2016,
           "title": "Zootopia",
-          "character": "Chief Bogo (voice)",
           "poster": "https://image.tmdb.org/t/p/w185/hlK0e0wAQ3VLuJcsfIYPvb4JVud.jpg",
           "budget": 150000000,
           "gross": 1025521689
@@ -2767,7 +2485,6 @@
         {
           "year": 2017,
           "title": "Thor: Ragnarok",
-          "character": "Heimdall",
           "poster": "https://image.tmdb.org/t/p/w185/rzRwTcFvttcN1ZpX2xv4j3tSdJu.jpg",
           "budget": 180000000,
           "gross": 855301806
@@ -2775,7 +2492,6 @@
         {
           "year": 2018,
           "title": "Avengers: Infinity War",
-          "character": "Heimdall",
           "poster": "https://image.tmdb.org/t/p/w185/7WsyChQLEftFiDOVTGkv3hFpyyt.jpg",
           "budget": 300000000,
           "gross": 2052415039
@@ -2783,7 +2499,6 @@
         {
           "year": 2019,
           "title": "Fast & Furious Presents: Hobbs & Shaw",
-          "character": "Brixton",
           "poster": "https://image.tmdb.org/t/p/w185/qRyy2UmjC5ur9bDi3kpNNRCc5nc.jpg",
           "budget": 200000000,
           "gross": 760098996
@@ -2791,7 +2506,6 @@
         {
           "year": 2021,
           "title": "The Suicide Squad",
-          "character": "Bloodsport",
           "poster": "https://image.tmdb.org/t/p/w185/q61qEyssk2ku3okWICKArlAdhBn.jpg",
           "budget": 185000000,
           "gross": 168717425
@@ -2799,7 +2513,6 @@
         {
           "year": 2022,
           "title": "Thor: Love and Thunder",
-          "character": "Heimdall",
           "poster": "https://image.tmdb.org/t/p/w185/pIkRyD18kl4FhoCNQuWxWu5cBLM.jpg",
           "budget": 250000000,
           "gross": 760928081
@@ -2824,7 +2537,6 @@
         {
           "year": 2000,
           "title": "Before Night Falls",
-          "character": "Reinaldo Arenas",
           "poster": "https://image.tmdb.org/t/p/w185/kb2dqj73cfmt6qHAh1ySIlVm6v0.jpg",
           "budget": 8000000,
           "gross": 8524534
@@ -2832,7 +2544,6 @@
         {
           "year": 2004,
           "title": "The Sea Inside",
-          "character": "Ramón Sampedro",
           "poster": "https://image.tmdb.org/t/p/w185/mQW1JJKCUg02cmWBzr9JFu9vM1V.jpg",
           "budget": 12806000,
           "gross": 43731621
@@ -2840,7 +2551,6 @@
         {
           "year": 2007,
           "title": "No Country for Old Men",
-          "character": "Anton Chigurh",
           "poster": "https://image.tmdb.org/t/p/w185/6d5XOczc226jECq0LIX0siKtgHR.jpg",
           "budget": 25000000,
           "gross": 171627166
@@ -2848,7 +2558,6 @@
         {
           "year": 2010,
           "title": "Biutiful",
-          "character": "Uxbal",
           "poster": "https://image.tmdb.org/t/p/w185/4BLshBMp8INRDhvfuKwxMlHDIIt.jpg",
           "budget": 20000000,
           "gross": 25147786
@@ -2856,7 +2565,6 @@
         {
           "year": 2010,
           "title": "Eat Pray Love",
-          "character": "Felipe",
           "poster": "https://image.tmdb.org/t/p/w185/gjR5zUeMGV6UNqtI0OuzqrLQcjU.jpg",
           "budget": 60000000,
           "gross": 204594016
@@ -2864,7 +2572,6 @@
         {
           "year": 2012,
           "title": "Skyfall",
-          "character": "Raoul Silva",
           "poster": "https://image.tmdb.org/t/p/w185/d0IVecFQvsGdSbnMAHqiYsNYaJT.jpg",
           "budget": 200000000,
           "gross": 1108594176
@@ -2872,7 +2579,6 @@
         {
           "year": 2017,
           "title": "Mother!",
-          "character": "Him",
           "poster": "https://image.tmdb.org/t/p/w185/fjny9chXPx69ln1LMJxbwi5yHMt.jpg",
           "budget": 30000000,
           "gross": 44516999
@@ -2880,7 +2586,6 @@
         {
           "year": 2021,
           "title": "Being the Ricardos",
-          "character": "Desi Arnaz",
           "poster": "https://image.tmdb.org/t/p/w185/oztBLWdRk5gApYmNdADXvXkLT5m.jpg",
           "budget": null,
           "gross": 450000
@@ -2888,7 +2593,6 @@
         {
           "year": 2021,
           "title": "Dune",
-          "character": "Stilgar",
           "poster": "https://image.tmdb.org/t/p/w185/v1tRXZ4JtD2Iv6fjkPvT4GiwslV.jpg",
           "budget": 165000000,
           "gross": 410668500
@@ -2896,7 +2600,6 @@
         {
           "year": 2024,
           "title": "Dune: Part Two",
-          "character": "Stilgar",
           "poster": "https://image.tmdb.org/t/p/w185/6izwz7rsy95ARzTR3poZ8H6c5pp.jpg",
           "budget": 190000000,
           "gross": 714844358
@@ -2921,7 +2624,6 @@
         {
           "year": 1997,
           "title": "Titanic",
-          "character": "Rose DeWitt Bukater",
           "poster": "https://image.tmdb.org/t/p/w185/9xjZS2rlVxm8SFx8kPC3aIGCOYQ.jpg",
           "budget": 200000000,
           "gross": 2264162353
@@ -2929,7 +2631,6 @@
         {
           "year": 2004,
           "title": "Eternal Sunshine of the Spotless Mind",
-          "character": "Clementine Kruczynski",
           "poster": "https://image.tmdb.org/t/p/w185/5MwkWH9tYHv3mV9OdYTMR5qreIz.jpg",
           "budget": 20000000,
           "gross": 72258126
@@ -2937,7 +2638,6 @@
         {
           "year": 2006,
           "title": "The Holiday",
-          "character": "Iris",
           "poster": "https://image.tmdb.org/t/p/w185/h1ITOpvJN3Tw4Sy60w2QTfYMvdd.jpg",
           "budget": 85000000,
           "gross": 205233866
@@ -2945,7 +2645,6 @@
         {
           "year": 2011,
           "title": "Contagion",
-          "character": "Erin Mears",
           "poster": "https://image.tmdb.org/t/p/w185/qL0IooP0bjXy0KXl9KEyPo22ll0.jpg",
           "budget": 60000000,
           "gross": 137551594
@@ -2953,7 +2652,6 @@
         {
           "year": 2014,
           "title": "Divergent",
-          "character": "Jeanine",
           "poster": "https://image.tmdb.org/t/p/w185/aNh4Q3iuPKDMPi2SL7GgOpiLukX.jpg",
           "budget": 85000000,
           "gross": 288885818
@@ -2961,7 +2659,6 @@
         {
           "year": 2015,
           "title": "Insurgent",
-          "character": "Jeanine Matthews",
           "poster": "https://image.tmdb.org/t/p/w185/dP5Fb6YRfzmCQtRbHOr2kO7tJW9.jpg",
           "budget": 110000000,
           "gross": 297002527
@@ -2969,7 +2666,6 @@
         {
           "year": 2016,
           "title": "Collateral Beauty",
-          "character": "Claire Wilson",
           "poster": "https://image.tmdb.org/t/p/w185/4vfqosgik5pLb32RpskYifp8PWJ.jpg",
           "budget": 36000000,
           "gross": 88528280
@@ -2977,7 +2673,6 @@
         {
           "year": 2022,
           "title": "Avatar: The Way of Water",
-          "character": "Ronal",
           "poster": "https://image.tmdb.org/t/p/w185/t6HIqrRAclMCA60NsSmeqe9RmNV.jpg",
           "budget": 460000000,
           "gross": 2334484620
@@ -3002,7 +2697,6 @@
         {
           "year": 2013,
           "title": "About Time",
-          "character": "Charlotte",
           "poster": "https://image.tmdb.org/t/p/w185/ls6zswrOZVhCXQBh96DlbnLBajM.jpg",
           "budget": 12000000,
           "gross": 87100449
@@ -3010,7 +2704,6 @@
         {
           "year": 2013,
           "title": "The Wolf of Wall Street",
-          "character": "Naomi Lapaglia",
           "poster": "https://image.tmdb.org/t/p/w185/kW9LmvYHAaS9iA0tHmZVq8hQYoq.jpg",
           "budget": 100000000,
           "gross": 407039432
@@ -3018,7 +2711,6 @@
         {
           "year": 2015,
           "title": "Focus",
-          "character": "Jess Barrett",
           "poster": "https://image.tmdb.org/t/p/w185/lOzGWjceYTd0kd5HyX7Ch46O9kh.jpg",
           "budget": 50100000,
           "gross": 153962963
@@ -3026,7 +2718,6 @@
         {
           "year": 2016,
           "title": "Suicide Squad",
-          "character": "Harley Quinn",
           "poster": "https://image.tmdb.org/t/p/w185/sk3FZgh3sRrmr8vyhaitNobMcfh.jpg",
           "budget": 175000000,
           "gross": 749200054
@@ -3034,7 +2725,6 @@
         {
           "year": 2016,
           "title": "The Legend of Tarzan",
-          "character": "Jane Porter",
           "poster": "https://image.tmdb.org/t/p/w185/eJrfz178xBGlxjDGxnBXTzWWa4w.jpg",
           "budget": 180000000,
           "gross": 356743061
@@ -3042,7 +2732,6 @@
         {
           "year": 2017,
           "title": "I, Tonya",
-          "character": "Tonya",
           "poster": "https://image.tmdb.org/t/p/w185/6gNXwSHxaksR1PjVZRqNapmkgj3.jpg",
           "budget": 11000000,
           "gross": 53900000
@@ -3050,7 +2739,6 @@
         {
           "year": 2019,
           "title": "Once Upon a Time... in Hollywood",
-          "character": "Sharon Tate",
           "poster": "https://image.tmdb.org/t/p/w185/8j58iEBw9pOXFD2L0nt0ZXeHviB.jpg",
           "budget": 95000000,
           "gross": 393869691
@@ -3058,7 +2746,6 @@
         {
           "year": 2020,
           "title": "Birds of Prey (and the Fantabulous Emancipation of One Harley Quinn)",
-          "character": "Harley Quinn",
           "poster": "https://image.tmdb.org/t/p/w185/h4VB6m0RwcicVEZvzftYZyKXs6K.jpg",
           "budget": 75000000,
           "gross": 205537933
@@ -3066,7 +2753,6 @@
         {
           "year": 2021,
           "title": "The Suicide Squad",
-          "character": "Harley Quinn",
           "poster": "https://image.tmdb.org/t/p/w185/q61qEyssk2ku3okWICKArlAdhBn.jpg",
           "budget": 185000000,
           "gross": 168717425
@@ -3074,7 +2760,6 @@
         {
           "year": 2023,
           "title": "Barbie",
-          "character": "Barbie",
           "poster": "https://image.tmdb.org/t/p/w185/iuFNMS8U5cb6xfzi51Dbkovj7vM.jpg",
           "budget": 145000000,
           "gross": 1447138421
@@ -3099,7 +2784,6 @@
         {
           "year": 1997,
           "title": "Good Will Hunting",
-          "character": "Will Hunting",
           "poster": "https://image.tmdb.org/t/p/w185/z2FnLKpFi1HPO7BEJxdkv6hpJSU.jpg",
           "budget": 10000000,
           "gross": 225933435
@@ -3107,7 +2791,6 @@
         {
           "year": 1998,
           "title": "Saving Private Ryan",
-          "character": "Private Ryan",
           "poster": "https://image.tmdb.org/t/p/w185/uqx37cS8cpHg8U35f9U5IBlrCV3.jpg",
           "budget": 70000000,
           "gross": 481840909
@@ -3115,7 +2798,6 @@
         {
           "year": 2001,
           "title": "Ocean's Eleven",
-          "character": "Linus Caldwell",
           "poster": "https://image.tmdb.org/t/p/w185/hQQCdZrsHtZyR6NbKH2YyCqd2fR.jpg",
           "budget": 85000000,
           "gross": 450717150
@@ -3123,7 +2805,6 @@
         {
           "year": 2006,
           "title": "The Departed",
-          "character": "Colin",
           "poster": "https://image.tmdb.org/t/p/w185/nT97ifVT2J1yMQmeq20Qblg61T.jpg",
           "budget": 90000000,
           "gross": 291465000
@@ -3131,7 +2812,6 @@
         {
           "year": 2014,
           "title": "Interstellar",
-          "character": "Mann",
           "poster": "https://image.tmdb.org/t/p/w185/yQvGrMoipbRoddT0ZR8tPoR7NfX.jpg",
           "budget": 165000000,
           "gross": 746606706
@@ -3139,7 +2819,6 @@
         {
           "year": 2015,
           "title": "The Martian",
-          "character": "Mark Watney",
           "poster": "https://image.tmdb.org/t/p/w185/5BHuvQ6p9kfc091Z8RiFNhCwL4b.jpg",
           "budget": 108000000,
           "gross": 631058917
@@ -3147,7 +2826,6 @@
         {
           "year": 2018,
           "title": "Deadpool 2",
-          "character": "Redneck #2",
           "poster": "https://image.tmdb.org/t/p/w185/to0spRl1CMDvyUbOnbb4fTk3VAd.jpg",
           "budget": 110000000,
           "gross": 785896632
@@ -3155,7 +2833,6 @@
         {
           "year": 2019,
           "title": "Ford v Ferrari",
-          "character": "Carroll Shelby",
           "poster": "https://image.tmdb.org/t/p/w185/dR1Ju50iudrOh3YgfwkAU1g2HZe.jpg",
           "budget": 97600000,
           "gross": 225508210
@@ -3163,7 +2840,6 @@
         {
           "year": 2022,
           "title": "Thor: Love and Thunder",
-          "character": "Actor Loki",
           "poster": "https://image.tmdb.org/t/p/w185/pIkRyD18kl4FhoCNQuWxWu5cBLM.jpg",
           "budget": 250000000,
           "gross": 760928081
@@ -3171,7 +2847,6 @@
         {
           "year": 2023,
           "title": "Oppenheimer",
-          "character": "Leslie Groves",
           "poster": "https://image.tmdb.org/t/p/w185/8Gxv8gSFCU0XGDykEGv7zR1n2ua.jpg",
           "budget": 100000000,
           "gross": 952000000
@@ -3198,7 +2873,6 @@
         {
           "year": 2012,
           "title": "Chronicle",
-          "character": "Steve Montgomery",
           "poster": "https://image.tmdb.org/t/p/w185/kdyrdFIt29FUmLIKvedAc2j4rpo.jpg",
           "budget": 15000000,
           "gross": 145000000
@@ -3206,7 +2880,6 @@
         {
           "year": 2013,
           "title": "Fruitvale Station",
-          "character": "Oscar Grant",
           "poster": "https://image.tmdb.org/t/p/w185/oXSy3nEKFtfw5iRxdG8ouEFAnxs.jpg",
           "budget": 900000,
           "gross": 17600000
@@ -3214,7 +2887,6 @@
         {
           "year": 2015,
           "title": "Creed",
-          "character": "Adonis Creed",
           "poster": "https://image.tmdb.org/t/p/w185/1BfTsk5VWuw8FCocAhCyqnRbEzq.jpg",
           "budget": 37000000,
           "gross": 173600000
@@ -3222,7 +2894,6 @@
         {
           "year": 2015,
           "title": "Fantastic Four",
-          "character": "Johnny Storm",
           "poster": "https://image.tmdb.org/t/p/w185/cDroz5qSlP8xZ6tOpeYoPkBvKyL.jpg",
           "budget": 120000000,
           "gross": 167977596
@@ -3230,7 +2901,6 @@
         {
           "year": 2018,
           "title": "Black Panther",
-          "character": "Erik Killmonger",
           "poster": "https://image.tmdb.org/t/p/w185/uxzzxijgPIY7slzFvMotPv8wjKA.jpg",
           "budget": 200000000,
           "gross": 1349926083
@@ -3238,7 +2908,6 @@
         {
           "year": 2018,
           "title": "Creed II",
-          "character": "Adonis Creed",
           "poster": "https://image.tmdb.org/t/p/w185/v3QyboWRoA4O9RbcsqH8tJMe8EB.jpg",
           "budget": 50000000,
           "gross": 214200000
@@ -3246,7 +2915,6 @@
         {
           "year": 2019,
           "title": "Just Mercy",
-          "character": "Bryan Stevenson",
           "poster": "https://image.tmdb.org/t/p/w185/2bDZl3PzFLFWe4gaFUQnnaslqT3.jpg",
           "budget": 25000000,
           "gross": 50401502
@@ -3254,7 +2922,6 @@
         {
           "year": 2023,
           "title": "Creed III",
-          "character": "Adonis Creed",
           "poster": "https://image.tmdb.org/t/p/w185/cvsXj3I9Q2iyyIo95AecSd1tad7.jpg",
           "budget": 75000000,
           "gross": 275300000
@@ -3262,7 +2929,6 @@
         {
           "year": 2025,
           "title": "Sinners",
-          "character": "Smoke / Stack",
           "poster": "https://image.tmdb.org/t/p/w185/fWPgbnt2LSqkQ6cdQc0SZN9CpLm.jpg",
           "budget": 100000000,
           "gross": 371368759
@@ -3289,7 +2955,6 @@
         {
           "year": 1997,
           "title": "Tomorrow Never Dies",
-          "character": "Wai Lin",
           "poster": "https://image.tmdb.org/t/p/w185/gZm002w7q9yLOkltxT76TWGfdZX.jpg",
           "budget": 110000000,
           "gross": 333011068
@@ -3297,7 +2962,6 @@
         {
           "year": 2000,
           "title": "Crouching Tiger, Hidden Dragon",
-          "character": "Yu Shu Lien",
           "poster": "https://image.tmdb.org/t/p/w185/iNDVBFNz4XyYzM9Lwip6atSTFqf.jpg",
           "budget": 17000000,
           "gross": 213978518
@@ -3305,7 +2969,6 @@
         {
           "year": 2005,
           "title": "Memoirs of a Geisha",
-          "character": "Mameha",
           "poster": "https://image.tmdb.org/t/p/w185/pBwYsQaSTgnPphIy02DJjCF2cqs.jpg",
           "budget": 85000000,
           "gross": 162242962
@@ -3313,7 +2976,6 @@
         {
           "year": 2008,
           "title": "The Mummy: Tomb of the Dragon Emperor",
-          "character": "Zi Yuan",
           "poster": "https://image.tmdb.org/t/p/w185/A3acM1lX5PNWQa6r5qeMAJOxbnT.jpg",
           "budget": 145000000,
           "gross": 403449830
@@ -3321,7 +2983,6 @@
         {
           "year": 2018,
           "title": "Crazy Rich Asians",
-          "character": "Eleanor Young",
           "poster": "https://image.tmdb.org/t/p/w185/1XxL4LJ5WHdrcYcihEZUCgNCpAW.jpg",
           "budget": 30000000,
           "gross": 238539198
@@ -3329,7 +2990,6 @@
         {
           "year": 2019,
           "title": "Last Christmas",
-          "character": "Santa",
           "poster": "https://image.tmdb.org/t/p/w185/kDEjffiKgjuGo2DRzsqfjvW0CQh.jpg",
           "budget": 30000000,
           "gross": 121600000
@@ -3337,7 +2997,6 @@
         {
           "year": 2021,
           "title": "Shang-Chi and the Legend of the Ten Rings",
-          "character": "Ying Nan",
           "poster": "https://image.tmdb.org/t/p/w185/9f2Q0U3IOsLgrI2HkvldwSABZy5.jpg",
           "budget": 150000000,
           "gross": 432243292
@@ -3345,7 +3004,6 @@
         {
           "year": 2022,
           "title": "Everything Everywhere All at Once",
-          "character": "Evelyn Wang",
           "poster": "https://image.tmdb.org/t/p/w185/u68AjlvlutfEIcpmbYpKcdi09ut.jpg",
           "budget": 25000000,
           "gross": 139200000
@@ -3353,7 +3011,6 @@
         {
           "year": 2024,
           "title": "Wicked",
-          "character": "Madame Morrible",
           "poster": "https://image.tmdb.org/t/p/w185/xDGbZ0JJ3mYaGKy4Nzd9Kph6M9L.jpg",
           "budget": 150000000,
           "gross": 763963597
@@ -3380,7 +3037,6 @@
         {
           "year": 2001,
           "title": "Blow",
-          "character": "Mirtha Jung",
           "poster": "https://image.tmdb.org/t/p/w185/yYZFVfk8aeMP4GxBSU9MTvqs9mJ.jpg",
           "budget": 53000000,
           "gross": 83300000
@@ -3388,7 +3044,6 @@
         {
           "year": 2001,
           "title": "Vanilla Sky",
-          "character": "Sofia Serrano",
           "poster": "https://image.tmdb.org/t/p/w185/cAh2pCiNPftsY3aSqJuIOde7uWr.jpg",
           "budget": 68000000,
           "gross": 203388341
@@ -3396,7 +3051,6 @@
         {
           "year": 2005,
           "title": "Sahara",
-          "character": "Eva Rojas",
           "poster": "https://image.tmdb.org/t/p/w185/kyY1onYxkKBDlJsheRsVbMaoQEM.jpg",
           "budget": 130000000,
           "gross": 119269486
@@ -3404,7 +3058,6 @@
         {
           "year": 2006,
           "title": "Volver",
-          "character": "Raimunda",
           "poster": "https://image.tmdb.org/t/p/w185/ljRPzuI1xybiFUGU1uCRdx68h0K.jpg",
           "budget": 9400000,
           "gross": 85605851
@@ -3412,7 +3065,6 @@
         {
           "year": 2008,
           "title": "Vicky Cristina Barcelona",
-          "character": "María Elena",
           "poster": "https://image.tmdb.org/t/p/w185/ekAIg0GSbbHTH7y1GPgWj0brLTW.jpg",
           "budget": 15000000,
           "gross": 96409830
@@ -3420,7 +3072,6 @@
         {
           "year": 2009,
           "title": "Nine",
-          "character": "Carla Albanese",
           "poster": "https://image.tmdb.org/t/p/w185/bSxdTXktgPQPNwlkQ0DZtuAJXlb.jpg",
           "budget": 80000000,
           "gross": 53825515
@@ -3428,7 +3079,6 @@
         {
           "year": 2011,
           "title": "Pirates of the Caribbean: On Stranger Tides",
-          "character": "Angelica",
           "poster": "https://image.tmdb.org/t/p/w185/keGfSvCmYj7CvdRx36OdVrAEibE.jpg",
           "budget": 379000000,
           "gross": 1046721266
@@ -3436,7 +3086,6 @@
         {
           "year": 2017,
           "title": "Murder on the Orient Express",
-          "character": "Pilar Estravados",
           "poster": "https://image.tmdb.org/t/p/w185/7GtdJU6iAg6fjQu3E3zta3bIAQh.jpg",
           "budget": 55000000,
           "gross": 352800000
@@ -3444,7 +3093,6 @@
         {
           "year": 2018,
           "title": "Everybody Knows",
-          "character": "Laura",
           "poster": "https://image.tmdb.org/t/p/w185/1TuuM451os3NaltCwGfPCVL2BST.jpg",
           "budget": 11318430,
           "gross": 17997350
@@ -3452,7 +3100,6 @@
         {
           "year": 2021,
           "title": "Parallel Mothers",
-          "character": "Janis Martínez",
           "poster": "https://image.tmdb.org/t/p/w185/gDaxYkYNbHuM2VlUazbcpnFZB6d.jpg",
           "budget": 11000000,
           "gross": 23099858
@@ -3477,7 +3124,6 @@
         {
           "year": 2004,
           "title": "The Notebook",
-          "character": "Noah Calhoun",
           "poster": "https://image.tmdb.org/t/p/w185/rNzQyW4f8B8cQeg7Dgj3n6eT5k9.jpg",
           "budget": 29000000,
           "gross": 115600000
@@ -3485,7 +3131,6 @@
         {
           "year": 2011,
           "title": "Crazy, Stupid, Love.",
-          "character": "Jacob",
           "poster": "https://image.tmdb.org/t/p/w185/p4RafgAPk558muOjnBMHhMArjS2.jpg",
           "budget": 50000000,
           "gross": 145079584
@@ -3493,7 +3138,6 @@
         {
           "year": 2011,
           "title": "Drive",
-          "character": "Driver",
           "poster": "https://image.tmdb.org/t/p/w185/602vevIURmpDfzbnv5Ubi6wIkQm.jpg",
           "budget": 15000000,
           "gross": 79713640
@@ -3501,7 +3145,6 @@
         {
           "year": 2015,
           "title": "The Big Short",
-          "character": "Jared Vennett",
           "poster": "https://image.tmdb.org/t/p/w185/scVEaJEwP8zUix8vgmMoJJ9Nq0w.jpg",
           "budget": 28000000,
           "gross": 133346506
@@ -3509,7 +3152,6 @@
         {
           "year": 2016,
           "title": "La La Land",
-          "character": "Sebastian",
           "poster": "https://image.tmdb.org/t/p/w185/uDO8zWDhfWwoFdKS4fzkUJt0Rf0.jpg",
           "budget": 30000000,
           "gross": 509183536
@@ -3517,7 +3159,6 @@
         {
           "year": 2016,
           "title": "The Nice Guys",
-          "character": "Holland March",
           "poster": "https://image.tmdb.org/t/p/w185/clq4So9spa9cXk3MZy2iMdqkxP2.jpg",
           "budget": 50000000,
           "gross": 71261763
@@ -3525,7 +3166,6 @@
         {
           "year": 2017,
           "title": "Blade Runner 2049",
-          "character": "'K'",
           "poster": "https://image.tmdb.org/t/p/w185/gajva2L0rPYkEWjzgFlBXCAVBE5.jpg",
           "budget": 150000000,
           "gross": 259239658
@@ -3533,7 +3173,6 @@
         {
           "year": 2018,
           "title": "First Man",
-          "character": "Neil Armstrong",
           "poster": "https://image.tmdb.org/t/p/w185/i91mfvFcPPlaegcbOyjGgiWfZzh.jpg",
           "budget": 70000000,
           "gross": 105713218
@@ -3541,7 +3180,6 @@
         {
           "year": 2023,
           "title": "Barbie",
-          "character": "Ken",
           "poster": "https://image.tmdb.org/t/p/w185/iuFNMS8U5cb6xfzi51Dbkovj7vM.jpg",
           "budget": 145000000,
           "gross": 1447138421
@@ -3549,7 +3187,6 @@
         {
           "year": 2026,
           "title": "Project Hail Mary",
-          "character": "Ryland Grace",
           "poster": "https://image.tmdb.org/t/p/w185/iOb2fjXLbpJgyQXe46n1WtGCnaa.jpg",
           "budget": 200000000,
           "gross": 684586806
@@ -3574,7 +3211,6 @@
         {
           "year": 2009,
           "title": "The Proposal",
-          "character": "Andrew Paxton",
           "poster": "https://image.tmdb.org/t/p/w185/6stnAm1wSek8ZrislwK4xGTyCnt.jpg",
           "budget": 40000000,
           "gross": 317400000
@@ -3582,7 +3218,6 @@
         {
           "year": 2011,
           "title": "Green Lantern",
-          "character": "Hal Jordan / Green Lantern",
           "poster": "https://image.tmdb.org/t/p/w185/fj21HwUprqjjwTdkKC1XZurRSpV.jpg",
           "budget": 200000000,
           "gross": 219851172
@@ -3590,7 +3225,6 @@
         {
           "year": 2013,
           "title": "The Croods",
-          "character": "Guy (voice)",
           "poster": "https://image.tmdb.org/t/p/w185/27zvjVOtOi5ped1HSlJKNsKXkFH.jpg",
           "budget": 135000000,
           "gross": 587204668
@@ -3598,7 +3232,6 @@
         {
           "year": 2016,
           "title": "Deadpool",
-          "character": "Wade / Deadpool",
           "poster": "https://image.tmdb.org/t/p/w185/3E53WEZJqP6aM84D8CckXx4pIHw.jpg",
           "budget": 58000000,
           "gross": 782837347
@@ -3606,7 +3239,6 @@
         {
           "year": 2017,
           "title": "Life",
-          "character": "Rory Adams",
           "poster": "https://image.tmdb.org/t/p/w185/wztfli5NgYDgurVgShNflvnyA3Z.jpg",
           "budget": 58000000,
           "gross": 100541806
@@ -3614,7 +3246,6 @@
         {
           "year": 2018,
           "title": "Deadpool 2",
-          "character": "Wade Wilson / Deadpool / Juggernaut (voice)",
           "poster": "https://image.tmdb.org/t/p/w185/to0spRl1CMDvyUbOnbb4fTk3VAd.jpg",
           "budget": 110000000,
           "gross": 785896632
@@ -3622,7 +3253,6 @@
         {
           "year": 2019,
           "title": "Pokémon Detective Pikachu",
-          "character": "Detective Pikachu (voice)",
           "poster": "https://image.tmdb.org/t/p/w185/uhWvnFgg3BNlcUz0Re1HfQqIcCD.jpg",
           "budget": 150000000,
           "gross": 450063166
@@ -3630,7 +3260,6 @@
         {
           "year": 2021,
           "title": "Free Guy",
-          "character": "Guy",
           "poster": "https://image.tmdb.org/t/p/w185/dxraF0qPr1OEgJk17ltQTO84kQF.jpg",
           "budget": 110000000,
           "gross": 331526598
@@ -3638,7 +3267,6 @@
         {
           "year": 2021,
           "title": "Red Notice",
-          "character": "Nolan Booth",
           "poster": "https://image.tmdb.org/t/p/w185/lAXONuqg41NwUMuzMiFvicDET9Y.jpg",
           "budget": 160000000,
           "gross": 178143
@@ -3646,7 +3274,6 @@
         {
           "year": 2024,
           "title": "Deadpool & Wolverine",
-          "character": "Wade Wilson / Deadpool / Nicepool",
           "poster": "https://image.tmdb.org/t/p/w185/8cdWjvZQUExUUTzyp4t6EDMubfO.jpg",
           "budget": 200000000,
           "gross": 1338073645
@@ -3671,7 +3298,6 @@
         {
           "year": 2008,
           "title": "Doubt",
-          "character": "Mrs. Miller",
           "poster": "https://image.tmdb.org/t/p/w185/9lypT2ghNuUPYVJf66oe4fKvUqI.jpg",
           "budget": 20000000,
           "gross": 50907234
@@ -3679,7 +3305,6 @@
         {
           "year": 2011,
           "title": "The Help",
-          "character": "Aibileen Clark",
           "poster": "https://image.tmdb.org/t/p/w185/3kmfoWWEc9Vtyuaf9v5VipRgdjx.jpg",
           "budget": 25000000,
           "gross": 216600000
@@ -3687,7 +3312,6 @@
         {
           "year": 2016,
           "title": "Fences",
-          "character": "Rose Maxson",
           "poster": "https://image.tmdb.org/t/p/w185/8NvnB8aeWQvBEz2ruN4g313j991.jpg",
           "budget": 24000000,
           "gross": 64400000
@@ -3695,7 +3319,6 @@
         {
           "year": 2016,
           "title": "Suicide Squad",
-          "character": "Amanda Waller",
           "poster": "https://image.tmdb.org/t/p/w185/sk3FZgh3sRrmr8vyhaitNobMcfh.jpg",
           "budget": 175000000,
           "gross": 749200054
@@ -3703,7 +3326,6 @@
         {
           "year": 2018,
           "title": "Widows",
-          "character": "Veronica Rawlings",
           "poster": "https://image.tmdb.org/t/p/w185/d31SGJSaX29ba5ZUbZcesGoDE7I.jpg",
           "budget": 42000000,
           "gross": 75984700
@@ -3711,7 +3333,6 @@
         {
           "year": 2020,
           "title": "Ma Rainey's Black Bottom",
-          "character": "Ma Rainey",
           "poster": "https://image.tmdb.org/t/p/w185/pvtyxijaBrCSbByXLcUIDDSvc40.jpg",
           "budget": 20000000,
           "gross": null
@@ -3719,7 +3340,6 @@
         {
           "year": 2021,
           "title": "The Suicide Squad",
-          "character": "Amanda Waller",
           "poster": "https://image.tmdb.org/t/p/w185/q61qEyssk2ku3okWICKArlAdhBn.jpg",
           "budget": 185000000,
           "gross": 168717425
@@ -3727,7 +3347,6 @@
         {
           "year": 2022,
           "title": "The Woman King",
-          "character": "Nanisca",
           "poster": "https://image.tmdb.org/t/p/w185/438QXt1E3WJWb3PqNniK0tAE5c1.jpg",
           "budget": 50000000,
           "gross": 97562514
@@ -3735,7 +3354,6 @@
         {
           "year": 2023,
           "title": "Air",
-          "character": "Deloris Jordan",
           "poster": "https://image.tmdb.org/t/p/w185/76AKQPdH3M8cvsFR9K8JsOzVlY5.jpg",
           "budget": 80000000,
           "gross": 90100000
@@ -3763,7 +3381,6 @@
         {
           "year": 2003,
           "title": "Pirates of the Caribbean: The Curse of the Black Pearl",
-          "character": "Anamaria",
           "poster": "https://image.tmdb.org/t/p/w185/poHwCZeWzJCShH7tOjg8RIoyjcw.jpg",
           "budget": 140000000,
           "gross": 655011224
@@ -3771,7 +3388,6 @@
         {
           "year": 2009,
           "title": "Avatar",
-          "character": "Neytiri",
           "poster": "https://image.tmdb.org/t/p/w185/gKY6q7SjCkAU6FqvqWybDYgUKIF.jpg",
           "budget": 237000000,
           "gross": 2923706026
@@ -3779,7 +3395,6 @@
         {
           "year": 2009,
           "title": "Star Trek",
-          "character": "Lieutenant Nyota Uhura",
           "poster": "https://image.tmdb.org/t/p/w185/lV5OpzAss1z06YNagOVap1I35mH.jpg",
           "budget": 150000000,
           "gross": 386839614
@@ -3787,7 +3402,6 @@
         {
           "year": 2013,
           "title": "Star Trek Into Darkness",
-          "character": "Lieutenant Nyota Uhura",
           "poster": "https://image.tmdb.org/t/p/w185/Aim3kVNh1MPIxPEFeJrl9e9Uf1a.jpg",
           "budget": 190000000,
           "gross": 467381584
@@ -3795,7 +3409,6 @@
         {
           "year": 2014,
           "title": "Guardians of the Galaxy",
-          "character": "Gamora",
           "poster": "https://image.tmdb.org/t/p/w185/r7vmZjiyZw9rpJMQJdXpjgiCOk9.jpg",
           "budget": 170000000,
           "gross": 772776600
@@ -3803,7 +3416,6 @@
         {
           "year": 2017,
           "title": "Guardians of the Galaxy Vol. 2",
-          "character": "Gamora",
           "poster": "https://image.tmdb.org/t/p/w185/y4MBh0EjBlMuOzv9axM4qJlmhzz.jpg",
           "budget": 200000000,
           "gross": 863756051
@@ -3811,7 +3423,6 @@
         {
           "year": 2018,
           "title": "Avengers: Infinity War",
-          "character": "Gamora",
           "poster": "https://image.tmdb.org/t/p/w185/7WsyChQLEftFiDOVTGkv3hFpyyt.jpg",
           "budget": 300000000,
           "gross": 2052415039
@@ -3819,7 +3430,6 @@
         {
           "year": 2019,
           "title": "Avengers: Endgame",
-          "character": "Gamora",
           "poster": "https://image.tmdb.org/t/p/w185/ulzhLuWrPK07P1YkdWQLZnQh1JL.jpg",
           "budget": 356000000,
           "gross": 2885439100
@@ -3827,7 +3437,6 @@
         {
           "year": 2022,
           "title": "Avatar: The Way of Water",
-          "character": "Neytiri",
           "poster": "https://image.tmdb.org/t/p/w185/t6HIqrRAclMCA60NsSmeqe9RmNV.jpg",
           "budget": 460000000,
           "gross": 2334484620
@@ -3835,7 +3444,6 @@
         {
           "year": 2023,
           "title": "Guardians of the Galaxy Vol. 3",
-          "character": "Gamora",
           "poster": "https://image.tmdb.org/t/p/w185/r2J02Z2OpNTctfOSN1Ydgii51I3.jpg",
           "budget": 250000000,
           "gross": 845550000
@@ -3860,7 +3468,6 @@
         {
           "year": 2015,
           "title": "Star Wars: The Force Awakens",
-          "character": "Kylo Ren",
           "poster": "https://image.tmdb.org/t/p/w185/wqnLdwVXoBjKibFRR5U3y0aDUhs.jpg",
           "budget": 245000000,
           "gross": 2068223624
@@ -3868,7 +3475,6 @@
         {
           "year": 2016,
           "title": "Paterson",
-          "character": "Paterson",
           "poster": "https://image.tmdb.org/t/p/w185/AuJ1ZlfqwuAr9H5Qr1U9KILylse.jpg",
           "budget": 5000000,
           "gross": 2152738
@@ -3876,7 +3482,6 @@
         {
           "year": 2017,
           "title": "Star Wars: The Last Jedi",
-          "character": "Kylo Ren",
           "poster": "https://image.tmdb.org/t/p/w185/kOVEVeg59E0wsnXmF9nrh6OmWII.jpg",
           "budget": 300000000,
           "gross": 1334407706
@@ -3884,7 +3489,6 @@
         {
           "year": 2018,
           "title": "BlacKkKlansman",
-          "character": "Flip Zimmerman",
           "poster": "https://image.tmdb.org/t/p/w185/8jxqAvSDoneSKRczaK8v9X5gqBp.jpg",
           "budget": 15000000,
           "gross": 93411426
@@ -3892,7 +3496,6 @@
         {
           "year": 2019,
           "title": "Marriage Story",
-          "character": "Charlie Barber",
           "poster": "https://image.tmdb.org/t/p/w185/2JRyCKaRKyJAVpsIHeLvPw5nHmw.jpg",
           "budget": 18000000,
           "gross": 333686
@@ -3900,7 +3503,6 @@
         {
           "year": 2019,
           "title": "Star Wars: The Rise of Skywalker",
-          "character": "Kylo Ren",
           "poster": "https://image.tmdb.org/t/p/w185/db32LaOibwEliAmSL2jjDF6oDdj.jpg",
           "budget": 489900000,
           "gross": 1074144248
@@ -3908,7 +3510,6 @@
         {
           "year": 2021,
           "title": "House of Gucci",
-          "character": "Maurizio Gucci",
           "poster": "https://image.tmdb.org/t/p/w185/oJCQjD2byiVF1EG408F9dBn9ndU.jpg",
           "budget": 75000000,
           "gross": 153235995
@@ -3916,7 +3517,6 @@
         {
           "year": 2021,
           "title": "The Last Duel",
-          "character": "Jacques Le Gris",
           "poster": "https://image.tmdb.org/t/p/w185/zjrJE0fpzPvX8saJXj8VNfcjBoU.jpg",
           "budget": 100000000,
           "gross": 30552111
@@ -3924,7 +3524,6 @@
         {
           "year": 2023,
           "title": "65",
-          "character": "Mills",
           "poster": "https://image.tmdb.org/t/p/w185/rzRb63TldOKdKydCvWJM8B6EkPM.jpg",
           "budget": 45000000,
           "gross": 60730568
@@ -3932,7 +3531,6 @@
         {
           "year": 2023,
           "title": "Ferrari",
-          "character": "Enzo Ferrari",
           "poster": "https://image.tmdb.org/t/p/w185/LyCOcGqOTyTmaXu2TK8LfGveIb.jpg",
           "budget": 95000000,
           "gross": 39220516
@@ -3957,7 +3555,6 @@
         {
           "year": 2012,
           "title": "A Royal Affair",
-          "character": "Caroline Mathilde",
           "poster": "https://image.tmdb.org/t/p/w185/AafVGIirBlCw8Whb4DSPSLX9nGW.jpg",
           "budget": 8000000,
           "gross": 14800000
@@ -3965,7 +3562,6 @@
         {
           "year": 2012,
           "title": "Anna Karenina",
-          "character": "Kitty",
           "poster": "https://image.tmdb.org/t/p/w185/b9mvt1kKqDuveD1AJuGSkBEuagU.jpg",
           "budget": 40600000,
           "gross": 68929150
@@ -3973,7 +3569,6 @@
         {
           "year": 2014,
           "title": "Seventh Son",
-          "character": "Alice Deane",
           "poster": "https://image.tmdb.org/t/p/w185/7Q8DfXSjcFSSQDOxz1Sk865wNqI.jpg",
           "budget": 95000000,
           "gross": 114178613
@@ -3981,7 +3576,6 @@
         {
           "year": 2015,
           "title": "Ex Machina",
-          "character": "Ava",
           "poster": "https://image.tmdb.org/t/p/w185/dmJW8IAKHKxFNiUnoDR7JfsK7Rp.jpg",
           "budget": 15000000,
           "gross": 36869414
@@ -3989,7 +3583,6 @@
         {
           "year": 2015,
           "title": "The Danish Girl",
-          "character": "Gerda Wegener",
           "poster": "https://image.tmdb.org/t/p/w185/kiJTZ5oFRO961wWn7mLxjUcRlf3.jpg",
           "budget": 15000000,
           "gross": 64200000
@@ -3997,7 +3590,6 @@
         {
           "year": 2015,
           "title": "The Man from U.N.C.L.E.",
-          "character": "Gaby Teller",
           "poster": "https://image.tmdb.org/t/p/w185/y5yZaForGSJbPD66Cvq9AT5WMAD.jpg",
           "budget": 75000000,
           "gross": 110045109
@@ -4005,7 +3597,6 @@
         {
           "year": 2016,
           "title": "Jason Bourne",
-          "character": "Heather Lee",
           "poster": "https://image.tmdb.org/t/p/w185/xA7N41glw17MBQtcWSm2eBlBRuG.jpg",
           "budget": 120000000,
           "gross": 415484914
@@ -4013,7 +3604,6 @@
         {
           "year": 2016,
           "title": "The Light Between Oceans",
-          "character": "Isabel Sherbourne",
           "poster": "https://image.tmdb.org/t/p/w185/c9S6VKZPllNgdxBUuI3GYJiqcKO.jpg",
           "budget": 20000000,
           "gross": 25975621
@@ -4021,7 +3611,6 @@
         {
           "year": 2018,
           "title": "Tomb Raider",
-          "character": "Lara Croft",
           "poster": "https://image.tmdb.org/t/p/w185/s4Qn5LF6OwK4rIifmthIDtbqDSs.jpg",
           "budget": 94000000,
           "gross": 274650803
@@ -4029,7 +3618,6 @@
         {
           "year": 2021,
           "title": "The Green Knight",
-          "character": "The Lady",
           "poster": "https://image.tmdb.org/t/p/w185/if4hw3Ou5Sav9Em7WWHj66mnywp.jpg",
           "budget": 15000000,
           "gross": 18887953
@@ -4054,7 +3642,6 @@
         {
           "year": 2010,
           "title": "Never Let Me Go",
-          "character": "Tommy",
           "poster": "https://image.tmdb.org/t/p/w185/8F0r5ng9Fp60OhzQfR5v33fppq.jpg",
           "budget": 15000000,
           "gross": 9918093
@@ -4062,7 +3649,6 @@
         {
           "year": 2010,
           "title": "The Social Network",
-          "character": "Eduardo Saverin",
           "poster": "https://image.tmdb.org/t/p/w185/n0ybibhJtQ5icDqTp8eRytcIHJx.jpg",
           "budget": 40000000,
           "gross": 224920315
@@ -4070,7 +3656,6 @@
         {
           "year": 2012,
           "title": "The Amazing Spider-Man",
-          "character": "Peter Parker",
           "poster": "https://image.tmdb.org/t/p/w185/jexoNYnPd6vVrmygwF6QZmWPFdu.jpg",
           "budget": 215000000,
           "gross": 758725893
@@ -4078,7 +3663,6 @@
         {
           "year": 2014,
           "title": "The Amazing Spider-Man 2",
-          "character": "Peter Parker",
           "poster": "https://image.tmdb.org/t/p/w185/bU7nTmvmy0h3VUP01v1T2imgH6N.jpg",
           "budget": 200000000,
           "gross": 716934779
@@ -4086,7 +3670,6 @@
         {
           "year": 2016,
           "title": "Hacksaw Ridge",
-          "character": "Desmond Doss",
           "poster": "https://image.tmdb.org/t/p/w185/fnOMP6mjmOmZwmlC1n0K7ivrzt1.jpg",
           "budget": 40000000,
           "gross": 175302354
@@ -4094,7 +3677,6 @@
         {
           "year": 2016,
           "title": "Silence",
-          "character": "Father Rodrigues",
           "poster": "https://image.tmdb.org/t/p/w185/x5T0cQDYws0xRBVG4Q3wpcrcmax.jpg",
           "budget": 46000000,
           "gross": 23834809
@@ -4102,7 +3684,6 @@
         {
           "year": 2021,
           "title": "Spider-Man: No Way Home",
-          "character": "Peter Parker",
           "poster": "https://image.tmdb.org/t/p/w185/1g0dhYtq4irTY1GPXvft6k4YLjm.jpg",
           "budget": 200000000,
           "gross": 1921426073
@@ -4110,7 +3691,6 @@
         {
           "year": 2021,
           "title": "The Eyes of Tammy Faye",
-          "character": "Jim Bakker",
           "poster": "https://image.tmdb.org/t/p/w185/yL3IAfOxUH7h1Og9kxG3czxa4XV.jpg",
           "budget": 26000000,
           "gross": 2404127
@@ -4118,7 +3698,6 @@
         {
           "year": 2021,
           "title": "Tick, Tick... Boom!",
-          "character": "Jonathan Larson",
           "poster": "https://image.tmdb.org/t/p/w185/DPmfcuR8fh8ROYXgdjrAjSGA0o.jpg",
           "budget": null,
           "gross": null
@@ -4126,7 +3705,6 @@
         {
           "year": 2024,
           "title": "We Live in Time",
-          "character": "Tobias",
           "poster": "https://image.tmdb.org/t/p/w185/oeDNBgnlGF6rnyX1P1K8Vl2f3lW.jpg",
           "budget": 20000000,
           "gross": 37182814
@@ -4153,7 +3731,6 @@
         {
           "year": 2015,
           "title": "The Witch",
-          "character": "Thomasin",
           "poster": "https://image.tmdb.org/t/p/w185/zap5hpFCWSvdWSuPGAQyjUv2wAC.jpg",
           "budget": 4000000,
           "gross": 40423945
@@ -4161,7 +3738,6 @@
         {
           "year": 2016,
           "title": "Split",
-          "character": "Casey Cooke",
           "poster": "https://image.tmdb.org/t/p/w185/ow2BSQGKJtZpH2zZY1rmX8eXKAi.jpg",
           "budget": 9000000,
           "gross": 278454358
@@ -4169,7 +3745,6 @@
         {
           "year": 2019,
           "title": "Glass",
-          "character": "Casey Cooke",
           "poster": "https://image.tmdb.org/t/p/w185/svIDTNUoajS8dLEo7EosxvyAsgJ.jpg",
           "budget": 20000000,
           "gross": 246999039
@@ -4177,7 +3752,6 @@
         {
           "year": 2020,
           "title": "Emma",
-          "character": "Emma Woodhouse",
           "poster": "https://image.tmdb.org/t/p/w185/uHpHzbHLSsVmAuuGuQSpyVDZmDc.jpg",
           "budget": 10000000,
           "gross": 25200000
@@ -4185,7 +3759,6 @@
         {
           "year": 2020,
           "title": "The New Mutants",
-          "character": "Magik",
           "poster": "https://image.tmdb.org/t/p/w185/xiDGcXJTvu1lazFRYip6g1eLt9c.jpg",
           "budget": 67000000,
           "gross": 49169594
@@ -4193,7 +3766,6 @@
         {
           "year": 2021,
           "title": "Last Night in Soho",
-          "character": "Sandie",
           "poster": "https://image.tmdb.org/t/p/w185/n1ZRmjlk1BJTY7aASqACfPAaLn2.jpg",
           "budget": 43000000,
           "gross": 22957625
@@ -4201,7 +3773,6 @@
         {
           "year": 2022,
           "title": "The Menu",
-          "character": "Margot",
           "poster": "https://image.tmdb.org/t/p/w185/fPtUgMcLIboqlTlPrq0bQpKK8eq.jpg",
           "budget": 35000000,
           "gross": 79628200
@@ -4209,7 +3780,6 @@
         {
           "year": 2022,
           "title": "The Northman",
-          "character": "Olga",
           "poster": "https://image.tmdb.org/t/p/w185/aSSJMnHknzKjlZ6zybwD7eyJ4Po.jpg",
           "budget": 70000000,
           "gross": 69633110
@@ -4217,7 +3787,6 @@
         {
           "year": 2023,
           "title": "The Super Mario Bros. Movie",
-          "character": "Princess Peach (voice)",
           "poster": "https://image.tmdb.org/t/p/w185/qNBAXBIQlnOThrVvA6mA2B5ggV6.jpg",
           "budget": 100000000,
           "gross": 1360879735
@@ -4225,7 +3794,6 @@
         {
           "year": 2024,
           "title": "Furiosa: A Mad Max Saga",
-          "character": "Furiosa",
           "poster": "https://image.tmdb.org/t/p/w185/iADOJ8Zymht2JPMoy3R7xceZprc.jpg",
           "budget": 168000000,
           "gross": 174287546
@@ -4252,7 +3820,6 @@
         {
           "year": 2002,
           "title": "28 Days Later",
-          "character": "Jim",
           "poster": "https://image.tmdb.org/t/p/w185/sQckQRt17VaWbo39GIu0TMOiszq.jpg",
           "budget": 8000000,
           "gross": 82784517
@@ -4260,7 +3827,6 @@
         {
           "year": 2005,
           "title": "Batman Begins",
-          "character": "Dr. Jonathan Crane",
           "poster": "https://image.tmdb.org/t/p/w185/sPX89Td70IDDjVr85jdSBb4rWGr.jpg",
           "budget": 150000000,
           "gross": 374218673
@@ -4268,7 +3834,6 @@
         {
           "year": 2008,
           "title": "The Dark Knight",
-          "character": "Scarecrow",
           "poster": "https://image.tmdb.org/t/p/w185/qJ2tW6WMUDux911r6m7haRef0WH.jpg",
           "budget": 185000000,
           "gross": 1004558444
@@ -4276,7 +3841,6 @@
         {
           "year": 2010,
           "title": "Inception",
-          "character": "Robert Fischer, Jr.",
           "poster": "https://image.tmdb.org/t/p/w185/xlaY2zyzMfkhk0HSC5VUwzoZPU1.jpg",
           "budget": 160000000,
           "gross": 839030630
@@ -4284,7 +3848,6 @@
         {
           "year": 2011,
           "title": "In Time",
-          "character": "Raymond Leon",
           "poster": "https://image.tmdb.org/t/p/w185/3Mwj2sIONQckOZP3YwsUXF7U5I4.jpg",
           "budget": 40000000,
           "gross": 173900000
@@ -4292,7 +3855,6 @@
         {
           "year": 2014,
           "title": "Transcendence",
-          "character": "Agent Donald Buchanan",
           "poster": "https://image.tmdb.org/t/p/w185/i3JqPtiJWnidaif3UA2K2Eng0hp.jpg",
           "budget": 100000000,
           "gross": 103039258
@@ -4300,7 +3862,6 @@
         {
           "year": 2017,
           "title": "Dunkirk",
-          "character": "Shivering Soldier",
           "poster": "https://image.tmdb.org/t/p/w185/b4Oe15CGLL61Ped0RAS9JpqdmCt.jpg",
           "budget": 150000000,
           "gross": 549136737
@@ -4308,7 +3869,6 @@
         {
           "year": 2021,
           "title": "A Quiet Place Part II",
-          "character": "Emmett",
           "poster": "https://image.tmdb.org/t/p/w185/4q2hz2m8hubgvijz8Ez0T2Os2Yv.jpg",
           "budget": 55000000,
           "gross": 297372261
@@ -4316,7 +3876,6 @@
         {
           "year": 2023,
           "title": "Oppenheimer",
-          "character": "J. Robert Oppenheimer",
           "poster": "https://image.tmdb.org/t/p/w185/8Gxv8gSFCU0XGDykEGv7zR1n2ua.jpg",
           "budget": 100000000,
           "gross": 952000000
@@ -4341,7 +3900,6 @@
         {
           "year": 2008,
           "title": "Slumdog Millionaire",
-          "character": "Jamal Malik",
           "poster": "https://image.tmdb.org/t/p/w185/5leCCi7ZF0CawAfM5Qo2ECKPprc.jpg",
           "budget": 15000000,
           "gross": 378400000
@@ -4349,7 +3907,6 @@
         {
           "year": 2012,
           "title": "The Best Exotic Marigold Hotel",
-          "character": "Sonny Kapoor",
           "poster": "https://image.tmdb.org/t/p/w185/gNWiOKTWDvPTpr7QfPWk18gLftz.jpg",
           "budget": 10000000,
           "gross": 150501815
@@ -4357,7 +3914,6 @@
         {
           "year": 2015,
           "title": "Chappie",
-          "character": "Deon Wilson",
           "poster": "https://image.tmdb.org/t/p/w185/uuDUpzlMFomdSfNWlpEPS9nVZWV.jpg",
           "budget": 49000000,
           "gross": 104399548
@@ -4365,7 +3921,6 @@
         {
           "year": 2015,
           "title": "The Second Best Exotic Marigold Hotel",
-          "character": "Sonny Kapoor",
           "poster": "https://image.tmdb.org/t/p/w185/j4PARl3gDpv2K45YAv0tgocLW5K.jpg",
           "budget": 10000000,
           "gross": 85979176
@@ -4373,7 +3928,6 @@
         {
           "year": 2016,
           "title": "Lion",
-          "character": "Saroo Brierley",
           "poster": "https://image.tmdb.org/t/p/w185/kCELJH1tCmaRLqvwIgKDb09aEaw.jpg",
           "budget": 12000000,
           "gross": 140312928
@@ -4381,7 +3935,6 @@
         {
           "year": 2018,
           "title": "Hotel Mumbai",
-          "character": "Arjun",
           "poster": "https://image.tmdb.org/t/p/w185/v32SC4HFZtlDRWXMaR2V2dWqAXJ.jpg",
           "budget": 25000000,
           "gross": 16900000
@@ -4389,7 +3942,6 @@
         {
           "year": 2019,
           "title": "The Personal History of David Copperfield",
-          "character": "David Copperfield",
           "poster": "https://image.tmdb.org/t/p/w185/2epgo9k2Jrs7qrTL1Rork1mDSKT.jpg",
           "budget": 15600000,
           "gross": 11620337
@@ -4397,7 +3949,6 @@
         {
           "year": 2021,
           "title": "The Green Knight",
-          "character": "Gawain",
           "poster": "https://image.tmdb.org/t/p/w185/if4hw3Ou5Sav9Em7WWHj66mnywp.jpg",
           "budget": 15000000,
           "gross": 18887953
@@ -4405,7 +3956,6 @@
         {
           "year": 2024,
           "title": "Monkey Man",
-          "character": "Kid",
           "poster": "https://image.tmdb.org/t/p/w185/4lhR4L2vzzjl68P1zJyCH755Oz4.jpg",
           "budget": 10000000,
           "gross": 35271631
@@ -4430,7 +3980,6 @@
         {
           "year": 2009,
           "title": "Fast & Furious",
-          "character": "Gisele Yashar",
           "poster": "https://image.tmdb.org/t/p/w185/lUtVoRukW7WNtUySwd8hWlByBds.jpg",
           "budget": 85000000,
           "gross": 363164265
@@ -4438,7 +3987,6 @@
         {
           "year": 2010,
           "title": "Knight and Day",
-          "character": "Naomi",
           "poster": "https://image.tmdb.org/t/p/w185/phhp52CZZJiGYmiOTp9ZBDkGHB3.jpg",
           "budget": 117000000,
           "gross": 261989769
@@ -4446,7 +3994,6 @@
         {
           "year": 2011,
           "title": "Fast Five",
-          "character": "Gisele Yashar",
           "poster": "https://image.tmdb.org/t/p/w185/gEfQjjQwY7fh5bI4GlG0RrBu7Pz.jpg",
           "budget": 125000000,
           "gross": 626100000
@@ -4454,7 +4001,6 @@
         {
           "year": 2013,
           "title": "Fast & Furious 6",
-          "character": "Gisele Yashar",
           "poster": "https://image.tmdb.org/t/p/w185/thSmnRdrzPBBospIOJjLZBReqzo.jpg",
           "budget": 160000000,
           "gross": 788700000
@@ -4462,7 +4008,6 @@
         {
           "year": 2016,
           "title": "Batman v Superman: Dawn of Justice",
-          "character": "Diana Prince / Wonder Woman",
           "poster": "https://image.tmdb.org/t/p/w185/5UsK3grJvtQrtzEgqNlDljJW96w.jpg",
           "budget": 250000000,
           "gross": 874362803
@@ -4470,7 +4015,6 @@
         {
           "year": 2017,
           "title": "Justice League",
-          "character": "Wonder Woman / Diana Prince",
           "poster": "https://image.tmdb.org/t/p/w185/eifGNCSDuxJeS1loAXil5bIGgvC.jpg",
           "budget": 300000000,
           "gross": 661326987
@@ -4478,7 +4022,6 @@
         {
           "year": 2017,
           "title": "Wonder Woman",
-          "character": "Diana Prince / Wonder Woman",
           "poster": "https://image.tmdb.org/t/p/w185/v4ncgZjG2Zu8ZW5al1vIZTsSjqX.jpg",
           "budget": 149000000,
           "gross": 823970682
@@ -4486,7 +4029,6 @@
         {
           "year": 2018,
           "title": "Ralph Breaks the Internet",
-          "character": "Shank (voice)",
           "poster": "https://image.tmdb.org/t/p/w185/iVCrhBcpDaHGvv7CLYbK6PuXZo1.jpg",
           "budget": 175000000,
           "gross": 529323962
@@ -4494,7 +4036,6 @@
         {
           "year": 2020,
           "title": "Wonder Woman 1984",
-          "character": "Diana Prince",
           "poster": "https://image.tmdb.org/t/p/w185/8UlWHLMpgZm9bx6QYh0NFoq67TZ.jpg",
           "budget": 200000000,
           "gross": 169601036
@@ -4502,7 +4043,6 @@
         {
           "year": 2021,
           "title": "Red Notice",
-          "character": "Sarah Black / The Bishop",
           "poster": "https://image.tmdb.org/t/p/w185/lAXONuqg41NwUMuzMiFvicDET9Y.jpg",
           "budget": 160000000,
           "gross": 178143
@@ -4527,7 +4067,6 @@
         {
           "year": 2007,
           "title": "Stardust",
-          "character": "Humphrey",
           "poster": "https://image.tmdb.org/t/p/w185/le1gPiqeWrCj5FkjBtcF9clFmdX.jpg",
           "budget": 70000000,
           "gross": 137500000
@@ -4535,7 +4074,6 @@
         {
           "year": 2011,
           "title": "Immortals",
-          "character": "Theseus",
           "poster": "https://image.tmdb.org/t/p/w185/4SPPX5KIyaQ9O8n5rLvvUIiIhpF.jpg",
           "budget": 75000000,
           "gross": 226904017
@@ -4543,7 +4081,6 @@
         {
           "year": 2013,
           "title": "Man of Steel",
-          "character": "Clark Kent",
           "poster": "https://image.tmdb.org/t/p/w185/8GFtkImmK0K1VaUChR0n9O61CFU.jpg",
           "budget": 225000000,
           "gross": 668045518
@@ -4551,7 +4088,6 @@
         {
           "year": 2015,
           "title": "The Man from U.N.C.L.E.",
-          "character": "Napoleon Solo",
           "poster": "https://image.tmdb.org/t/p/w185/y5yZaForGSJbPD66Cvq9AT5WMAD.jpg",
           "budget": 75000000,
           "gross": 110045109
@@ -4559,7 +4095,6 @@
         {
           "year": 2016,
           "title": "Batman v Superman: Dawn of Justice",
-          "character": "Clark Kent",
           "poster": "https://image.tmdb.org/t/p/w185/5UsK3grJvtQrtzEgqNlDljJW96w.jpg",
           "budget": 250000000,
           "gross": 874362803
@@ -4567,7 +4102,6 @@
         {
           "year": 2017,
           "title": "Justice League",
-          "character": "Clark Kent",
           "poster": "https://image.tmdb.org/t/p/w185/eifGNCSDuxJeS1loAXil5bIGgvC.jpg",
           "budget": 300000000,
           "gross": 661326987
@@ -4575,7 +4109,6 @@
         {
           "year": 2018,
           "title": "Mission: Impossible – Fallout",
-          "character": "August Walker",
           "poster": "https://image.tmdb.org/t/p/w185/AkJQpZp9WoNdj7pLYSj1L0RcMMN.jpg",
           "budget": 178000000,
           "gross": 824171374
@@ -4583,7 +4116,6 @@
         {
           "year": 2020,
           "title": "Enola Holmes",
-          "character": "Sherlock Holmes",
           "poster": "https://image.tmdb.org/t/p/w185/riYInlsq2kf1AWoGm80JQW5dLKp.jpg",
           "budget": 21000000,
           "gross": null
@@ -4591,7 +4123,6 @@
         {
           "year": 2024,
           "title": "Argylle",
-          "character": "Agent Argylle",
           "poster": "https://image.tmdb.org/t/p/w185/siduVKgOnABO4WH4lOwPQwaGwJp.jpg",
           "budget": 200000000,
           "gross": 96221061
@@ -4618,7 +4149,6 @@
         {
           "year": 2001,
           "title": "Donnie Darko",
-          "character": "Donnie Darko",
           "poster": "https://image.tmdb.org/t/p/w185/j2AtZFsflxiluaNtajMTI0Avm8C.jpg",
           "budget": 4500000,
           "gross": 7500000
@@ -4626,7 +4156,6 @@
         {
           "year": 2004,
           "title": "The Day After Tomorrow",
-          "character": "Sam Hall",
           "poster": "https://image.tmdb.org/t/p/w185/Wr4HeYQRvwVCxzOV5TmGE7UkXq.jpg",
           "budget": 125000000,
           "gross": 552639571
@@ -4634,7 +4163,6 @@
         {
           "year": 2005,
           "title": "Brokeback Mountain",
-          "character": "Jack Twist",
           "poster": "https://image.tmdb.org/t/p/w185/aByfQOQBNa4CMFwIgq3QrqY2ZHh.jpg",
           "budget": 14000000,
           "gross": 178043761
@@ -4642,7 +4170,6 @@
         {
           "year": 2007,
           "title": "Zodiac",
-          "character": "Robert Graysmith",
           "poster": "https://image.tmdb.org/t/p/w185/6YmeO4pB7XTh8P8F960O1uA14JO.jpg",
           "budget": 65000000,
           "gross": 84785914
@@ -4650,7 +4177,6 @@
         {
           "year": 2010,
           "title": "Love & Other Drugs",
-          "character": "Jamie Randall",
           "poster": "https://image.tmdb.org/t/p/w185/wZLM2uKJRYNchLmiCIjosX0rXy8.jpg",
           "budget": 30000000,
           "gross": 102800000
@@ -4658,7 +4184,6 @@
         {
           "year": 2011,
           "title": "Source Code",
-          "character": "Colter Stevens",
           "poster": "https://image.tmdb.org/t/p/w185/nTr0lvAzeQmUjgSgDEHTJpnrxTz.jpg",
           "budget": 32000000,
           "gross": 147332697
@@ -4666,7 +4191,6 @@
         {
           "year": 2013,
           "title": "Prisoners",
-          "character": "Detective Loki",
           "poster": "https://image.tmdb.org/t/p/w185/uhviyknTT5cEQXbn6vWIqfM4vGm.jpg",
           "budget": 46000000,
           "gross": 122127446
@@ -4674,7 +4198,6 @@
         {
           "year": 2014,
           "title": "Nightcrawler",
-          "character": "Louis Bloom",
           "poster": "https://image.tmdb.org/t/p/w185/j9HrX8f7GbZQm1BrBiR40uFQZSb.jpg",
           "budget": 8500000,
           "gross": 47425835
@@ -4682,7 +4205,6 @@
         {
           "year": 2017,
           "title": "Life",
-          "character": "Dr. David Jordan",
           "poster": "https://image.tmdb.org/t/p/w185/wztfli5NgYDgurVgShNflvnyA3Z.jpg",
           "budget": 58000000,
           "gross": 100541806
@@ -4690,7 +4212,6 @@
         {
           "year": 2019,
           "title": "Spider-Man: Far From Home",
-          "character": "Quentin Beck / Mysterio",
           "poster": "https://image.tmdb.org/t/p/w185/4q2NNj4S5dG2RLF9CpXsej7yXl.jpg",
           "budget": 160000000,
           "gross": 1132723226
@@ -4715,7 +4236,6 @@
         {
           "year": 2011,
           "title": "Attack the Block",
-          "character": "Moses",
           "poster": "https://image.tmdb.org/t/p/w185/wzCMnA6NDruLzgWeqMcLPDrGAdF.jpg",
           "budget": 13000000,
           "gross": 6333688
@@ -4723,7 +4243,6 @@
         {
           "year": 2015,
           "title": "Star Wars: The Force Awakens",
-          "character": "Finn",
           "poster": "https://image.tmdb.org/t/p/w185/wqnLdwVXoBjKibFRR5U3y0aDUhs.jpg",
           "budget": 245000000,
           "gross": 2068223624
@@ -4731,7 +4250,6 @@
         {
           "year": 2017,
           "title": "Detroit",
-          "character": "Melvin Dismukes",
           "poster": "https://image.tmdb.org/t/p/w185/r0ldqSFASpqSM5xTrpcZGO6Ef2G.jpg",
           "budget": 34000000,
           "gross": 23400000
@@ -4739,7 +4257,6 @@
         {
           "year": 2017,
           "title": "Star Wars: The Last Jedi",
-          "character": "Finn",
           "poster": "https://image.tmdb.org/t/p/w185/kOVEVeg59E0wsnXmF9nrh6OmWII.jpg",
           "budget": 300000000,
           "gross": 1334407706
@@ -4747,7 +4264,6 @@
         {
           "year": 2017,
           "title": "The Circle",
-          "character": "Ty",
           "poster": "https://image.tmdb.org/t/p/w185/bQVqd5rWrx5GbXhJNuvKy4Viz6j.jpg",
           "budget": 18000000,
           "gross": 40651864
@@ -4755,7 +4271,6 @@
         {
           "year": 2018,
           "title": "Pacific Rim: Uprising",
-          "character": "Jake Pentecost",
           "poster": "https://image.tmdb.org/t/p/w185/nFWhttU8PM50t25NPdy7PE7rv3G.jpg",
           "budget": 150000000,
           "gross": 290061297
@@ -4763,7 +4278,6 @@
         {
           "year": 2019,
           "title": "Star Wars: The Rise of Skywalker",
-          "character": "Finn",
           "poster": "https://image.tmdb.org/t/p/w185/db32LaOibwEliAmSL2jjDF6oDdj.jpg",
           "budget": 489900000,
           "gross": 1074144248
@@ -4771,7 +4285,6 @@
         {
           "year": 2022,
           "title": "The Woman King",
-          "character": "King Ghezo",
           "poster": "https://image.tmdb.org/t/p/w185/438QXt1E3WJWb3PqNniK0tAE5c1.jpg",
           "budget": 50000000,
           "gross": 97562514
@@ -4798,7 +4311,6 @@
         {
           "year": 2013,
           "title": "12 Years a Slave",
-          "character": "Patsey",
           "poster": "https://image.tmdb.org/t/p/w185/xdANQijuNrJaw1HA61rDccME4Tm.jpg",
           "budget": 20000000,
           "gross": 187000000
@@ -4806,7 +4318,6 @@
         {
           "year": 2014,
           "title": "Non-Stop",
-          "character": "Gwen",
           "poster": "https://image.tmdb.org/t/p/w185/Nkgaj3X0W2jHQ1TzHEgWFpN3kJ.jpg",
           "budget": 50000000,
           "gross": 222809600
@@ -4814,7 +4325,6 @@
         {
           "year": 2015,
           "title": "Star Wars: The Force Awakens",
-          "character": "Maz Kanata",
           "poster": "https://image.tmdb.org/t/p/w185/wqnLdwVXoBjKibFRR5U3y0aDUhs.jpg",
           "budget": 245000000,
           "gross": 2068223624
@@ -4822,7 +4332,6 @@
         {
           "year": 2016,
           "title": "The Jungle Book",
-          "character": "Raksha (voice)",
           "poster": "https://image.tmdb.org/t/p/w185/2Epx7F9X7DrFptn4seqn4mzBVks.jpg",
           "budget": 175000000,
           "gross": 966550600
@@ -4830,7 +4339,6 @@
         {
           "year": 2017,
           "title": "Star Wars: The Last Jedi",
-          "character": "Maz Kanata",
           "poster": "https://image.tmdb.org/t/p/w185/kOVEVeg59E0wsnXmF9nrh6OmWII.jpg",
           "budget": 300000000,
           "gross": 1334407706
@@ -4838,7 +4346,6 @@
         {
           "year": 2018,
           "title": "Black Panther",
-          "character": "Nakia",
           "poster": "https://image.tmdb.org/t/p/w185/uxzzxijgPIY7slzFvMotPv8wjKA.jpg",
           "budget": 200000000,
           "gross": 1349926083
@@ -4846,7 +4353,6 @@
         {
           "year": 2019,
           "title": "Star Wars: The Rise of Skywalker",
-          "character": "Maz Kanata",
           "poster": "https://image.tmdb.org/t/p/w185/db32LaOibwEliAmSL2jjDF6oDdj.jpg",
           "budget": 489900000,
           "gross": 1074144248
@@ -4854,7 +4360,6 @@
         {
           "year": 2019,
           "title": "Us",
-          "character": "Adelaide Wilson / Red",
           "poster": "https://image.tmdb.org/t/p/w185/ux2dU1jQ2ACIMShzB3yP93Udpzc.jpg",
           "budget": 20000000,
           "gross": 256071218
@@ -4862,7 +4367,6 @@
         {
           "year": 2022,
           "title": "Black Panther: Wakanda Forever",
-          "character": "Nakia",
           "poster": "https://image.tmdb.org/t/p/w185/sv1xJUazXeYqALzczSZ3O6nkH75.jpg",
           "budget": 250000000,
           "gross": 859102154
@@ -4870,7 +4374,6 @@
         {
           "year": 2024,
           "title": "The Wild Robot",
-          "character": "Roz / Rummage (voice)",
           "poster": "https://image.tmdb.org/t/p/w185/wTnV3PCVW5O92JMrFvvrRcV39RU.jpg",
           "budget": 78000000,
           "gross": 331982078
@@ -4897,7 +4400,6 @@
         {
           "year": 2004,
           "title": "King Arthur",
-          "character": "Tristan",
           "poster": "https://image.tmdb.org/t/p/w185/iKLZEAnjzr51Ij7TJtNejc5CN3i.jpg",
           "budget": 120000000,
           "gross": 203567857
@@ -4905,7 +4407,6 @@
         {
           "year": 2006,
           "title": "Casino Royale",
-          "character": "Le Chiffre",
           "poster": "https://image.tmdb.org/t/p/w185/lMrxYKKhd4lqRzwUHAy5gcx9PSO.jpg",
           "budget": 150000000,
           "gross": 599045960
@@ -4913,7 +4414,6 @@
         {
           "year": 2010,
           "title": "Clash of the Titans",
-          "character": "Draco",
           "poster": "https://image.tmdb.org/t/p/w185/6iHYLipwEyZUPNO8MM3l1yHDaFE.jpg",
           "budget": 125000000,
           "gross": 493214993
@@ -4921,7 +4421,6 @@
         {
           "year": 2012,
           "title": "A Royal Affair",
-          "character": "Johann Struensee",
           "poster": "https://image.tmdb.org/t/p/w185/AafVGIirBlCw8Whb4DSPSLX9nGW.jpg",
           "budget": 8000000,
           "gross": 14800000
@@ -4929,7 +4428,6 @@
         {
           "year": 2012,
           "title": "The Hunt",
-          "character": "Lucas",
           "poster": "https://image.tmdb.org/t/p/w185/jkixsXzRh28q3PCqFoWcf7unghT.jpg",
           "budget": 3800000,
           "gross": 18300000
@@ -4937,7 +4435,6 @@
         {
           "year": 2016,
           "title": "Doctor Strange",
-          "character": "Kaecilius",
           "poster": "https://image.tmdb.org/t/p/w185/uGBVj3bEbCoZbDjjl9wTxcygko1.jpg",
           "budget": 180000000,
           "gross": 676343174
@@ -4945,7 +4442,6 @@
         {
           "year": 2016,
           "title": "Rogue One: A Star Wars Story",
-          "character": "Galen Erso",
           "poster": "https://image.tmdb.org/t/p/w185/i0yw1mFbB7sNGHCs7EXZPzFkdA1.jpg",
           "budget": 200000000,
           "gross": 1056057273
@@ -4953,7 +4449,6 @@
         {
           "year": 2020,
           "title": "Another Round",
-          "character": "Martin",
           "poster": "https://image.tmdb.org/t/p/w185/aDcIt4NHURLKnAEu7gow51Yd00Q.jpg",
           "budget": 5150000,
           "gross": 21700000
@@ -4961,7 +4456,6 @@
         {
           "year": 2022,
           "title": "Fantastic Beasts: The Secrets of Dumbledore",
-          "character": "Gellert Grindelwald",
           "poster": "https://image.tmdb.org/t/p/w185/3c5GNLB4yRSLBby0trHoA1DSQxQ.jpg",
           "budget": 200000000,
           "gross": 407200000
@@ -4969,7 +4463,6 @@
         {
           "year": 2023,
           "title": "Indiana Jones and the Dial of Destiny",
-          "character": "Jürgen Voller",
           "poster": "https://image.tmdb.org/t/p/w185/Af4bXE63pVsb2FtbW8uYIyPBadD.jpg",
           "budget": 294700000,
           "gross": 383963057
@@ -4994,7 +4487,6 @@
         {
           "year": 2007,
           "title": "La Vie en Rose",
-          "character": "Édith Piaf",
           "poster": "https://image.tmdb.org/t/p/w185/3b9DAONAsFRhJKu25R33PE3VwDh.jpg",
           "budget": 25000000,
           "gross": 86274793
@@ -5002,7 +4494,6 @@
         {
           "year": 2009,
           "title": "Nine",
-          "character": "Luisa Contini",
           "poster": "https://image.tmdb.org/t/p/w185/bSxdTXktgPQPNwlkQ0DZtuAJXlb.jpg",
           "budget": 80000000,
           "gross": 53825515
@@ -5010,7 +4501,6 @@
         {
           "year": 2009,
           "title": "Public Enemies",
-          "character": "Billie Frechette",
           "poster": "https://image.tmdb.org/t/p/w185/3KgtekisQBrHRsm2cD5UOB6Ce3k.jpg",
           "budget": 100000000,
           "gross": 214104620
@@ -5018,7 +4508,6 @@
         {
           "year": 2010,
           "title": "Inception",
-          "character": "Mal Cobb",
           "poster": "https://image.tmdb.org/t/p/w185/xlaY2zyzMfkhk0HSC5VUwzoZPU1.jpg",
           "budget": 160000000,
           "gross": 839030630
@@ -5026,7 +4515,6 @@
         {
           "year": 2011,
           "title": "Contagion",
-          "character": "Dr. Leonora Orantes",
           "poster": "https://image.tmdb.org/t/p/w185/qL0IooP0bjXy0KXl9KEyPo22ll0.jpg",
           "budget": 60000000,
           "gross": 137551594
@@ -5034,7 +4522,6 @@
         {
           "year": 2011,
           "title": "Midnight in Paris",
-          "character": "Adriana",
           "poster": "https://image.tmdb.org/t/p/w185/4wBG5kbfagTQclETblPRRGihk0I.jpg",
           "budget": 17000000,
           "gross": 151119219
@@ -5042,7 +4529,6 @@
         {
           "year": 2012,
           "title": "Rust and Bone",
-          "character": "Stéphanie",
           "poster": "https://image.tmdb.org/t/p/w185/6bcerd7CeQ5y5Dilym1O2C8c8Gl.jpg",
           "budget": 15400000,
           "gross": 25762027
@@ -5050,7 +4536,6 @@
         {
           "year": 2012,
           "title": "The Dark Knight Rises",
-          "character": "Miranda Tate",
           "poster": "https://image.tmdb.org/t/p/w185/hr0L2aueqlP2BYUblTTjmtn0hw4.jpg",
           "budget": 250000000,
           "gross": 1081041287
@@ -5058,7 +4543,6 @@
         {
           "year": 2014,
           "title": "Two Days, One Night",
-          "character": "Sandra",
           "poster": "https://image.tmdb.org/t/p/w185/2qpZZ5a5Axpk8OeCtrvNTQfJiB2.jpg",
           "budget": 7000000,
           "gross": 9016922
@@ -5066,7 +4550,6 @@
         {
           "year": 2015,
           "title": "Macbeth",
-          "character": "Lady Macbeth",
           "poster": "https://image.tmdb.org/t/p/w185/a5NEpil29Uns1wEYF8k99qVgj1T.jpg",
           "budget": 15000000,
           "gross": 16322067
@@ -5093,7 +4576,6 @@
         {
           "year": 2007,
           "title": "300",
-          "character": "Stelios",
           "poster": "https://image.tmdb.org/t/p/w185/h7Lcio0c9ohxPhSZg42eTlKIVVY.jpg",
           "budget": 65000000,
           "gross": 456082343
@@ -5101,7 +4583,6 @@
         {
           "year": 2009,
           "title": "Inglourious Basterds",
-          "character": "LT. Archie Hicox",
           "poster": "https://image.tmdb.org/t/p/w185/aupnPtagH9JVBuMrGEanf4iqXEQ.jpg",
           "budget": 70000000,
           "gross": 321457747
@@ -5109,7 +4590,6 @@
         {
           "year": 2011,
           "title": "X-Men: First Class",
-          "character": "Erik Lehnsherr",
           "poster": "https://image.tmdb.org/t/p/w185/hNEokmUke0dazoBhttFN0o3L7Xv.jpg",
           "budget": 160000000,
           "gross": 353624124
@@ -5117,7 +4597,6 @@
         {
           "year": 2012,
           "title": "Prometheus",
-          "character": "David",
           "poster": "https://image.tmdb.org/t/p/w185/qsYQflQhOuhDpQ0W2aOcwqgDAeI.jpg",
           "budget": 130000000,
           "gross": 403354469
@@ -5125,7 +4604,6 @@
         {
           "year": 2013,
           "title": "12 Years a Slave",
-          "character": "Edwin Epps",
           "poster": "https://image.tmdb.org/t/p/w185/xdANQijuNrJaw1HA61rDccME4Tm.jpg",
           "budget": 20000000,
           "gross": 187000000
@@ -5133,7 +4611,6 @@
         {
           "year": 2014,
           "title": "X-Men: Days of Future Past",
-          "character": "Erik Lehnsherr",
           "poster": "https://image.tmdb.org/t/p/w185/tYfijzolzgoMOtegh1Y7j2Enorg.jpg",
           "budget": 250000000,
           "gross": 748045700
@@ -5141,7 +4618,6 @@
         {
           "year": 2016,
           "title": "Assassin's Creed",
-          "character": "Callum Lynch / Aguilar de Nerha",
           "poster": "https://image.tmdb.org/t/p/w185/kDXewoEcvbn0pUvJ8W3vfkuWgHw.jpg",
           "budget": 125000000,
           "gross": 240700000
@@ -5149,7 +4625,6 @@
         {
           "year": 2016,
           "title": "X-Men: Apocalypse",
-          "character": "Erik Lehnsherr / Magneto",
           "poster": "https://image.tmdb.org/t/p/w185/ikA8UhYdTGpqbatFa93nIf6noSr.jpg",
           "budget": 178000000,
           "gross": 543934787
@@ -5157,7 +4632,6 @@
         {
           "year": 2017,
           "title": "Alien: Covenant",
-          "character": "David / Walter",
           "poster": "https://image.tmdb.org/t/p/w185/zecMELPbU5YMQpC81Z8ImaaXuf9.jpg",
           "budget": 97000000,
           "gross": 240891763
@@ -5165,7 +4639,6 @@
         {
           "year": 2019,
           "title": "Dark Phoenix",
-          "character": "Erik Lensherr / Magneto",
           "poster": "https://image.tmdb.org/t/p/w185/cCTJPelKGLhALq3r51A9uMonxKj.jpg",
           "budget": 200000000,
           "gross": 252442974
@@ -5190,7 +4663,6 @@
         {
           "year": 2011,
           "title": "Drive",
-          "character": "Standard",
           "poster": "https://image.tmdb.org/t/p/w185/602vevIURmpDfzbnv5Ubi6wIkQm.jpg",
           "budget": 15000000,
           "gross": 79713640
@@ -5198,7 +4670,6 @@
         {
           "year": 2015,
           "title": "Ex Machina",
-          "character": "Nathan",
           "poster": "https://image.tmdb.org/t/p/w185/dmJW8IAKHKxFNiUnoDR7JfsK7Rp.jpg",
           "budget": 15000000,
           "gross": 36869414
@@ -5206,7 +4677,6 @@
         {
           "year": 2015,
           "title": "Star Wars: The Force Awakens",
-          "character": "Poe Dameron",
           "poster": "https://image.tmdb.org/t/p/w185/wqnLdwVXoBjKibFRR5U3y0aDUhs.jpg",
           "budget": 245000000,
           "gross": 2068223624
@@ -5214,7 +4684,6 @@
         {
           "year": 2016,
           "title": "X-Men: Apocalypse",
-          "character": "En Sabah Nur / Apocalypse",
           "poster": "https://image.tmdb.org/t/p/w185/ikA8UhYdTGpqbatFa93nIf6noSr.jpg",
           "budget": 178000000,
           "gross": 543934787
@@ -5222,7 +4691,6 @@
         {
           "year": 2017,
           "title": "Star Wars: The Last Jedi",
-          "character": "Poe Dameron",
           "poster": "https://image.tmdb.org/t/p/w185/kOVEVeg59E0wsnXmF9nrh6OmWII.jpg",
           "budget": 300000000,
           "gross": 1334407706
@@ -5230,7 +4698,6 @@
         {
           "year": 2018,
           "title": "Annihilation",
-          "character": "Kane",
           "poster": "https://image.tmdb.org/t/p/w185/4YRplSk6BhH6PRuE9gfyw9byUJ6.jpg",
           "budget": 40000000,
           "gross": 43070915
@@ -5238,7 +4705,6 @@
         {
           "year": 2018,
           "title": "Spider-Man: Into the Spider-Verse",
-          "character": "Interesting Person #1 (voice)",
           "poster": "https://image.tmdb.org/t/p/w185/iiZZdoQBEYBv6id8su7ImL0oCbD.jpg",
           "budget": 90000000,
           "gross": 394884133
@@ -5246,7 +4712,6 @@
         {
           "year": 2019,
           "title": "Star Wars: The Rise of Skywalker",
-          "character": "Poe Dameron",
           "poster": "https://image.tmdb.org/t/p/w185/db32LaOibwEliAmSL2jjDF6oDdj.jpg",
           "budget": 489900000,
           "gross": 1074144248
@@ -5254,7 +4719,6 @@
         {
           "year": 2021,
           "title": "Dune",
-          "character": "Duke Leto Atreides",
           "poster": "https://image.tmdb.org/t/p/w185/v1tRXZ4JtD2Iv6fjkPvT4GiwslV.jpg",
           "budget": 165000000,
           "gross": 410668500
@@ -5262,7 +4726,6 @@
         {
           "year": 2023,
           "title": "Spider-Man: Across the Spider-Verse",
-          "character": "Miguel O'Hara (voice)",
           "poster": "https://image.tmdb.org/t/p/w185/8Vt6mWEReuy4Of61Lnj5Xj704m8.jpg",
           "budget": 100000000,
           "gross": 690897910
@@ -5287,7 +4750,6 @@
         {
           "year": 2006,
           "title": "Night at the Museum",
-          "character": "Ahkmenrah",
           "poster": "https://image.tmdb.org/t/p/w185/pDsAAYf6Zn0yiAGJ6lYGs6hoZ4E.jpg",
           "budget": 110000000,
           "gross": 574480841
@@ -5295,7 +4757,6 @@
         {
           "year": 2009,
           "title": "Night at the Museum: Battle of the Smithsonian",
-          "character": "Ahkmenrah",
           "poster": "https://image.tmdb.org/t/p/w185/l9yAQn6TyrA3gv5xZZkiMMoZsiw.jpg",
           "budget": 150000000,
           "gross": 413106170
@@ -5303,7 +4764,6 @@
         {
           "year": 2014,
           "title": "Need for Speed",
-          "character": "Finn",
           "poster": "https://image.tmdb.org/t/p/w185/4ktdbrhCnAoDGLW36afjB717Sa.jpg",
           "budget": 66000000,
           "gross": 203277636
@@ -5311,7 +4771,6 @@
         {
           "year": 2014,
           "title": "Night at the Museum: Secret of the Tomb",
-          "character": "Ahkmenrah",
           "poster": "https://image.tmdb.org/t/p/w185/xwgy305K6qDs3D20xUO4OZu1HPY.jpg",
           "budget": 127000000,
           "gross": 363204635
@@ -5319,7 +4778,6 @@
         {
           "year": 2017,
           "title": "Papillon",
-          "character": "Louis Dega",
           "poster": "https://image.tmdb.org/t/p/w185/ahF5c6vyP8HWMqIwlhecbRALkjq.jpg",
           "budget": 20000000,
           "gross": 10060903
@@ -5327,7 +4785,6 @@
         {
           "year": 2018,
           "title": "Bohemian Rhapsody",
-          "character": "Freddie Mercury",
           "poster": "https://image.tmdb.org/t/p/w185/lHu1wtNaczFPGFDTrjCSzeLPTKN.jpg",
           "budget": 52000000,
           "gross": 910813521
@@ -5335,7 +4792,6 @@
         {
           "year": 2021,
           "title": "No Time to Die",
-          "character": "Lyutsifer Safin",
           "poster": "https://image.tmdb.org/t/p/w185/iUgygt3fscRoKWCV1d0C7FbM9TP.jpg",
           "budget": 250000000,
           "gross": 774153024
@@ -5343,7 +4799,6 @@
         {
           "year": 2021,
           "title": "The Little Things",
-          "character": "Jim Baxter",
           "poster": "https://image.tmdb.org/t/p/w185/tLO1aD1ghdtVMT32z2sRmzgYKYd.jpg",
           "budget": 30000000,
           "gross": 29942746
@@ -5351,7 +4806,6 @@
         {
           "year": 2023,
           "title": "Oppenheimer",
-          "character": "David Hill",
           "poster": "https://image.tmdb.org/t/p/w185/8Gxv8gSFCU0XGDykEGv7zR1n2ua.jpg",
           "budget": 100000000,
           "gross": 952000000
@@ -5359,7 +4813,6 @@
         {
           "year": 2025,
           "title": "The Amateur",
-          "character": "Charles Heller",
           "poster": "https://image.tmdb.org/t/p/w185/SNEoUInCa5fAgwuEBMIMBGvkkh.jpg",
           "budget": 60000000,
           "gross": 96000836
@@ -5384,7 +4837,6 @@
         {
           "year": 2015,
           "title": "Mission: Impossible - Rogue Nation",
-          "character": "Ilsa Faust",
           "poster": "https://image.tmdb.org/t/p/w185/fRJLXQBHK2wyznK5yZbO7vmsuVK.jpg",
           "budget": 150000000,
           "gross": 682716636
@@ -5392,7 +4844,6 @@
         {
           "year": 2016,
           "title": "The Girl on the Train",
-          "character": "Anna Watson",
           "poster": "https://image.tmdb.org/t/p/w185/AhTO2QWG0tug7yDoh0XoaMhPt3J.jpg",
           "budget": 45000000,
           "gross": 173200000
@@ -5400,7 +4851,6 @@
         {
           "year": 2017,
           "title": "Life",
-          "character": "Miranda North",
           "poster": "https://image.tmdb.org/t/p/w185/wztfli5NgYDgurVgShNflvnyA3Z.jpg",
           "budget": 58000000,
           "gross": 100541806
@@ -5408,7 +4858,6 @@
         {
           "year": 2017,
           "title": "The Greatest Showman",
-          "character": "Jenny Lind",
           "poster": "https://image.tmdb.org/t/p/w185/b9CeobiihCx1uG1tpw8hXmpi7nm.jpg",
           "budget": 84000000,
           "gross": 459066134
@@ -5416,7 +4865,6 @@
         {
           "year": 2018,
           "title": "Mission: Impossible - Fallout",
-          "character": "Ilsa Faust",
           "poster": "https://image.tmdb.org/t/p/w185/AkJQpZp9WoNdj7pLYSj1L0RcMMN.jpg",
           "budget": 178000000,
           "gross": 824171374
@@ -5424,7 +4872,6 @@
         {
           "year": 2019,
           "title": "Doctor Sleep",
-          "character": "Rose the Hat",
           "poster": "https://image.tmdb.org/t/p/w185/p69QzIBbN06aTYqRRiCOY1emNBh.jpg",
           "budget": 45000000,
           "gross": 72385286
@@ -5432,7 +4879,6 @@
         {
           "year": 2019,
           "title": "Men in Black: International",
-          "character": "Riza",
           "poster": "https://image.tmdb.org/t/p/w185/dPrUPFcgLfNbmDL8V69vcrTyEfb.jpg",
           "budget": 110000000,
           "gross": 253890701
@@ -5440,7 +4886,6 @@
         {
           "year": 2021,
           "title": "Dune",
-          "character": "Lady Jessica Atreides",
           "poster": "https://image.tmdb.org/t/p/w185/v1tRXZ4JtD2Iv6fjkPvT4GiwslV.jpg",
           "budget": 165000000,
           "gross": 410668500
@@ -5448,7 +4893,6 @@
         {
           "year": 2023,
           "title": "Mission: Impossible - Dead Reckoning Part One",
-          "character": "Ilsa Faust",
           "poster": "https://image.tmdb.org/t/p/w185/NNxYkU70HPurnNCSiCjYAmacwm.jpg",
           "budget": 220000000,
           "gross": 571125435
@@ -5456,7 +4900,6 @@
         {
           "year": 2024,
           "title": "Dune: Part Two",
-          "character": "Jessica",
           "poster": "https://image.tmdb.org/t/p/w185/6izwz7rsy95ARzTR3poZ8H6c5pp.jpg",
           "budget": 190000000,
           "gross": 714844358
@@ -5481,7 +4924,6 @@
         {
           "year": 2007,
           "title": "Atonement",
-          "character": "Briony Tallis",
           "poster": "https://image.tmdb.org/t/p/w185/hMRIyBjPzxaSXWM06se3OcNjIQa.jpg",
           "budget": 30000000,
           "gross": 131016624
@@ -5489,7 +4931,6 @@
         {
           "year": 2009,
           "title": "The Lovely Bones",
-          "character": "Susie Salmon",
           "poster": "https://image.tmdb.org/t/p/w185/kIa9CyK2yiE4CAy7RJPGe7lztse.jpg",
           "budget": 65000000,
           "gross": 93600000
@@ -5497,7 +4938,6 @@
         {
           "year": 2011,
           "title": "Hanna",
-          "character": "Hanna",
           "poster": "https://image.tmdb.org/t/p/w185/6QDeHwBXDHbCbuzStgUpuUAqnap.jpg",
           "budget": 30000000,
           "gross": 63782078
@@ -5505,7 +4945,6 @@
         {
           "year": 2013,
           "title": "The Host",
-          "character": "Melanie Stryder",
           "poster": "https://image.tmdb.org/t/p/w185/1mfIZw6WgkCX310eoe0Ys14c3Fi.jpg",
           "budget": 44000000,
           "gross": 63300000
@@ -5513,7 +4952,6 @@
         {
           "year": 2014,
           "title": "The Grand Budapest Hotel",
-          "character": "Agatha",
           "poster": "https://image.tmdb.org/t/p/w185/eWdyYQreja6JGCzqHWXpWHDrrPo.jpg",
           "budget": 30000000,
           "gross": 174600318
@@ -5521,7 +4959,6 @@
         {
           "year": 2015,
           "title": "Brooklyn",
-          "character": "Eilis Lacey",
           "poster": "https://image.tmdb.org/t/p/w185/cs7W8j5lI7qzRW6tKSj9p1Q0Ze7.jpg",
           "budget": 11000000,
           "gross": 62076141
@@ -5529,7 +4966,6 @@
         {
           "year": 2017,
           "title": "Lady Bird",
-          "character": "Lady Bird",
           "poster": "https://image.tmdb.org/t/p/w185/gl66K7zRdtNYGrxyS2YDUP5ASZd.jpg",
           "budget": 10000000,
           "gross": 79000000
@@ -5537,7 +4973,6 @@
         {
           "year": 2019,
           "title": "Little Women",
-          "character": "Jo March",
           "poster": "https://image.tmdb.org/t/p/w185/yn5ihODtZ7ofn8pDYfxCmxh8AXI.jpg",
           "budget": 40000000,
           "gross": 332103783
@@ -5562,7 +4997,6 @@
         {
           "year": 2001,
           "title": "Black Hawk Down",
-          "character": "Twombly",
           "poster": "https://image.tmdb.org/t/p/w185/7fU5dSqKRL4XHeEUz62rCKBfYok.jpg",
           "budget": 92000000,
           "gross": 172989651
@@ -5570,7 +5004,6 @@
         {
           "year": 2010,
           "title": "Inception",
-          "character": "Eames",
           "poster": "https://image.tmdb.org/t/p/w185/xlaY2zyzMfkhk0HSC5VUwzoZPU1.jpg",
           "budget": 160000000,
           "gross": 839030630
@@ -5578,7 +5011,6 @@
         {
           "year": 2011,
           "title": "Warrior",
-          "character": "Tommy Conlon",
           "poster": "https://image.tmdb.org/t/p/w185/iM8n4nZJPR2abpnyZ36FUgHiRjr.jpg",
           "budget": 25000000,
           "gross": 23300000
@@ -5586,7 +5018,6 @@
         {
           "year": 2012,
           "title": "The Dark Knight Rises",
-          "character": "Bane",
           "poster": "https://image.tmdb.org/t/p/w185/hr0L2aueqlP2BYUblTTjmtn0hw4.jpg",
           "budget": 250000000,
           "gross": 1081041287
@@ -5594,7 +5025,6 @@
         {
           "year": 2015,
           "title": "Mad Max: Fury Road",
-          "character": "Max Rockatansky",
           "poster": "https://image.tmdb.org/t/p/w185/ulcAi4dKpAjHwYGS08vNyx9H6I9.jpg",
           "budget": 150000000,
           "gross": 378858340
@@ -5602,7 +5032,6 @@
         {
           "year": 2015,
           "title": "The Revenant",
-          "character": "John Fitzgerald",
           "poster": "https://image.tmdb.org/t/p/w185/ji3ecJphATlVgWNY0B0RVXZizdf.jpg",
           "budget": 135000000,
           "gross": 532950503
@@ -5610,7 +5039,6 @@
         {
           "year": 2017,
           "title": "Dunkirk",
-          "character": "Farrier",
           "poster": "https://image.tmdb.org/t/p/w185/b4Oe15CGLL61Ped0RAS9JpqdmCt.jpg",
           "budget": 150000000,
           "gross": 549136737
@@ -5618,7 +5046,6 @@
         {
           "year": 2018,
           "title": "Venom",
-          "character": "Eddie Brock / Venom",
           "poster": "https://image.tmdb.org/t/p/w185/2uNW4WbgBXL25BAbXGLnLqX71Sw.jpg",
           "budget": 116000000,
           "gross": 856085151
@@ -5626,7 +5053,6 @@
         {
           "year": 2021,
           "title": "Venom: Let There Be Carnage",
-          "character": "Eddie Brock / Venom",
           "poster": "https://image.tmdb.org/t/p/w185/pzKsRuKLFmYrW5Q0q8E8G78Tcgo.jpg",
           "budget": 110000000,
           "gross": 506863592
@@ -5651,7 +5077,6 @@
         {
           "year": 2011,
           "title": "Midnight in Paris",
-          "character": "F. Scott Fitzgerald",
           "poster": "https://image.tmdb.org/t/p/w185/4wBG5kbfagTQclETblPRRGihk0I.jpg",
           "budget": 17000000,
           "gross": 151119219
@@ -5659,7 +5084,6 @@
         {
           "year": 2011,
           "title": "Thor",
-          "character": "Loki",
           "poster": "https://image.tmdb.org/t/p/w185/prSfAi1xGrhLQNxVSUFh61xQ4Qy.jpg",
           "budget": 150000000,
           "gross": 449326618
@@ -5667,7 +5091,6 @@
         {
           "year": 2012,
           "title": "The Avengers",
-          "character": "Loki",
           "poster": "https://image.tmdb.org/t/p/w185/RYMX2wcKCBAr24UyPD7xwmjaTn.jpg",
           "budget": 220000000,
           "gross": 1518815515
@@ -5675,7 +5098,6 @@
         {
           "year": 2013,
           "title": "Thor: The Dark World",
-          "character": "Loki",
           "poster": "https://image.tmdb.org/t/p/w185/wp6OxE4poJ4G7c0U2ZIXasTSMR7.jpg",
           "budget": 170000000,
           "gross": 644783140
@@ -5683,7 +5105,6 @@
         {
           "year": 2015,
           "title": "Crimson Peak",
-          "character": "Sir Thomas Sharpe",
           "poster": "https://image.tmdb.org/t/p/w185/f9TOb5anVwZeSbYjU1qNxPk3KUk.jpg",
           "budget": 55000000,
           "gross": 74700000
@@ -5691,7 +5112,6 @@
         {
           "year": 2017,
           "title": "Kong: Skull Island",
-          "character": "Captain James Conrad",
           "poster": "https://image.tmdb.org/t/p/w185/r2517Vz9EhDhj88qwbDVj8DCRZN.jpg",
           "budget": 185000000,
           "gross": 566652812
@@ -5699,7 +5119,6 @@
         {
           "year": 2017,
           "title": "Thor: Ragnarok",
-          "character": "Loki",
           "poster": "https://image.tmdb.org/t/p/w185/rzRwTcFvttcN1ZpX2xv4j3tSdJu.jpg",
           "budget": 180000000,
           "gross": 855301806
@@ -5707,7 +5126,6 @@
         {
           "year": 2018,
           "title": "Avengers: Infinity War",
-          "character": "Loki",
           "poster": "https://image.tmdb.org/t/p/w185/7WsyChQLEftFiDOVTGkv3hFpyyt.jpg",
           "budget": 300000000,
           "gross": 2052415039
@@ -5715,7 +5133,6 @@
         {
           "year": 2019,
           "title": "Avengers: Endgame",
-          "character": "Loki",
           "poster": "https://image.tmdb.org/t/p/w185/ulzhLuWrPK07P1YkdWQLZnQh1JL.jpg",
           "budget": 356000000,
           "gross": 2885439100

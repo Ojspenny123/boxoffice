@@ -1,6 +1,6 @@
 # Box Office data report
 
-Generated: 2026-10-02T12:13:55.979Z
+Generated: 2026-10-02T12:57:25.018Z
 Source: tmdb
 
 Films, posters, photos, budgets, and worldwide grosses come from TMDB. Awards, nationalities, and co-stars stay hand-curated. A zero budget or gross is stored as missing and the game shows an em dash.

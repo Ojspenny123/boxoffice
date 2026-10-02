@@ -68,10 +68,6 @@ function plainTitle(value) {
     .trim();
 }
 
-function escapeRegExp(value) {
-  return value.replace(/[.*+?^${}()|[\]\\]/g, "\\$&");
-}
-
 function actorNames(seed) {
   return [seed.name, ...(seed.alts || [])].filter((name) => name && name.length >= 3);
 }
@@ -101,16 +97,6 @@ function characterIsSelf(character, seed) {
 
 /** Billing order above this is a bit part or a cameo in a huge ensemble. */
 const MAX_BILLING_ORDER = 30;
-
-function maskCharacter(character, seed) {
-  let text = String(character || "").trim();
-  const names = actorNames(seed).slice().sort((a, b) => b.length - a.length);
-  for (const name of names) {
-    text = text.replace(new RegExp(escapeRegExp(name), "gi"), "—");
-  }
-  text = text.replace(/\s+/g, " ").trim();
-  return text || "—";
-}
 
 function idFor(name) {
   let hash = 2166136261;
@@ -332,7 +318,6 @@ async function filmsFromTmdb(seed) {
       popularity: credit.popularity || movie.popularity || 0,
       year: Number(String(movie.release_date || credit.release_date).slice(0, 4)),
       title: movie.title || credit.title,
-      character: maskCharacter(credit.character, seed),
       poster: movie.poster_path ? `https://image.tmdb.org/t/p/w185${movie.poster_path}` : "",
       budget: moneyOrNull(movie.budget),
       gross,
@@ -348,10 +333,10 @@ async function filmsFromTmdb(seed) {
 function filmsFromSeed(seed) {
   const films = (seed.films || [])
     .filter((film) => film?.title && !titleHasActor(film.title, seed))
+    .filter((film) => !characterIsSelf(film.character, seed))
     .map((film) => ({
       year: Number(film.year),
       title: film.title,
-      character: maskCharacter(film.character, seed),
       poster: film.poster || "",
       budget: moneyOrNull(film.budget),
       gross: moneyOrNull(film.gross),
@@ -382,7 +367,6 @@ function packActor(seed, films, photo, birthYear) {
     films: films.map((film) => ({
       year: film.year,
       title: film.title,
-      character: film.character,
       poster: film.poster && !urlSpoils(film.poster, seed) ? film.poster : "",
       budget: film.budget,
       gross: film.gross,
