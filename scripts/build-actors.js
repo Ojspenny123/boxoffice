@@ -168,8 +168,9 @@ async function wikiImage(cache, title, year) {
     const slug = encodeURIComponent(candidate.replace(/ /g, "_"));
     const data = await fetchJson(`${WIKI}${slug}`);
     if (!data || data.type === "disambiguation" || !data.thumbnail?.source) continue;
-    const description = fold(data.description || "");
-    if (!year && /politician|singer|football|soccer/.test(description) && !/actor|actress/.test(description)) {
+    const description = fold(`${data.description || ""} ${data.title || ""}`);
+    if (year && !/film|movie/.test(description)) continue;
+    if (!year && /politician|footballer|soccer/.test(description) && !/actor|actress/.test(description)) {
       continue;
     }
     found = data.thumbnail.source;
@@ -303,7 +304,7 @@ function reportFor(rows, source) {
     `Generated: ${new Date().toISOString()}`,
     `Source: ${source}`,
     "",
-    "Awards and co-stars are hand-curated. TMDB budget and revenue figures are not always accurate; zeros are stored as missing and shown as an em dash.",
+    "Awards, nationalities, and co-stars are hand-curated. When TMDB_API_KEY is missing, budgets and worldwide grosses are rounded public figures from the seed, not a live TMDB pull. Zeros are stored as missing and the game shows an em dash.",
     "",
     "## Needs a look",
     "",
@@ -318,7 +319,10 @@ function reportFor(rows, source) {
     if (missingBudget.length) notes.push(`missing budget: ${missingBudget.join(", ")}`);
     if (missingGross.length) notes.push(`missing gross: ${missingGross.join(", ")}`);
     if (!row.photo) notes.push("missing photo");
-    if (missingPosters) notes.push(`${missingPosters} missing poster${missingPosters === 1 ? "" : "s"}`);
+    if (missingPosters) {
+      const titles = row.films.filter((film) => !film.poster).map((film) => film.title);
+      notes.push(`missing poster${missingPosters === 1 ? "" : "s"}: ${titles.join(", ")}`);
+    }
     if (!row.costar) notes.push("missing co-star");
     if (row.awards.wins == null || row.awards.nominations == null) notes.push("missing awards");
     if (row.note) notes.push(row.note);
@@ -376,7 +380,6 @@ async function main() {
       }
     } else {
       films = filmsFromSeed(person);
-      note = "Curated films (TMDB_API_KEY not set)";
     }
     built.push({ person, films, photo, birthYear, note });
     process.stdout.write(".");
