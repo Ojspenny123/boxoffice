@@ -33,8 +33,8 @@ function memoryStorage() {
   };
 }
 
-assert(VERSION === "1.0.1", "version constant");
-assert(versionLabel() === "v1.0", "footer version label");
+assert(VERSION === "1.1.0", "version constant");
+assert(versionLabel() === "v1.1", "footer version label");
 assert(formatMoney(null) === "—", "null money");
 assert(formatMoney(0) === "—", "zero money");
 assert(formatMoney(185_000_000) === "$185M", "millions");
@@ -138,6 +138,7 @@ const dataPath = path.join(root, "data", "actors.json");
 if (fs.existsSync(dataPath)) {
   const rawText = fs.readFileSync(dataPath, "utf8");
   const payload = JSON.parse(rawText);
+  assert(!rawText.includes('"character"'), "actors.json has no character field");
   const actors = payload.actors.map(decodeActor);
   assert(actors.length >= 60, `at least 60 actors, got ${actors.length}`);
   for (const tier of [1, 2, 3]) {

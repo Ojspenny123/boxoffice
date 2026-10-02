@@ -16,70 +16,60 @@
       {
         "year": 1988,
         "title": "Big",
-        "character": "Josh Baskin",
         "budget": 18000000,
         "gross": 152000000
       },
       {
         "year": 1993,
         "title": "Philadelphia",
-        "character": "Andrew Beckett",
         "budget": 26000000,
         "gross": 207000000
       },
       {
         "year": 1994,
         "title": "Forrest Gump",
-        "character": "Forrest Gump",
         "budget": 55000000,
         "gross": 678000000
       },
       {
         "year": 1995,
         "title": "Apollo 13",
-        "character": "Jim Lovell",
         "budget": 52000000,
         "gross": 355000000
       },
       {
         "year": 1995,
         "title": "Toy Story",
-        "character": "Woody (voice)",
         "budget": 30000000,
         "gross": 394000000
       },
       {
         "year": 1998,
         "title": "Saving Private Ryan",
-        "character": "Captain Miller",
         "budget": 70000000,
         "gross": 482000000
       },
       {
         "year": 1999,
         "title": "Toy Story 2",
-        "character": "Woody (voice)",
         "budget": 90000000,
         "gross": 497000000
       },
       {
         "year": 2000,
         "title": "Cast Away",
-        "character": "Chuck Noland",
         "budget": 90000000,
         "gross": 429000000
       },
       {
         "year": 2002,
         "title": "Catch Me If You Can",
-        "character": "Carl Hanratty",
         "budget": 52000000,
         "gross": 352000000
       },
       {
         "year": 2010,
         "title": "Toy Story 3",
-        "character": "Woody (voice)",
         "budget": 200000000,
         "gross": 1067000000
       }
@@ -100,63 +90,54 @@
       {
         "year": 1979,
         "title": "Kramer vs. Kramer",
-        "character": "Joanna Kramer",
         "budget": 8000000,
         "gross": 106000000
       },
       {
         "year": 1982,
         "title": "Sophie's Choice",
-        "character": "Sophie Zawistowski",
         "budget": 12000000,
         "gross": 60000000
       },
       {
         "year": 1985,
         "title": "Out of Africa",
-        "character": "Karen Blixen",
         "budget": 28000000,
         "gross": 128000000
       },
       {
         "year": 1995,
         "title": "The Bridges of Madison County",
-        "character": "Francesca Johnson",
         "budget": 24000000,
         "gross": 182000000
       },
       {
         "year": 2002,
         "title": "Adaptation",
-        "character": "Susan Orlean",
         "budget": 19000000,
         "gross": 32000000
       },
       {
         "year": 2006,
         "title": "The Devil Wears Prada",
-        "character": "Miranda Priestly",
         "budget": 35000000,
         "gross": 326000000
       },
       {
         "year": 2008,
         "title": "Mamma Mia!",
-        "character": "Donna Sheridan",
         "budget": 52000000,
         "gross": 610000000
       },
       {
         "year": 2009,
         "title": "Julie & Julia",
-        "character": "Julia Child",
         "budget": 40000000,
         "gross": 129000000
       },
       {
         "year": 2011,
         "title": "The Iron Lady",
-        "character": "Margaret Thatcher",
         "budget": 13000000,
         "gross": 115000000
       }
@@ -179,70 +160,60 @@
       {
         "year": 1997,
         "title": "Titanic",
-        "character": "Jack Dawson",
         "budget": 200000000,
         "gross": 2200000000
       },
       {
         "year": 2002,
         "title": "Catch Me If You Can",
-        "character": "Frank Abagnale Jr.",
         "budget": 52000000,
         "gross": 352000000
       },
       {
         "year": 2004,
         "title": "The Aviator",
-        "character": "Howard Hughes",
         "budget": 110000000,
         "gross": 213000000
       },
       {
         "year": 2006,
         "title": "The Departed",
-        "character": "Billy Costigan",
         "budget": 90000000,
         "gross": 291000000
       },
       {
         "year": 2010,
         "title": "Inception",
-        "character": "Dom Cobb",
         "budget": 160000000,
         "gross": 839000000
       },
       {
         "year": 2010,
         "title": "Shutter Island",
-        "character": "Teddy Daniels",
         "budget": 80000000,
         "gross": 295000000
       },
       {
         "year": 2013,
         "title": "The Great Gatsby",
-        "character": "Jay Gatsby",
         "budget": 105000000,
         "gross": 353000000
       },
       {
         "year": 2013,
         "title": "The Wolf of Wall Street",
-        "character": "Jordan Belfort",
         "budget": 100000000,
         "gross": 392000000
       },
       {
         "year": 2015,
         "title": "The Revenant",
-        "character": "Hugh Glass",
         "budget": 135000000,
         "gross": 533000000
       },
       {
         "year": 2019,
         "title": "Once Upon a Time in Hollywood",
-        "character": "Rick Dalton",
         "budget": 90000000,
         "gross": 377000000
       }
@@ -263,70 +234,60 @@
       {
         "year": 1989,
         "title": "Glory",
-        "character": "Private Trip",
         "budget": 18000000,
         "gross": 27000000
       },
       {
         "year": 1992,
         "title": "Malcolm X",
-        "character": "Malcolm X",
         "budget": 33000000,
         "gross": 48000000
       },
       {
         "year": 1993,
         "title": "Philadelphia",
-        "character": "Joe Miller",
         "budget": 26000000,
         "gross": 207000000
       },
       {
         "year": 1995,
         "title": "Crimson Tide",
-        "character": "Lt. Commander Hunter",
         "budget": 53000000,
         "gross": 158000000
       },
       {
         "year": 1999,
         "title": "The Hurricane",
-        "character": "Rubin Carter",
         "budget": 50000000,
         "gross": 74000000
       },
       {
         "year": 2001,
         "title": "Training Day",
-        "character": "Alonzo Harris",
         "budget": 45000000,
         "gross": 105000000
       },
       {
         "year": 2007,
         "title": "American Gangster",
-        "character": "Frank Lucas",
         "budget": 100000000,
         "gross": 270000000
       },
       {
         "year": 2012,
         "title": "Flight",
-        "character": "Whip Whitaker",
         "budget": 31000000,
         "gross": 162000000
       },
       {
         "year": 2014,
         "title": "The Equalizer",
-        "character": "Robert McCall",
         "budget": 55000000,
         "gross": 192000000
       },
       {
         "year": 2016,
         "title": "Fences",
-        "character": "Troy Maxson",
         "budget": 24000000,
         "gross": 64000000
       }
@@ -347,63 +308,54 @@
       {
         "year": 1990,
         "title": "Pretty Woman",
-        "character": "Vivian Ward",
         "budget": 14000000,
         "gross": 464000000
       },
       {
         "year": 1993,
         "title": "The Pelican Brief",
-        "character": "Darby Shaw",
         "budget": 45000000,
         "gross": 195000000
       },
       {
         "year": 1997,
         "title": "My Best Friend's Wedding",
-        "character": "Julianne Potter",
         "budget": 38000000,
         "gross": 299000000
       },
       {
         "year": 1999,
         "title": "Notting Hill",
-        "character": "Anna Scott",
         "budget": 42000000,
         "gross": 364000000
       },
       {
         "year": 2000,
         "title": "Erin Brockovich",
-        "character": "Erin Brockovich",
         "budget": 52000000,
         "gross": 257000000
       },
       {
         "year": 2001,
         "title": "Ocean's Eleven",
-        "character": "Tess Ocean",
         "budget": 85000000,
         "gross": 451000000
       },
       {
         "year": 2004,
         "title": "Ocean's Twelve",
-        "character": "Tess Ocean",
         "budget": 110000000,
         "gross": 363000000
       },
       {
         "year": 2003,
         "title": "Mona Lisa Smile",
-        "character": "Katherine Watson",
         "budget": 65000000,
         "gross": 142000000
       },
       {
         "year": 2022,
         "title": "Ticket to Paradise",
-        "character": "Georgia Cotton",
         "budget": 60000000,
         "gross": 172000000
       }
@@ -424,70 +376,60 @@
       {
         "year": 1991,
         "title": "Thelma & Louise",
-        "character": "J.D.",
         "budget": 16000000,
         "gross": 46000000
       },
       {
         "year": 1994,
         "title": "Interview with the Vampire",
-        "character": "Louis de Pointe du Lac",
         "budget": 60000000,
         "gross": 224000000
       },
       {
         "year": 1995,
         "title": "Se7en",
-        "character": "Detective Mills",
         "budget": 33000000,
         "gross": 327000000
       },
       {
         "year": 1999,
         "title": "Fight Club",
-        "character": "Tyler Durden",
         "budget": 63000000,
         "gross": 101000000
       },
       {
         "year": 2001,
         "title": "Ocean's Eleven",
-        "character": "Rusty Ryan",
         "budget": 85000000,
         "gross": 451000000
       },
       {
         "year": 2004,
         "title": "Troy",
-        "character": "Achilles",
         "budget": 175000000,
         "gross": 497000000
       },
       {
         "year": 2008,
         "title": "The Curious Case of Benjamin Button",
-        "character": "Benjamin Button",
         "budget": 150000000,
         "gross": 335000000
       },
       {
         "year": 2011,
         "title": "Moneyball",
-        "character": "Billy Beane",
         "budget": 50000000,
         "gross": 110000000
       },
       {
         "year": 2013,
         "title": "World War Z",
-        "character": "Gerry Lane",
         "budget": 190000000,
         "gross": 540000000
       },
       {
         "year": 2019,
         "title": "Once Upon a Time in Hollywood",
-        "character": "Cliff Booth",
         "budget": 90000000,
         "gross": 377000000
       }
@@ -508,70 +450,60 @@
       {
         "year": 1983,
         "title": "Risky Business",
-        "character": "Joel Goodsen",
         "budget": 6000000,
         "gross": 63000000
       },
       {
         "year": 1986,
         "title": "Top Gun",
-        "character": "Maverick",
         "budget": 15000000,
         "gross": 357000000
       },
       {
         "year": 1992,
         "title": "A Few Good Men",
-        "character": "Lt. Daniel Kaffee",
         "budget": 40000000,
         "gross": 243000000
       },
       {
         "year": 1996,
         "title": "Jerry Maguire",
-        "character": "Jerry Maguire",
         "budget": 50000000,
         "gross": 274000000
       },
       {
         "year": 1996,
         "title": "Mission: Impossible",
-        "character": "Ethan Hunt",
         "budget": 80000000,
         "gross": 458000000
       },
       {
         "year": 2002,
         "title": "Minority Report",
-        "character": "John Anderton",
         "budget": 102000000,
         "gross": 358000000
       },
       {
         "year": 2011,
         "title": "Mission: Impossible – Ghost Protocol",
-        "character": "Ethan Hunt",
         "budget": 145000000,
         "gross": 695000000
       },
       {
         "year": 2014,
         "title": "Edge of Tomorrow",
-        "character": "William Cage",
         "budget": 178000000,
         "gross": 370000000
       },
       {
         "year": 2018,
         "title": "Mission: Impossible – Fallout",
-        "character": "Ethan Hunt",
         "budget": 178000000,
         "gross": 791000000
       },
       {
         "year": 2022,
         "title": "Top Gun: Maverick",
-        "character": "Maverick",
         "budget": 170000000,
         "gross": 1496000000
       }
@@ -594,70 +526,60 @@
       {
         "year": 2003,
         "title": "Lost in Translation",
-        "character": "Charlotte",
         "budget": 4000000,
         "gross": 118000000
       },
       {
         "year": 2010,
         "title": "Iron Man 2",
-        "character": "Natasha Romanoff",
         "budget": 200000000,
         "gross": 624000000
       },
       {
         "year": 2012,
         "title": "The Avengers",
-        "character": "Natasha Romanoff",
         "budget": 220000000,
         "gross": 1519000000
       },
       {
         "year": 2013,
         "title": "Her",
-        "character": "Samantha (voice)",
         "budget": 23000000,
         "gross": 47000000
       },
       {
         "year": 2014,
         "title": "Captain America: The Winter Soldier",
-        "character": "Natasha Romanoff",
         "budget": 170000000,
         "gross": 714000000
       },
       {
         "year": 2014,
         "title": "Lucy",
-        "character": "Lucy",
         "budget": 40000000,
         "gross": 463000000
       },
       {
         "year": 2018,
         "title": "Avengers: Infinity War",
-        "character": "Natasha Romanoff",
         "budget": 316000000,
         "gross": 2048000000
       },
       {
         "year": 2019,
         "title": "Avengers: Endgame",
-        "character": "Natasha Romanoff",
         "budget": 356000000,
         "gross": 2798000000
       },
       {
         "year": 2019,
         "title": "Jojo Rabbit",
-        "character": "Rosie Betzler",
         "budget": 14000000,
         "gross": 90000000
       },
       {
         "year": 2021,
         "title": "Black Widow",
-        "character": "Natasha Romanoff",
         "budget": 200000000,
         "gross": 380000000
       }
@@ -681,70 +603,60 @@
       {
         "year": 1992,
         "title": "Chaplin",
-        "character": "Charlie Chaplin",
         "budget": 31000000,
         "gross": 20000000
       },
       {
         "year": 2008,
         "title": "Iron Man",
-        "character": "Tony Stark",
         "budget": 140000000,
         "gross": 585000000
       },
       {
         "year": 2008,
         "title": "Tropic Thunder",
-        "character": "Kirk Lazarus",
         "budget": 92000000,
         "gross": 195000000
       },
       {
         "year": 2009,
         "title": "Sherlock Holmes",
-        "character": "Sherlock Holmes",
         "budget": 90000000,
         "gross": 524000000
       },
       {
         "year": 2011,
         "title": "Sherlock Holmes: A Game of Shadows",
-        "character": "Sherlock Holmes",
         "budget": 125000000,
         "gross": 545000000
       },
       {
         "year": 2012,
         "title": "The Avengers",
-        "character": "Tony Stark",
         "budget": 220000000,
         "gross": 1519000000
       },
       {
         "year": 2013,
         "title": "Iron Man 3",
-        "character": "Tony Stark",
         "budget": 200000000,
         "gross": 1215000000
       },
       {
         "year": 2018,
         "title": "Avengers: Infinity War",
-        "character": "Tony Stark",
         "budget": 316000000,
         "gross": 2048000000
       },
       {
         "year": 2019,
         "title": "Avengers: Endgame",
-        "character": "Tony Stark",
         "budget": 356000000,
         "gross": 2798000000
       },
       {
         "year": 2023,
         "title": "Oppenheimer",
-        "character": "Lewis Strauss",
         "budget": 100000000,
         "gross": 975000000
       }
@@ -765,70 +677,60 @@
       {
         "year": 1989,
         "title": "Driving Miss Daisy",
-        "character": "Hoke Colburn",
         "budget": 7000000,
         "gross": 145000000
       },
       {
         "year": 1994,
         "title": "The Shawshank Redemption",
-        "character": "Ellis Redding",
         "budget": 25000000,
         "gross": 73000000
       },
       {
         "year": 1995,
         "title": "Se7en",
-        "character": "William Somerset",
         "budget": 33000000,
         "gross": 327000000
       },
       {
         "year": 2003,
         "title": "Bruce Almighty",
-        "character": "God",
         "budget": 81000000,
         "gross": 484000000
       },
       {
         "year": 2004,
         "title": "Million Dollar Baby",
-        "character": "Eddie Dupris",
         "budget": 30000000,
         "gross": 217000000
       },
       {
         "year": 2005,
         "title": "Batman Begins",
-        "character": "Lucius Fox",
         "budget": 150000000,
         "gross": 373000000
       },
       {
         "year": 2008,
         "title": "The Dark Knight",
-        "character": "Lucius Fox",
         "budget": 185000000,
         "gross": 1006000000
       },
       {
         "year": 2010,
         "title": "RED",
-        "character": "Joe Matheson",
         "budget": 58000000,
         "gross": 199000000
       },
       {
         "year": 2012,
         "title": "The Dark Knight Rises",
-        "character": "Lucius Fox",
         "budget": 250000000,
         "gross": 1081000000
       },
       {
         "year": 2014,
         "title": "The Lego Movie",
-        "character": "Vitruvius (voice)",
         "budget": 60000000,
         "gross": 468000000
       }
@@ -849,70 +751,60 @@
       {
         "year": 1995,
         "title": "Bad Boys",
-        "character": "Mike Lowrey",
         "budget": 19000000,
         "gross": 141000000
       },
       {
         "year": 1996,
         "title": "Independence Day",
-        "character": "Steven Hiller",
         "budget": 75000000,
         "gross": 817000000
       },
       {
         "year": 1997,
         "title": "Men in Black",
-        "character": "Agent J",
         "budget": 90000000,
         "gross": 589000000
       },
       {
         "year": 2004,
         "title": "I, Robot",
-        "character": "Del Spooner",
         "budget": 120000000,
         "gross": 353000000
       },
       {
         "year": 2006,
         "title": "The Pursuit of Happyness",
-        "character": "Chris Gardner",
         "budget": 55000000,
         "gross": 307000000
       },
       {
         "year": 2007,
         "title": "I Am Legend",
-        "character": "Robert Neville",
         "budget": 150000000,
         "gross": 585000000
       },
       {
         "year": 2012,
         "title": "Men in Black 3",
-        "character": "Agent J",
         "budget": 215000000,
         "gross": 654000000
       },
       {
         "year": 2016,
         "title": "Suicide Squad",
-        "character": "Deadshot",
         "budget": 175000000,
         "gross": 747000000
       },
       {
         "year": 2019,
         "title": "Aladdin",
-        "character": "Genie",
         "budget": 183000000,
         "gross": 1051000000
       },
       {
         "year": 2021,
         "title": "King Richard",
-        "character": "Richard Williams",
         "budget": 50000000,
         "gross": 39000000
       }
@@ -933,70 +825,60 @@
       {
         "year": 1977,
         "title": "Star Wars",
-        "character": "Han Solo",
         "budget": 11000000,
         "gross": 775000000
       },
       {
         "year": 1981,
         "title": "Raiders of the Lost Ark",
-        "character": "Indiana Jones",
         "budget": 18000000,
         "gross": 390000000
       },
       {
         "year": 1982,
         "title": "Blade Runner",
-        "character": "Rick Deckard",
         "budget": 30000000,
         "gross": 41000000
       },
       {
         "year": 1984,
         "title": "Indiana Jones and the Temple of Doom",
-        "character": "Indiana Jones",
         "budget": 28000000,
         "gross": 333000000
       },
       {
         "year": 1989,
         "title": "Indiana Jones and the Last Crusade",
-        "character": "Indiana Jones",
         "budget": 48000000,
         "gross": 474000000
       },
       {
         "year": 1993,
         "title": "The Fugitive",
-        "character": "Richard Kimble",
         "budget": 44000000,
         "gross": 369000000
       },
       {
         "year": 1997,
         "title": "Air Force One",
-        "character": "President James Marshall",
         "budget": 85000000,
         "gross": 315000000
       },
       {
         "year": 2008,
         "title": "Indiana Jones and the Kingdom of the Crystal Skull",
-        "character": "Indiana Jones",
         "budget": 185000000,
         "gross": 786000000
       },
       {
         "year": 2015,
         "title": "Star Wars: The Force Awakens",
-        "character": "Han Solo",
         "budget": 447000000,
         "gross": 2071000000
       },
       {
         "year": 2023,
         "title": "Indiana Jones and the Dial of Destiny",
-        "character": "Indiana Jones",
         "budget": 295000000,
         "gross": 384000000
       }
@@ -1020,70 +902,60 @@
       {
         "year": 1993,
         "title": "Jurassic Park",
-        "character": "Ray Arnold",
         "budget": 63000000,
         "gross": 1046000000
       },
       {
         "year": 1994,
         "title": "Pulp Fiction",
-        "character": "Jules Winnfield",
         "budget": 8000000,
         "gross": 214000000
       },
       {
         "year": 2000,
         "title": "Unbreakable",
-        "character": "Elijah Price",
         "budget": 75000000,
         "gross": 248000000
       },
       {
         "year": 2004,
         "title": "The Incredibles",
-        "character": "Frozone (voice)",
         "budget": 92000000,
         "gross": 632000000
       },
       {
         "year": 2008,
         "title": "Iron Man",
-        "character": "Nick Fury",
         "budget": 140000000,
         "gross": 585000000
       },
       {
         "year": 2012,
         "title": "The Avengers",
-        "character": "Nick Fury",
         "budget": 220000000,
         "gross": 1519000000
       },
       {
         "year": 2012,
         "title": "Django Unchained",
-        "character": "Stephen",
         "budget": 100000000,
         "gross": 426000000
       },
       {
         "year": 2015,
         "title": "The Hateful Eight",
-        "character": "Major Marquis Warren",
         "budget": 44000000,
         "gross": 156000000
       },
       {
         "year": 2019,
         "title": "Glass",
-        "character": "Elijah Price",
         "budget": 20000000,
         "gross": 247000000
       },
       {
         "year": 2019,
         "title": "Captain Marvel",
-        "character": "Nick Fury",
         "budget": 175000000,
         "gross": 1131000000
       }
@@ -1106,70 +978,60 @@
       {
         "year": 1998,
         "title": "Elizabeth",
-        "character": "Queen Elizabeth I",
         "budget": 30000000,
         "gross": 82000000
       },
       {
         "year": 2001,
         "title": "The Lord of the Rings: The Fellowship of the Ring",
-        "character": "Galadriel",
         "budget": 93000000,
         "gross": 898000000
       },
       {
         "year": 2003,
         "title": "The Lord of the Rings: The Return of the King",
-        "character": "Galadriel",
         "budget": 94000000,
         "gross": 1146000000
       },
       {
         "year": 2004,
         "title": "The Aviator",
-        "character": "Katharine Hepburn",
         "budget": 110000000,
         "gross": 213000000
       },
       {
         "year": 2008,
         "title": "The Curious Case of Benjamin Button",
-        "character": "Daisy Fuller",
         "budget": 150000000,
         "gross": 335000000
       },
       {
         "year": 2013,
         "title": "Blue Jasmine",
-        "character": "Jasmine Francis",
         "budget": 18000000,
         "gross": 98000000
       },
       {
         "year": 2015,
         "title": "Carol",
-        "character": "Carol Aird",
         "budget": 12000000,
         "gross": 40000000
       },
       {
         "year": 2015,
         "title": "Cinderella",
-        "character": "Lady Tremaine",
         "budget": 95000000,
         "gross": 542000000
       },
       {
         "year": 2017,
         "title": "Thor: Ragnarok",
-        "character": "Hela",
         "budget": 180000000,
         "gross": 855000000
       },
       {
         "year": 2022,
         "title": "Tár",
-        "character": "Lydia Tár",
         "budget": 25000000,
         "gross": 36000000
       }
@@ -1190,70 +1052,60 @@
       {
         "year": 2000,
         "title": "X-Men",
-        "character": "Logan / Wolverine",
         "budget": 75000000,
         "gross": 296000000
       },
       {
         "year": 2003,
         "title": "X2",
-        "character": "Logan / Wolverine",
         "budget": 110000000,
         "gross": 408000000
       },
       {
         "year": 2009,
         "title": "X-Men Origins: Wolverine",
-        "character": "Logan / Wolverine",
         "budget": 150000000,
         "gross": 373000000
       },
       {
         "year": 2011,
         "title": "Real Steel",
-        "character": "Charlie Kenton",
         "budget": 110000000,
         "gross": 299000000
       },
       {
         "year": 2012,
         "title": "Les Misérables",
-        "character": "Jean Valjean",
         "budget": 61000000,
         "gross": 442000000
       },
       {
         "year": 2013,
         "title": "The Wolverine",
-        "character": "Logan / Wolverine",
         "budget": 120000000,
         "gross": 415000000
       },
       {
         "year": 2014,
         "title": "X-Men: Days of Future Past",
-        "character": "Logan / Wolverine",
         "budget": 200000000,
         "gross": 746000000
       },
       {
         "year": 2017,
         "title": "Logan",
-        "character": "Logan",
         "budget": 97000000,
         "gross": 619000000
       },
       {
         "year": 2017,
         "title": "The Greatest Showman",
-        "character": "P. T. Barnum",
         "budget": 84000000,
         "gross": 435000000
       },
       {
         "year": 2006,
         "title": "The Prestige",
-        "character": "Robert Angier",
         "budget": 40000000,
         "gross": 110000000
       }
@@ -1274,70 +1126,60 @@
       {
         "year": 1994,
         "title": "Léon: The Professional",
-        "character": "Mathilda",
         "budget": 16000000,
         "gross": 46000000
       },
       {
         "year": 1999,
         "title": "Star Wars: Episode I – The Phantom Menace",
-        "character": "Padmé Amidala",
         "budget": 115000000,
         "gross": 1027000000
       },
       {
         "year": 2002,
         "title": "Star Wars: Episode II – Attack of the Clones",
-        "character": "Padmé Amidala",
         "budget": 115000000,
         "gross": 654000000
       },
       {
         "year": 2004,
         "title": "Closer",
-        "character": "Alice",
         "budget": 27000000,
         "gross": 115000000
       },
       {
         "year": 2005,
         "title": "Star Wars: Episode III – Revenge of the Sith",
-        "character": "Padmé Amidala",
         "budget": 113000000,
         "gross": 868000000
       },
       {
         "year": 2005,
         "title": "V for Vendetta",
-        "character": "Evey Hammond",
         "budget": 54000000,
         "gross": 132000000
       },
       {
         "year": 2010,
         "title": "Black Swan",
-        "character": "Nina Sayers",
         "budget": 13000000,
         "gross": 329000000
       },
       {
         "year": 2011,
         "title": "Thor",
-        "character": "Jane Foster",
         "budget": 150000000,
         "gross": 449000000
       },
       {
         "year": 2013,
         "title": "Thor: The Dark World",
-        "character": "Jane Foster",
         "budget": 170000000,
         "gross": 645000000
       },
       {
         "year": 2018,
         "title": "Annihilation",
-        "character": "Lena",
         "budget": 40000000,
         "gross": 43000000
       }
@@ -1358,63 +1200,54 @@
       {
         "year": 1995,
         "title": "Rumble in the Bronx",
-        "character": "Keung",
         "budget": 15000000,
         "gross": 76000000
       },
       {
         "year": 1998,
         "title": "Rush Hour",
-        "character": "Inspector Lee",
         "budget": 33000000,
         "gross": 244000000
       },
       {
         "year": 2000,
         "title": "Shanghai Noon",
-        "character": "Chon Wang",
         "budget": 55000000,
         "gross": 99000000
       },
       {
         "year": 2001,
         "title": "Rush Hour 2",
-        "character": "Inspector Lee",
         "budget": 90000000,
         "gross": 347000000
       },
       {
         "year": 2002,
         "title": "The Tuxedo",
-        "character": "Jimmy Tong",
         "budget": 60000000,
         "gross": 105000000
       },
       {
         "year": 2003,
         "title": "Shanghai Knights",
-        "character": "Chon Wang",
         "budget": 50000000,
         "gross": 88000000
       },
       {
         "year": 2007,
         "title": "Rush Hour 3",
-        "character": "Inspector Lee",
         "budget": 140000000,
         "gross": 258000000
       },
       {
         "year": 2010,
         "title": "The Karate Kid",
-        "character": "Mr. Han",
         "budget": 40000000,
         "gross": 359000000
       },
       {
         "year": 2017,
         "title": "The Foreigner",
-        "character": "Quan Ngoc Minh",
         "budget": 35000000,
         "gross": 145000000
       }
@@ -1435,70 +1268,60 @@
       {
         "year": 1999,
         "title": "Girl, Interrupted",
-        "character": "Lisa Rowe",
         "budget": 40000000,
         "gross": 48000000
       },
       {
         "year": 2001,
         "title": "Lara Croft: Tomb Raider",
-        "character": "Lara Croft",
         "budget": 115000000,
         "gross": 275000000
       },
       {
         "year": 2003,
         "title": "Lara Croft: Tomb Raider – The Cradle of Life",
-        "character": "Lara Croft",
         "budget": 95000000,
         "gross": 156000000
       },
       {
         "year": 2005,
         "title": "Mr. & Mrs. Smith",
-        "character": "Jane Smith",
         "budget": 110000000,
         "gross": 487000000
       },
       {
         "year": 2008,
         "title": "Wanted",
-        "character": "Fox",
         "budget": 75000000,
         "gross": 342000000
       },
       {
         "year": 2008,
         "title": "Kung Fu Panda",
-        "character": "Tigress (voice)",
         "budget": 130000000,
         "gross": 632000000
       },
       {
         "year": 2008,
         "title": "Changeling",
-        "character": "Christine Collins",
         "budget": 55000000,
         "gross": 113000000
       },
       {
         "year": 2010,
         "title": "Salt",
-        "character": "Evelyn Salt",
         "budget": 110000000,
         "gross": 294000000
       },
       {
         "year": 2014,
         "title": "Maleficent",
-        "character": "Maleficent",
         "budget": 180000000,
         "gross": 758000000
       },
       {
         "year": 2019,
         "title": "Maleficent: Mistress of Evil",
-        "character": "Maleficent",
         "budget": 185000000,
         "gross": 492000000
       }
@@ -1519,70 +1342,60 @@
       {
         "year": 2010,
         "title": "Winter's Bone",
-        "character": "Ree Dolly",
         "budget": 2000000,
         "gross": 16000000
       },
       {
         "year": 2011,
         "title": "X-Men: First Class",
-        "character": "Mystique",
         "budget": 160000000,
         "gross": 353000000
       },
       {
         "year": 2012,
         "title": "The Hunger Games",
-        "character": "Katniss Everdeen",
         "budget": 78000000,
         "gross": 695000000
       },
       {
         "year": 2012,
         "title": "Silver Linings Playbook",
-        "character": "Tiffany Maxwell",
         "budget": 21000000,
         "gross": 236000000
       },
       {
         "year": 2013,
         "title": "American Hustle",
-        "character": "Rosalyn Rosenfeld",
         "budget": 40000000,
         "gross": 251000000
       },
       {
         "year": 2013,
         "title": "The Hunger Games: Catching Fire",
-        "character": "Katniss Everdeen",
         "budget": 130000000,
         "gross": 865000000
       },
       {
         "year": 2014,
         "title": "X-Men: Days of Future Past",
-        "character": "Mystique",
         "budget": 200000000,
         "gross": 746000000
       },
       {
         "year": 2015,
         "title": "The Hunger Games: Mockingjay – Part 2",
-        "character": "Katniss Everdeen",
         "budget": 160000000,
         "gross": 658000000
       },
       {
         "year": 2016,
         "title": "Passengers",
-        "character": "Aurora Lane",
         "budget": 110000000,
         "gross": 303000000
       },
       {
         "year": 2023,
         "title": "No Hard Feelings",
-        "character": "Maddie Barker",
         "budget": 45000000,
         "gross": 87000000
       }
@@ -1603,70 +1416,60 @@
       {
         "year": 1994,
         "title": "Speed",
-        "character": "Annie Porter",
         "budget": 30000000,
         "gross": 350000000
       },
       {
         "year": 1995,
         "title": "While You Were Sleeping",
-        "character": "Lucy Moderatz",
         "budget": 17000000,
         "gross": 182000000
       },
       {
         "year": 1995,
         "title": "The Net",
-        "character": "Angela Bennett",
         "budget": 22000000,
         "gross": 111000000
       },
       {
         "year": 2000,
         "title": "Miss Congeniality",
-        "character": "Gracie Hart",
         "budget": 45000000,
         "gross": 212000000
       },
       {
         "year": 2009,
         "title": "The Proposal",
-        "character": "Margaret Tate",
         "budget": 40000000,
         "gross": 317000000
       },
       {
         "year": 2009,
         "title": "The Blind Side",
-        "character": "Leigh Anne Tuohy",
         "budget": 29000000,
         "gross": 309000000
       },
       {
         "year": 2013,
         "title": "Gravity",
-        "character": "Dr. Ryan Stone",
         "budget": 100000000,
         "gross": 723000000
       },
       {
         "year": 2013,
         "title": "The Heat",
-        "character": "Sarah Ashburn",
         "budget": 43000000,
         "gross": 230000000
       },
       {
         "year": 2018,
         "title": "Ocean's Eight",
-        "character": "Debbie Ocean",
         "budget": 70000000,
         "gross": 298000000
       },
       {
         "year": 2022,
         "title": "The Lost City",
-        "character": "Loretta Sage",
         "budget": 68000000,
         "gross": 193000000
       }
@@ -1687,70 +1490,60 @@
       {
         "year": 2004,
         "title": "The Notebook",
-        "character": "Noah Calhoun",
         "budget": 29000000,
         "gross": 117000000
       },
       {
         "year": 2011,
         "title": "Drive",
-        "character": "The Driver",
         "budget": 15000000,
         "gross": 78000000
       },
       {
         "year": 2011,
         "title": "Crazy, Stupid, Love",
-        "character": "Jacob Palmer",
         "budget": 50000000,
         "gross": 145000000
       },
       {
         "year": 2013,
         "title": "The Place Beyond the Pines",
-        "character": "Luke Glanton",
         "budget": 15000000,
         "gross": 47000000
       },
       {
         "year": 2016,
         "title": "La La Land",
-        "character": "Sebastian Wilder",
         "budget": 30000000,
         "gross": 447000000
       },
       {
         "year": 2016,
         "title": "The Nice Guys",
-        "character": "Holland March",
         "budget": 50000000,
         "gross": 63000000
       },
       {
         "year": 2017,
         "title": "Blade Runner 2049",
-        "character": "K",
         "budget": 150000000,
         "gross": 267000000
       },
       {
         "year": 2018,
         "title": "First Man",
-        "character": "Neil Armstrong",
         "budget": 59000000,
         "gross": 106000000
       },
       {
         "year": 2023,
         "title": "Barbie",
-        "character": "Ken",
         "budget": 145000000,
         "gross": 1446000000
       },
       {
         "year": 2024,
         "title": "The Fall Guy",
-        "character": "Colt Seavers",
         "budget": 125000000,
         "gross": 181000000
       }
@@ -1771,70 +1564,60 @@
       {
         "year": 2010,
         "title": "Easy A",
-        "character": "Olive Penderghast",
         "budget": 8000000,
         "gross": 75000000
       },
       {
         "year": 2011,
         "title": "The Help",
-        "character": "Skeeter Phelan",
         "budget": 25000000,
         "gross": 216000000
       },
       {
         "year": 2011,
         "title": "Crazy, Stupid, Love",
-        "character": "Hannah",
         "budget": 50000000,
         "gross": 145000000
       },
       {
         "year": 2012,
         "title": "The Amazing Spider-Man",
-        "character": "Gwen Stacy",
         "budget": 230000000,
         "gross": 758000000
       },
       {
         "year": 2014,
         "title": "The Amazing Spider-Man 2",
-        "character": "Gwen Stacy",
         "budget": 200000000,
         "gross": 709000000
       },
       {
         "year": 2014,
         "title": "Birdman",
-        "character": "Sam Thomson",
         "budget": 18000000,
         "gross": 103000000
       },
       {
         "year": 2016,
         "title": "La La Land",
-        "character": "Mia Dolan",
         "budget": 30000000,
         "gross": 447000000
       },
       {
         "year": 2018,
         "title": "The Favourite",
-        "character": "Abigail Masham",
         "budget": 15000000,
         "gross": 96000000
       },
       {
         "year": 2021,
         "title": "Cruella",
-        "character": "Cruella de Vil",
         "budget": 100000000,
         "gross": 233000000
       },
       {
         "year": 2023,
         "title": "Poor Things",
-        "character": "Bella Baxter",
         "budget": 35000000,
         "gross": 118000000
       }
@@ -1855,70 +1638,60 @@
       {
         "year": 1997,
         "title": "Good Will Hunting",
-        "character": "Will Hunting",
         "budget": 10000000,
         "gross": 226000000
       },
       {
         "year": 1998,
         "title": "Saving Private Ryan",
-        "character": "Private Ryan",
         "budget": 70000000,
         "gross": 482000000
       },
       {
         "year": 2001,
         "title": "Ocean's Eleven",
-        "character": "Linus Caldwell",
         "budget": 85000000,
         "gross": 451000000
       },
       {
         "year": 2002,
         "title": "The Bourne Identity",
-        "character": "Jason Bourne",
         "budget": 60000000,
         "gross": 214000000
       },
       {
         "year": 2004,
         "title": "The Bourne Supremacy",
-        "character": "Jason Bourne",
         "budget": 75000000,
         "gross": 288000000
       },
       {
         "year": 2007,
         "title": "The Bourne Ultimatum",
-        "character": "Jason Bourne",
         "budget": 110000000,
         "gross": 444000000
       },
       {
         "year": 2015,
         "title": "The Martian",
-        "character": "Mark Watney",
         "budget": 108000000,
         "gross": 630000000
       },
       {
         "year": 2016,
         "title": "Jason Bourne",
-        "character": "Jason Bourne",
         "budget": 120000000,
         "gross": 415000000
       },
       {
         "year": 2019,
         "title": "Ford v Ferrari",
-        "character": "Carroll Shelby",
         "budget": 98000000,
         "gross": 226000000
       },
       {
         "year": 2023,
         "title": "Oppenheimer",
-        "character": "Leslie Groves",
         "budget": 100000000,
         "gross": 975000000
       }
@@ -1939,63 +1712,54 @@
       {
         "year": 2001,
         "title": "The Princess Diaries",
-        "character": "Mia Thermopolis",
         "budget": 26000000,
         "gross": 165000000
       },
       {
         "year": 2004,
         "title": "The Princess Diaries 2: Royal Engagement",
-        "character": "Mia Thermopolis",
         "budget": 40000000,
         "gross": 135000000
       },
       {
         "year": 2005,
         "title": "Brokeback Mountain",
-        "character": "Lureen Newsome",
         "budget": 14000000,
         "gross": 178000000
       },
       {
         "year": 2006,
         "title": "The Devil Wears Prada",
-        "character": "Andy Sachs",
         "budget": 35000000,
         "gross": 326000000
       },
       {
         "year": 2010,
         "title": "Alice in Wonderland",
-        "character": "The White Queen",
         "budget": 200000000,
         "gross": 1025000000
       },
       {
         "year": 2012,
         "title": "The Dark Knight Rises",
-        "character": "Selina Kyle",
         "budget": 250000000,
         "gross": 1081000000
       },
       {
         "year": 2012,
         "title": "Les Misérables",
-        "character": "Fantine",
         "budget": 61000000,
         "gross": 442000000
       },
       {
         "year": 2014,
         "title": "Interstellar",
-        "character": "Dr. Amelia Brand",
         "budget": 165000000,
         "gross": 701000000
       },
       {
         "year": 2018,
         "title": "Ocean's Eight",
-        "character": "Daphne Kluger",
         "budget": 70000000,
         "gross": 298000000
       }
@@ -2016,70 +1780,60 @@
       {
         "year": 2003,
         "title": "The Italian Job",
-        "character": "Stella Bridger",
         "budget": 60000000,
         "gross": 176000000
       },
       {
         "year": 2003,
         "title": "Monster",
-        "character": "Aileen Wuornos",
         "budget": 8000000,
         "gross": 64000000
       },
       {
         "year": 2008,
         "title": "Hancock",
-        "character": "Mary Embrey",
         "budget": 150000000,
         "gross": 624000000
       },
       {
         "year": 2012,
         "title": "Prometheus",
-        "character": "Meredith Vickers",
         "budget": 130000000,
         "gross": 403000000
       },
       {
         "year": 2012,
         "title": "Snow White and the Huntsman",
-        "character": "Queen Ravenna",
         "budget": 170000000,
         "gross": 396000000
       },
       {
         "year": 2015,
         "title": "Mad Max: Fury Road",
-        "character": "Imperator Furiosa",
         "budget": 150000000,
         "gross": 380000000
       },
       {
         "year": 2017,
         "title": "Atomic Blonde",
-        "character": "Lorraine Broughton",
         "budget": 30000000,
         "gross": 100000000
       },
       {
         "year": 2017,
         "title": "The Fate of the Furious",
-        "character": "Cipher",
         "budget": 250000000,
         "gross": 1236000000
       },
       {
         "year": 2019,
         "title": "Bombshell",
-        "character": "Megyn Kelly",
         "budget": 32000000,
         "gross": 61000000
       },
       {
         "year": 2005,
         "title": "Aeon Flux",
-        "character": "Aeon Flux",
         "budget": 62000000,
         "gross": 52000000
       }
@@ -2100,63 +1854,54 @@
       {
         "year": 2000,
         "title": "American Psycho",
-        "character": "Patrick Bateman",
         "budget": 7000000,
         "gross": 34000000
       },
       {
         "year": 2005,
         "title": "Batman Begins",
-        "character": "Bruce Wayne",
         "budget": 150000000,
         "gross": 373000000
       },
       {
         "year": 2008,
         "title": "The Dark Knight",
-        "character": "Bruce Wayne",
         "budget": 185000000,
         "gross": 1006000000
       },
       {
         "year": 2010,
         "title": "The Fighter",
-        "character": "Dicky Eklund",
         "budget": 25000000,
         "gross": 129000000
       },
       {
         "year": 2012,
         "title": "The Dark Knight Rises",
-        "character": "Bruce Wayne",
         "budget": 250000000,
         "gross": 1081000000
       },
       {
         "year": 2013,
         "title": "American Hustle",
-        "character": "Irving Rosenfeld",
         "budget": 40000000,
         "gross": 251000000
       },
       {
         "year": 2015,
         "title": "The Big Short",
-        "character": "Michael Burry",
         "budget": 28000000,
         "gross": 133000000
       },
       {
         "year": 2018,
         "title": "Vice",
-        "character": "Dick Cheney",
         "budget": 60000000,
         "gross": 76000000
       },
       {
         "year": 2019,
         "title": "Ford v Ferrari",
-        "character": "Ken Miles",
         "budget": 98000000,
         "gross": 226000000
       }
@@ -2177,63 +1922,54 @@
       {
         "year": 2007,
         "title": "Enchanted",
-        "character": "Giselle",
         "budget": 85000000,
         "gross": 340000000
       },
       {
         "year": 2010,
         "title": "The Fighter",
-        "character": "Charlene Fleming",
         "budget": 25000000,
         "gross": 129000000
       },
       {
         "year": 2013,
         "title": "Man of Steel",
-        "character": "Lois Lane",
         "budget": 225000000,
         "gross": 668000000
       },
       {
         "year": 2013,
         "title": "American Hustle",
-        "character": "Sydney Prosser",
         "budget": 40000000,
         "gross": 251000000
       },
       {
         "year": 2013,
         "title": "Her",
-        "character": "Amy",
         "budget": 23000000,
         "gross": 47000000
       },
       {
         "year": 2016,
         "title": "Arrival",
-        "character": "Louise Banks",
         "budget": 47000000,
         "gross": 203000000
       },
       {
         "year": 2016,
         "title": "Batman v Superman: Dawn of Justice",
-        "character": "Lois Lane",
         "budget": 250000000,
         "gross": 874000000
       },
       {
         "year": 2016,
         "title": "Nocturnal Animals",
-        "character": "Susan Morrow",
         "budget": 23000000,
         "gross": 30000000
       },
       {
         "year": 2017,
         "title": "Justice League",
-        "character": "Lois Lane",
         "budget": 300000000,
         "gross": 658000000
       }
@@ -2254,70 +1990,60 @@
       {
         "year": 2009,
         "title": "The Proposal",
-        "character": "Andrew Paxton",
         "budget": 40000000,
         "gross": 317000000
       },
       {
         "year": 2011,
         "title": "Green Lantern",
-        "character": "Hal Jordan",
         "budget": 200000000,
         "gross": 220000000
       },
       {
         "year": 2012,
         "title": "Safe House",
-        "character": "Matt Weston",
         "budget": 85000000,
         "gross": 208000000
       },
       {
         "year": 2016,
         "title": "Deadpool",
-        "character": "Wade Wilson",
         "budget": 58000000,
         "gross": 783000000
       },
       {
         "year": 2017,
         "title": "The Hitman's Bodyguard",
-        "character": "Michael Bryce",
         "budget": 30000000,
         "gross": 177000000
       },
       {
         "year": 2017,
         "title": "Life",
-        "character": "Rory Adams",
         "budget": 58000000,
         "gross": 100000000
       },
       {
         "year": 2018,
         "title": "Deadpool 2",
-        "character": "Wade Wilson",
         "budget": 110000000,
         "gross": 786000000
       },
       {
         "year": 2019,
         "title": "Pokémon Detective Pikachu",
-        "character": "Pikachu (voice)",
         "budget": 150000000,
         "gross": 433000000
       },
       {
         "year": 2021,
         "title": "Free Guy",
-        "character": "Guy",
         "budget": 100000000,
         "gross": 331000000
       },
       {
         "year": 2024,
         "title": "Deadpool & Wolverine",
-        "character": "Wade Wilson",
         "budget": 200000000,
         "gross": 1338000000
       }
@@ -2338,70 +2064,60 @@
       {
         "year": 2011,
         "title": "Thor",
-        "character": "Thor",
         "budget": 150000000,
         "gross": 449000000
       },
       {
         "year": 2012,
         "title": "The Avengers",
-        "character": "Thor",
         "budget": 220000000,
         "gross": 1519000000
       },
       {
         "year": 2013,
         "title": "Rush",
-        "character": "James Hunt",
         "budget": 38000000,
         "gross": 90000000
       },
       {
         "year": 2013,
         "title": "Thor: The Dark World",
-        "character": "Thor",
         "budget": 170000000,
         "gross": 645000000
       },
       {
         "year": 2015,
         "title": "Avengers: Age of Ultron",
-        "character": "Thor",
         "budget": 250000000,
         "gross": 1403000000
       },
       {
         "year": 2016,
         "title": "Ghostbusters",
-        "character": "Kevin",
         "budget": 144000000,
         "gross": 229000000
       },
       {
         "year": 2017,
         "title": "Thor: Ragnarok",
-        "character": "Thor",
         "budget": 180000000,
         "gross": 855000000
       },
       {
         "year": 2018,
         "title": "Avengers: Infinity War",
-        "character": "Thor",
         "budget": 316000000,
         "gross": 2048000000
       },
       {
         "year": 2019,
         "title": "Avengers: Endgame",
-        "character": "Thor",
         "budget": 356000000,
         "gross": 2798000000
       },
       {
         "year": 2022,
         "title": "Thor: Love and Thunder",
-        "character": "Thor",
         "budget": 250000000,
         "gross": 760000000
       }
@@ -2422,70 +2138,60 @@
       {
         "year": 2006,
         "title": "The Devil Wears Prada",
-        "character": "Emily Charlton",
         "budget": 35000000,
         "gross": 326000000
       },
       {
         "year": 2012,
         "title": "Looper",
-        "character": "Sara",
         "budget": 30000000,
         "gross": 177000000
       },
       {
         "year": 2014,
         "title": "Edge of Tomorrow",
-        "character": "Rita Vrataski",
         "budget": 178000000,
         "gross": 370000000
       },
       {
         "year": 2015,
         "title": "Sicario",
-        "character": "Kate Macer",
         "budget": 30000000,
         "gross": 85000000
       },
       {
         "year": 2016,
         "title": "The Girl on the Train",
-        "character": "Rachel Watson",
         "budget": 45000000,
         "gross": 173000000
       },
       {
         "year": 2018,
         "title": "A Quiet Place",
-        "character": "Evelyn Abbott",
         "budget": 17000000,
         "gross": 341000000
       },
       {
         "year": 2018,
         "title": "Mary Poppins Returns",
-        "character": "Mary Poppins",
         "budget": 130000000,
         "gross": 349000000
       },
       {
         "year": 2020,
         "title": "A Quiet Place Part II",
-        "character": "Evelyn Abbott",
         "budget": 61000000,
         "gross": 297000000
       },
       {
         "year": 2023,
         "title": "Oppenheimer",
-        "character": "Kitty Oppenheimer",
         "budget": 100000000,
         "gross": 975000000
       },
       {
         "year": 2024,
         "title": "The Fall Guy",
-        "character": "Jody Moreno",
         "budget": 125000000,
         "gross": 181000000
       }
@@ -2506,70 +2212,60 @@
       {
         "year": 2013,
         "title": "The Wolf of Wall Street",
-        "character": "Naomi Lapaglia",
         "budget": 100000000,
         "gross": 392000000
       },
       {
         "year": 2015,
         "title": "Focus",
-        "character": "Jess Barrett",
         "budget": 50000000,
         "gross": 159000000
       },
       {
         "year": 2016,
         "title": "Suicide Squad",
-        "character": "Harley Quinn",
         "budget": 175000000,
         "gross": 747000000
       },
       {
         "year": 2017,
         "title": "I, Tonya",
-        "character": "Tonya Harding",
         "budget": 11000000,
         "gross": 54000000
       },
       {
         "year": 2019,
         "title": "Once Upon a Time in Hollywood",
-        "character": "Sharon Tate",
         "budget": 90000000,
         "gross": 377000000
       },
       {
         "year": 2019,
         "title": "Bombshell",
-        "character": "Kayla Pospisil",
         "budget": 32000000,
         "gross": 61000000
       },
       {
         "year": 2020,
         "title": "Birds of Prey",
-        "character": "Harley Quinn",
         "budget": 85000000,
         "gross": 205000000
       },
       {
         "year": 2021,
         "title": "The Suicide Squad",
-        "character": "Harley Quinn",
         "budget": 185000000,
         "gross": 169000000
       },
       {
         "year": 2022,
         "title": "Babylon",
-        "character": "Nellie LaRoy",
         "budget": 80000000,
         "gross": 63000000
       },
       {
         "year": 2023,
         "title": "Barbie",
-        "character": "Barbie",
         "budget": 145000000,
         "gross": 1446000000
       }
@@ -2590,70 +2286,60 @@
       {
         "year": 2012,
         "title": "Prometheus",
-        "character": "Captain Janek",
         "budget": 130000000,
         "gross": 403000000
       },
       {
         "year": 2013,
         "title": "Pacific Rim",
-        "character": "Stacker Pentecost",
         "budget": 190000000,
         "gross": 411000000
       },
       {
         "year": 2013,
         "title": "Thor: The Dark World",
-        "character": "Heimdall",
         "budget": 170000000,
         "gross": 645000000
       },
       {
         "year": 2013,
         "title": "Mandela: Long Walk to Freedom",
-        "character": "Nelson Mandela",
         "budget": 35000000,
         "gross": 27000000
       },
       {
         "year": 2016,
         "title": "The Jungle Book",
-        "character": "Shere Khan (voice)",
         "budget": 175000000,
         "gross": 967000000
       },
       {
         "year": 2016,
         "title": "Zootopia",
-        "character": "Chief Bogo (voice)",
         "budget": 150000000,
         "gross": 1025000000
       },
       {
         "year": 2017,
         "title": "Thor: Ragnarok",
-        "character": "Heimdall",
         "budget": 180000000,
         "gross": 855000000
       },
       {
         "year": 2019,
         "title": "Fast & Furious Presents: Hobbs & Shaw",
-        "character": "Brixton Lore",
         "budget": 200000000,
         "gross": 760000000
       },
       {
         "year": 2021,
         "title": "The Suicide Squad",
-        "character": "Bloodsport",
         "budget": 185000000,
         "gross": 169000000
       },
       {
         "year": 2022,
         "title": "Beast",
-        "character": "Nate Samuels",
         "budget": 36000000,
         "gross": 59000000
       }
@@ -2674,63 +2360,54 @@
       {
         "year": 2008,
         "title": "Doubt",
-        "character": "Mrs. Miller",
         "budget": 20000000,
         "gross": 51000000
       },
       {
         "year": 2011,
         "title": "The Help",
-        "character": "Aibileen Clark",
         "budget": 25000000,
         "gross": 216000000
       },
       {
         "year": 2016,
         "title": "Fences",
-        "character": "Rose Maxson",
         "budget": 24000000,
         "gross": 64000000
       },
       {
         "year": 2016,
         "title": "Suicide Squad",
-        "character": "Amanda Waller",
         "budget": 175000000,
         "gross": 747000000
       },
       {
         "year": 2018,
         "title": "Widows",
-        "character": "Veronica Rawlings",
         "budget": 42000000,
         "gross": 76000000
       },
       {
         "year": 2020,
         "title": "Ma Rainey's Black Bottom",
-        "character": "Ma Rainey",
         "budget": 20000000,
         "gross": null
       },
       {
         "year": 2021,
         "title": "The Suicide Squad",
-        "character": "Amanda Waller",
         "budget": 185000000,
         "gross": 169000000
       },
       {
         "year": 2022,
         "title": "The Woman King",
-        "character": "Nanisca",
         "budget": 50000000,
         "gross": 94000000
       },
       {
         "year": 2023,
         "title": "Air",
-        "character": "Deloris Jordan",
         "budget": 90000000,
         "gross": 90000000
       }
@@ -2753,63 +2430,54 @@
       {
         "year": 2012,
         "title": "Chronicle",
-        "character": "Steve Montgomery",
         "budget": 12000000,
         "gross": 126000000
       },
       {
         "year": 2013,
         "title": "Fruitvale Station",
-        "character": "Oscar Grant",
         "budget": 1000000,
         "gross": 17000000
       },
       {
         "year": 2015,
         "title": "Fantastic Four",
-        "character": "Johnny Storm",
         "budget": 120000000,
         "gross": 168000000
       },
       {
         "year": 2015,
         "title": "Creed",
-        "character": "Adonis Creed",
         "budget": 35000000,
         "gross": 173000000
       },
       {
         "year": 2018,
         "title": "Black Panther",
-        "character": "Erik Killmonger",
         "budget": 200000000,
         "gross": 1347000000
       },
       {
         "year": 2018,
         "title": "Creed II",
-        "character": "Adonis Creed",
         "budget": 50000000,
         "gross": 214000000
       },
       {
         "year": 2019,
         "title": "Just Mercy",
-        "character": "Bryan Stevenson",
         "budget": 25000000,
         "gross": 50000000
       },
       {
         "year": 2023,
         "title": "Creed III",
-        "character": "Adonis Creed",
         "budget": 75000000,
         "gross": 276000000
       },
       {
         "year": 2025,
         "title": "Sinners",
-        "character": "Smoke / Stack",
         "budget": 90000000,
         "gross": 367000000
       }
@@ -2830,70 +2498,60 @@
       {
         "year": 2005,
         "title": "Fantastic Four",
-        "character": "Johnny Storm",
         "budget": 100000000,
         "gross": 334000000
       },
       {
         "year": 2007,
         "title": "Fantastic Four: Rise of the Silver Surfer",
-        "character": "Johnny Storm",
         "budget": 130000000,
         "gross": 290000000
       },
       {
         "year": 2011,
         "title": "Captain America: The First Avenger",
-        "character": "Steve Rogers",
         "budget": 140000000,
         "gross": 371000000
       },
       {
         "year": 2012,
         "title": "The Avengers",
-        "character": "Steve Rogers",
         "budget": 220000000,
         "gross": 1519000000
       },
       {
         "year": 2014,
         "title": "Captain America: The Winter Soldier",
-        "character": "Steve Rogers",
         "budget": 170000000,
         "gross": 714000000
       },
       {
         "year": 2015,
         "title": "Avengers: Age of Ultron",
-        "character": "Steve Rogers",
         "budget": 250000000,
         "gross": 1403000000
       },
       {
         "year": 2016,
         "title": "Captain America: Civil War",
-        "character": "Steve Rogers",
         "budget": 250000000,
         "gross": 1153000000
       },
       {
         "year": 2017,
         "title": "Gifted",
-        "character": "Frank Adler",
         "budget": 7000000,
         "gross": 40000000
       },
       {
         "year": 2019,
         "title": "Knives Out",
-        "character": "Ransom Drysdale",
         "budget": 40000000,
         "gross": 313000000
       },
       {
         "year": 2019,
         "title": "Avengers: Endgame",
-        "character": "Steve Rogers",
         "budget": 356000000,
         "gross": 2798000000
       }
@@ -2917,70 +2575,60 @@
       {
         "year": 2009,
         "title": "Avatar",
-        "character": "Neytiri",
         "budget": 237000000,
         "gross": 2923000000
       },
       {
         "year": 2009,
         "title": "Star Trek",
-        "character": "Nyota Uhura",
         "budget": 150000000,
         "gross": 386000000
       },
       {
         "year": 2013,
         "title": "Star Trek Into Darkness",
-        "character": "Nyota Uhura",
         "budget": 190000000,
         "gross": 467000000
       },
       {
         "year": 2014,
         "title": "Guardians of the Galaxy",
-        "character": "Gamora",
         "budget": 170000000,
         "gross": 773000000
       },
       {
         "year": 2016,
         "title": "Star Trek Beyond",
-        "character": "Nyota Uhura",
         "budget": 185000000,
         "gross": 339000000
       },
       {
         "year": 2017,
         "title": "Guardians of the Galaxy Vol. 2",
-        "character": "Gamora",
         "budget": 200000000,
         "gross": 864000000
       },
       {
         "year": 2018,
         "title": "Avengers: Infinity War",
-        "character": "Gamora",
         "budget": 316000000,
         "gross": 2048000000
       },
       {
         "year": 2019,
         "title": "Avengers: Endgame",
-        "character": "Gamora",
         "budget": 356000000,
         "gross": 2798000000
       },
       {
         "year": 2022,
         "title": "Avatar: The Way of Water",
-        "character": "Neytiri",
         "budget": 350000000,
         "gross": 2320000000
       },
       {
         "year": 2023,
         "title": "Guardians of the Galaxy Vol. 3",
-        "character": "Gamora",
         "budget": 250000000,
         "gross": 846000000
       }
@@ -3001,70 +2649,60 @@
       {
         "year": 1995,
         "title": "Sense and Sensibility",
-        "character": "Marianne Dashwood",
         "budget": 16000000,
         "gross": 135000000
       },
       {
         "year": 1997,
         "title": "Titanic",
-        "character": "Rose DeWitt Bukater",
         "budget": 200000000,
         "gross": 2200000000
       },
       {
         "year": 2004,
         "title": "Eternal Sunshine of the Spotless Mind",
-        "character": "Clementine Kruczynski",
         "budget": 20000000,
         "gross": 74000000
       },
       {
         "year": 2006,
         "title": "Little Children",
-        "character": "Sarah Pierce",
         "budget": 26000000,
         "gross": 15000000
       },
       {
         "year": 2008,
         "title": "The Reader",
-        "character": "Hanna Schmitz",
         "budget": 32000000,
         "gross": 109000000
       },
       {
         "year": 2008,
         "title": "Revolutionary Road",
-        "character": "April Wheeler",
         "budget": 35000000,
         "gross": 75000000
       },
       {
         "year": 2011,
         "title": "Contagion",
-        "character": "Dr. Erin Mears",
         "budget": 60000000,
         "gross": 135000000
       },
       {
         "year": 2014,
         "title": "Divergent",
-        "character": "Jeanine Matthews",
         "budget": 85000000,
         "gross": 289000000
       },
       {
         "year": 2015,
         "title": "Steve Jobs",
-        "character": "Joanna Hoffman",
         "budget": 30000000,
         "gross": 34000000
       },
       {
         "year": 2022,
         "title": "Avatar: The Way of Water",
-        "character": "Ronal",
         "budget": 350000000,
         "gross": 2320000000
       }
@@ -3087,63 +2725,54 @@
       {
         "year": 1997,
         "title": "Tomorrow Never Dies",
-        "character": "Wai Lin",
         "budget": 110000000,
         "gross": 333000000
       },
       {
         "year": 2000,
         "title": "Crouching Tiger, Hidden Dragon",
-        "character": "Yu Shu Lien",
         "budget": 17000000,
         "gross": 214000000
       },
       {
         "year": 2005,
         "title": "Memoirs of a Geisha",
-        "character": "Mameha",
         "budget": 85000000,
         "gross": 162000000
       },
       {
         "year": 2008,
         "title": "The Mummy: Tomb of the Dragon Emperor",
-        "character": "Zi Yuan",
         "budget": 145000000,
         "gross": 403000000
       },
       {
         "year": 2018,
         "title": "Crazy Rich Asians",
-        "character": "Eleanor Young",
         "budget": 30000000,
         "gross": 239000000
       },
       {
         "year": 2019,
         "title": "Last Christmas",
-        "character": "Santa",
         "budget": 30000000,
         "gross": 121000000
       },
       {
         "year": 2021,
         "title": "Shang-Chi and the Legend of the Ten Rings",
-        "character": "Ying Nan",
         "budget": 150000000,
         "gross": 432000000
       },
       {
         "year": 2022,
         "title": "Everything Everywhere All at Once",
-        "character": "Evelyn Wang",
         "budget": 25000000,
         "gross": 143000000
       },
       {
         "year": 2024,
         "title": "Wicked",
-        "character": "Madame Morrible",
         "budget": 150000000,
         "gross": 759000000
       }
@@ -3164,70 +2793,60 @@
       {
         "year": 2000,
         "title": "Before Night Falls",
-        "character": "Reinaldo Arenas",
         "budget": 8000000,
         "gross": 9000000
       },
       {
         "year": 2004,
         "title": "The Sea Inside",
-        "character": "Ramón Sampedro",
         "budget": 10000000,
         "gross": 38000000
       },
       {
         "year": 2007,
         "title": "No Country for Old Men",
-        "character": "Anton Chigurh",
         "budget": 25000000,
         "gross": 171000000
       },
       {
         "year": 2010,
         "title": "Eat Pray Love",
-        "character": "Felipe",
         "budget": 60000000,
         "gross": 205000000
       },
       {
         "year": 2010,
         "title": "Biutiful",
-        "character": "Uxbal",
         "budget": 20000000,
         "gross": 25000000
       },
       {
         "year": 2012,
         "title": "Skyfall",
-        "character": "Raoul Silva",
         "budget": 200000000,
         "gross": 1109000000
       },
       {
         "year": 2017,
         "title": "Mother!",
-        "character": "Him",
         "budget": 33000000,
         "gross": 44000000
       },
       {
         "year": 2021,
         "title": "Dune",
-        "character": "Stilgar",
         "budget": 165000000,
         "gross": 402000000
       },
       {
         "year": 2021,
         "title": "Being the Ricardos",
-        "character": "Desi Arnaz",
         "budget": null,
         "gross": null
       },
       {
         "year": 2024,
         "title": "Dune: Part Two",
-        "character": "Stilgar",
         "budget": 190000000,
         "gross": 714000000
       }
@@ -3250,70 +2869,60 @@
       {
         "year": 2001,
         "title": "Blow",
-        "character": "Mirtha Jung",
         "budget": 53000000,
         "gross": 83000000
       },
       {
         "year": 2001,
         "title": "Vanilla Sky",
-        "character": "Sofia Serrano",
         "budget": 68000000,
         "gross": 203000000
       },
       {
         "year": 2005,
         "title": "Sahara",
-        "character": "Eva Rojas",
         "budget": 130000000,
         "gross": 119000000
       },
       {
         "year": 2006,
         "title": "Volver",
-        "character": "Raimunda",
         "budget": 9000000,
         "gross": 85000000
       },
       {
         "year": 2008,
         "title": "Vicky Cristina Barcelona",
-        "character": "María Elena",
         "budget": 16000000,
         "gross": 96000000
       },
       {
         "year": 2009,
         "title": "Nine",
-        "character": "Carla Albanese",
         "budget": 80000000,
         "gross": 54000000
       },
       {
         "year": 2011,
         "title": "Pirates of the Caribbean: On Stranger Tides",
-        "character": "Angelica",
         "budget": 380000000,
         "gross": 1046000000
       },
       {
         "year": 2017,
         "title": "Murder on the Orient Express",
-        "character": "Pilar Estravados",
         "budget": 55000000,
         "gross": 353000000
       },
       {
         "year": 2018,
         "title": "Everybody Knows",
-        "character": "Laura",
         "budget": 12000000,
         "gross": 18000000
       },
       {
         "year": 2021,
         "title": "Parallel Mothers",
-        "character": "Janis Martínez",
         "budget": 8000000,
         "gross": 23000000
       }
@@ -3334,56 +2943,48 @@
       {
         "year": 2007,
         "title": "Atonement",
-        "character": "Briony Tallis",
         "budget": 30000000,
         "gross": 129000000
       },
       {
         "year": 2009,
         "title": "The Lovely Bones",
-        "character": "Susie Salmon",
         "budget": 65000000,
         "gross": 94000000
       },
       {
         "year": 2011,
         "title": "Hanna",
-        "character": "Hanna",
         "budget": 30000000,
         "gross": 64000000
       },
       {
         "year": 2014,
         "title": "The Grand Budapest Hotel",
-        "character": "Agatha",
         "budget": 25000000,
         "gross": 173000000
       },
       {
         "year": 2015,
         "title": "Brooklyn",
-        "character": "Eilis Lacey",
         "budget": 11000000,
         "gross": 62000000
       },
       {
         "year": 2017,
         "title": "Lady Bird",
-        "character": "Lady Bird",
         "budget": 10000000,
         "gross": 79000000
       },
       {
         "year": 2019,
         "title": "Little Women",
-        "character": "Jo March",
         "budget": 40000000,
         "gross": 219000000
       },
       {
         "year": 2013,
         "title": "The Host",
-        "character": "Melanie Stryder",
         "budget": 40000000,
         "gross": 63000000
       }
@@ -3404,63 +3005,54 @@
       {
         "year": 2013,
         "title": "Inside Llewyn Davis",
-        "character": "Llewyn Davis",
         "budget": 11000000,
         "gross": 33000000
       },
       {
         "year": 2014,
         "title": "A Most Violent Year",
-        "character": "Abel Morales",
         "budget": 20000000,
         "gross": 12000000
       },
       {
         "year": 2015,
         "title": "Ex Machina",
-        "character": "Nathan Bateman",
         "budget": 15000000,
         "gross": 37000000
       },
       {
         "year": 2015,
         "title": "Star Wars: The Force Awakens",
-        "character": "Poe Dameron",
         "budget": 447000000,
         "gross": 2071000000
       },
       {
         "year": 2016,
         "title": "X-Men: Apocalypse",
-        "character": "Apocalypse",
         "budget": 178000000,
         "gross": 544000000
       },
       {
         "year": 2017,
         "title": "Star Wars: The Last Jedi",
-        "character": "Poe Dameron",
         "budget": 317000000,
         "gross": 1333000000
       },
       {
         "year": 2018,
         "title": "Annihilation",
-        "character": "Kane",
         "budget": 40000000,
         "gross": 43000000
       },
       {
         "year": 2019,
         "title": "Star Wars: The Rise of Skywalker",
-        "character": "Poe Dameron",
         "budget": 275000000,
         "gross": 1074000000
       },
       {
         "year": 2021,
         "title": "Dune",
-        "character": "Duke Leto Atreides",
         "budget": 165000000,
         "gross": 402000000
       }
@@ -3481,70 +3073,60 @@
       {
         "year": 2015,
         "title": "Star Wars: The Force Awakens",
-        "character": "Kylo Ren",
         "budget": 447000000,
         "gross": 2071000000
       },
       {
         "year": 2016,
         "title": "Paterson",
-        "character": "Paterson",
         "budget": 5000000,
         "gross": 10000000
       },
       {
         "year": 2017,
         "title": "Star Wars: The Last Jedi",
-        "character": "Kylo Ren",
         "budget": 317000000,
         "gross": 1333000000
       },
       {
         "year": 2018,
         "title": "BlacKkKlansman",
-        "character": "Flip Zimmerman",
         "budget": 15000000,
         "gross": 93000000
       },
       {
         "year": 2019,
         "title": "Marriage Story",
-        "character": "Charlie Barber",
         "budget": null,
         "gross": null
       },
       {
         "year": 2019,
         "title": "Star Wars: The Rise of Skywalker",
-        "character": "Kylo Ren",
         "budget": 275000000,
         "gross": 1074000000
       },
       {
         "year": 2021,
         "title": "The Last Duel",
-        "character": "Jacques Le Gris",
         "budget": 100000000,
         "gross": 30000000
       },
       {
         "year": 2021,
         "title": "House of Gucci",
-        "character": "Maurizio Gucci",
         "budget": 75000000,
         "gross": 153000000
       },
       {
         "year": 2023,
         "title": "65",
-        "character": "Mills",
         "budget": 45000000,
         "gross": 61000000
       },
       {
         "year": 2023,
         "title": "Ferrari",
-        "character": "Enzo Ferrari",
         "budget": 95000000,
         "gross": 43000000
       }
@@ -3567,63 +3149,54 @@
       {
         "year": 2013,
         "title": "12 Years a Slave",
-        "character": "Patsey",
         "budget": 20000000,
         "gross": 187000000
       },
       {
         "year": 2015,
         "title": "Star Wars: The Force Awakens",
-        "character": "Maz Kanata",
         "budget": 447000000,
         "gross": 2071000000
       },
       {
         "year": 2016,
         "title": "Queen of Katwe",
-        "character": "Nakku Harriet",
         "budget": 15000000,
         "gross": 10000000
       },
       {
         "year": 2018,
         "title": "Black Panther",
-        "character": "Nakia",
         "budget": 200000000,
         "gross": 1347000000
       },
       {
         "year": 2019,
         "title": "Us",
-        "character": "Adelaide Wilson",
         "budget": 20000000,
         "gross": 255000000
       },
       {
         "year": 2019,
         "title": "Star Wars: The Rise of Skywalker",
-        "character": "Maz Kanata",
         "budget": 275000000,
         "gross": 1074000000
       },
       {
         "year": 2021,
         "title": "The 355",
-        "character": "Khadijah Adiyeme",
         "budget": 40000000,
         "gross": 28000000
       },
       {
         "year": 2022,
         "title": "Black Panther: Wakanda Forever",
-        "character": "Nakia",
         "budget": 250000000,
         "gross": 859000000
       },
       {
         "year": 2024,
         "title": "A Quiet Place: Day One",
-        "character": "Samira",
         "budget": 67000000,
         "gross": 261000000
       }
@@ -3644,63 +3217,54 @@
       {
         "year": 2008,
         "title": "Slumdog Millionaire",
-        "character": "Jamal Malik",
         "budget": 15000000,
         "gross": 378000000
       },
       {
         "year": 2012,
         "title": "The Best Exotic Marigold Hotel",
-        "character": "Sonny Kapoor",
         "budget": 10000000,
         "gross": 137000000
       },
       {
         "year": 2015,
         "title": "The Second Best Exotic Marigold Hotel",
-        "character": "Sonny Kapoor",
         "budget": 10000000,
         "gross": 86000000
       },
       {
         "year": 2015,
         "title": "Chappie",
-        "character": "Deon Wilson",
         "budget": 49000000,
         "gross": 102000000
       },
       {
         "year": 2016,
         "title": "Lion",
-        "character": "Saroo Brierley",
         "budget": 12000000,
         "gross": 140000000
       },
       {
         "year": 2018,
         "title": "Hotel Mumbai",
-        "character": "Arjun",
         "budget": 20000000,
         "gross": 21000000
       },
       {
         "year": 2019,
         "title": "The Personal History of David Copperfield",
-        "character": "David Copperfield",
         "budget": 16000000,
         "gross": 14000000
       },
       {
         "year": 2021,
         "title": "The Green Knight",
-        "character": "Gawain",
         "budget": 15000000,
         "gross": 19000000
       },
       {
         "year": 2024,
         "title": "Monkey Man",
-        "character": "Kid",
         "budget": 10000000,
         "gross": 35000000
       }
@@ -3723,70 +3287,60 @@
       {
         "year": 2009,
         "title": "Inglourious Basterds",
-        "character": "Lt. Archie Hicox",
         "budget": 70000000,
         "gross": 321000000
       },
       {
         "year": 2011,
         "title": "X-Men: First Class",
-        "character": "Magneto",
         "budget": 160000000,
         "gross": 353000000
       },
       {
         "year": 2012,
         "title": "Prometheus",
-        "character": "David",
         "budget": 130000000,
         "gross": 403000000
       },
       {
         "year": 2013,
         "title": "12 Years a Slave",
-        "character": "Edwin Epps",
         "budget": 20000000,
         "gross": 187000000
       },
       {
         "year": 2014,
         "title": "X-Men: Days of Future Past",
-        "character": "Magneto",
         "budget": 200000000,
         "gross": 746000000
       },
       {
         "year": 2015,
         "title": "Steve Jobs",
-        "character": "Steve Jobs",
         "budget": 30000000,
         "gross": 34000000
       },
       {
         "year": 2015,
         "title": "Macbeth",
-        "character": "Macbeth",
         "budget": 15000000,
         "gross": 16000000
       },
       {
         "year": 2016,
         "title": "X-Men: Apocalypse",
-        "character": "Magneto",
         "budget": 178000000,
         "gross": 544000000
       },
       {
         "year": 2017,
         "title": "Alien: Covenant",
-        "character": "David",
         "budget": 97000000,
         "gross": 240000000
       },
       {
         "year": 2019,
         "title": "Dark Phoenix",
-        "character": "Magneto",
         "budget": 200000000,
         "gross": 252000000
       }
@@ -3807,70 +3361,60 @@
       {
         "year": 2007,
         "title": "La Vie en Rose",
-        "character": "Édith Piaf",
         "budget": 25000000,
         "gross": 86000000
       },
       {
         "year": 2009,
         "title": "Public Enemies",
-        "character": "Billie Frechette",
         "budget": 100000000,
         "gross": 214000000
       },
       {
         "year": 2009,
         "title": "Nine",
-        "character": "Luisa Contini",
         "budget": 80000000,
         "gross": 54000000
       },
       {
         "year": 2010,
         "title": "Inception",
-        "character": "Mal Cobb",
         "budget": 160000000,
         "gross": 839000000
       },
       {
         "year": 2011,
         "title": "Midnight in Paris",
-        "character": "Adriana",
         "budget": 17000000,
         "gross": 151000000
       },
       {
         "year": 2011,
         "title": "Contagion",
-        "character": "Dr. Leonora Orantes",
         "budget": 60000000,
         "gross": 135000000
       },
       {
         "year": 2012,
         "title": "The Dark Knight Rises",
-        "character": "Miranda Tate",
         "budget": 250000000,
         "gross": 1081000000
       },
       {
         "year": 2012,
         "title": "Rust and Bone",
-        "character": "Stéphanie",
         "budget": 16000000,
         "gross": 26000000
       },
       {
         "year": 2014,
         "title": "Two Days, One Night",
-        "character": "Sandra",
         "budget": 7000000,
         "gross": 9000000
       },
       {
         "year": 2015,
         "title": "Macbeth",
-        "character": "Lady Macbeth",
         "budget": 15000000,
         "gross": 16000000
       }
@@ -3893,70 +3437,60 @@
       {
         "year": 2004,
         "title": "King Arthur",
-        "character": "Tristan",
         "budget": 120000000,
         "gross": 203000000
       },
       {
         "year": 2006,
         "title": "Casino Royale",
-        "character": "Le Chiffre",
         "budget": 150000000,
         "gross": 616000000
       },
       {
         "year": 2010,
         "title": "Clash of the Titans",
-        "character": "Draco",
         "budget": 125000000,
         "gross": 493000000
       },
       {
         "year": 2012,
         "title": "The Hunt",
-        "character": "Lucas",
         "budget": 4000000,
         "gross": 16000000
       },
       {
         "year": 2012,
         "title": "A Royal Affair",
-        "character": "Johann Struensee",
         "budget": 8000000,
         "gross": 15000000
       },
       {
         "year": 2016,
         "title": "Doctor Strange",
-        "character": "Kaecilius",
         "budget": 165000000,
         "gross": 678000000
       },
       {
         "year": 2016,
         "title": "Rogue One: A Star Wars Story",
-        "character": "Galen Erso",
         "budget": 200000000,
         "gross": 1058000000
       },
       {
         "year": 2020,
         "title": "Another Round",
-        "character": "Martin",
         "budget": 4000000,
         "gross": 21000000
       },
       {
         "year": 2022,
         "title": "Fantastic Beasts: The Secrets of Dumbledore",
-        "character": "Gellert Grindelwald",
         "budget": 200000000,
         "gross": 407000000
       },
       {
         "year": 2023,
         "title": "Indiana Jones and the Dial of Destiny",
-        "character": "Jürgen Voller",
         "budget": 295000000,
         "gross": 384000000
       }
@@ -3977,70 +3511,60 @@
       {
         "year": 2012,
         "title": "A Royal Affair",
-        "character": "Caroline Mathilde",
         "budget": 8000000,
         "gross": 15000000
       },
       {
         "year": 2012,
         "title": "Anna Karenina",
-        "character": "Kitty",
         "budget": 31000000,
         "gross": 69000000
       },
       {
         "year": 2014,
         "title": "Seventh Son",
-        "character": "Alice Deane",
         "budget": 95000000,
         "gross": 114000000
       },
       {
         "year": 2015,
         "title": "Ex Machina",
-        "character": "Ava",
         "budget": 15000000,
         "gross": 37000000
       },
       {
         "year": 2015,
         "title": "The Man from U.N.C.L.E.",
-        "character": "Gaby Teller",
         "budget": 75000000,
         "gross": 107000000
       },
       {
         "year": 2015,
         "title": "The Danish Girl",
-        "character": "Gerda Wegener",
         "budget": 15000000,
         "gross": 64000000
       },
       {
         "year": 2016,
         "title": "Jason Bourne",
-        "character": "Heather Lee",
         "budget": 120000000,
         "gross": 415000000
       },
       {
         "year": 2016,
         "title": "The Light Between Oceans",
-        "character": "Isabel Sherbourne",
         "budget": 20000000,
         "gross": 26000000
       },
       {
         "year": 2018,
         "title": "Tomb Raider",
-        "character": "Lara Croft",
         "budget": 94000000,
         "gross": 274000000
       },
       {
         "year": 2021,
         "title": "The Green Knight",
-        "character": "The Lady",
         "budget": 15000000,
         "gross": 19000000
       }
@@ -4061,70 +3585,60 @@
       {
         "year": 2006,
         "title": "Night at the Museum",
-        "character": "Ahkmenrah",
         "budget": 110000000,
         "gross": 574000000
       },
       {
         "year": 2009,
         "title": "Night at the Museum: Battle of the Smithsonian",
-        "character": "Ahkmenrah",
         "budget": 150000000,
         "gross": 413000000
       },
       {
         "year": 2014,
         "title": "Night at the Museum: Secret of the Tomb",
-        "character": "Ahkmenrah",
         "budget": 127000000,
         "gross": 363000000
       },
       {
         "year": 2014,
         "title": "Need for Speed",
-        "character": "Finn",
         "budget": 66000000,
         "gross": 204000000
       },
       {
         "year": 2017,
         "title": "Papillon",
-        "character": "Louis Dega",
         "budget": 20000000,
         "gross": 10000000
       },
       {
         "year": 2018,
         "title": "Bohemian Rhapsody",
-        "character": "Freddie Mercury",
         "budget": 52000000,
         "gross": 910000000
       },
       {
         "year": 2021,
         "title": "The Little Things",
-        "character": "Jim Baxter",
         "budget": 30000000,
         "gross": 31000000
       },
       {
         "year": 2021,
         "title": "No Time to Die",
-        "character": "Lyutsifer Safin",
         "budget": 250000000,
         "gross": 774000000
       },
       {
         "year": 2023,
         "title": "Oppenheimer",
-        "character": "David Hill",
         "budget": 100000000,
         "gross": 975000000
       },
       {
         "year": 2025,
         "title": "The Amateur",
-        "character": "Charles Heller",
         "budget": 60000000,
         "gross": 70000000
       }
@@ -4145,70 +3659,60 @@
       {
         "year": 2010,
         "title": "Inception",
-        "character": "Eames",
         "budget": 160000000,
         "gross": 839000000
       },
       {
         "year": 2012,
         "title": "The Dark Knight Rises",
-        "character": "Bane",
         "budget": 250000000,
         "gross": 1081000000
       },
       {
         "year": 2012,
         "title": "Lawless",
-        "character": "Forrest Bondurant",
         "budget": 26000000,
         "gross": 54000000
       },
       {
         "year": 2013,
         "title": "Locke",
-        "character": "Ivan Locke",
         "budget": 2000000,
         "gross": 5000000
       },
       {
         "year": 2015,
         "title": "Mad Max: Fury Road",
-        "character": "Max Rockatansky",
         "budget": 150000000,
         "gross": 380000000
       },
       {
         "year": 2015,
         "title": "Legend",
-        "character": "Ronnie Kray / Reggie Kray",
         "budget": 25000000,
         "gross": 43000000
       },
       {
         "year": 2015,
         "title": "The Revenant",
-        "character": "John Fitzgerald",
         "budget": 135000000,
         "gross": 533000000
       },
       {
         "year": 2017,
         "title": "Dunkirk",
-        "character": "Farrier",
         "budget": 100000000,
         "gross": 527000000
       },
       {
         "year": 2018,
         "title": "Venom",
-        "character": "Eddie Brock",
         "budget": 100000000,
         "gross": 856000000
       },
       {
         "year": 2021,
         "title": "Venom: Let There Be Carnage",
-        "character": "Eddie Brock",
         "budget": 110000000,
         "gross": 507000000
       }
@@ -4231,70 +3735,60 @@
       {
         "year": 2001,
         "title": "Donnie Darko",
-        "character": "Donnie Darko",
         "budget": 5000000,
         "gross": 7000000
       },
       {
         "year": 2004,
         "title": "The Day After Tomorrow",
-        "character": "Sam Hall",
         "budget": 125000000,
         "gross": 552000000
       },
       {
         "year": 2005,
         "title": "Brokeback Mountain",
-        "character": "Jack Twist",
         "budget": 14000000,
         "gross": 178000000
       },
       {
         "year": 2007,
         "title": "Zodiac",
-        "character": "Robert Graysmith",
         "budget": 65000000,
         "gross": 85000000
       },
       {
         "year": 2010,
         "title": "Prince of Persia: The Sands of Time",
-        "character": "Dastan",
         "budget": 200000000,
         "gross": 336000000
       },
       {
         "year": 2013,
         "title": "Prisoners",
-        "character": "Detective Loki",
         "budget": 46000000,
         "gross": 122000000
       },
       {
         "year": 2014,
         "title": "Nightcrawler",
-        "character": "Louis Bloom",
         "budget": 9000000,
         "gross": 50000000
       },
       {
         "year": 2015,
         "title": "Southpaw",
-        "character": "Billy Hope",
         "budget": 30000000,
         "gross": 92000000
       },
       {
         "year": 2016,
         "title": "Nocturnal Animals",
-        "character": "Tony Hastings",
         "budget": 23000000,
         "gross": 30000000
       },
       {
         "year": 2019,
         "title": "Spider-Man: Far From Home",
-        "character": "Mysterio",
         "budget": 160000000,
         "gross": 1132000000
       }
@@ -4315,63 +3809,54 @@
       {
         "year": 2009,
         "title": "Fast & Furious",
-        "character": "Gisele Yashar",
         "budget": 85000000,
         "gross": 363000000
       },
       {
         "year": 2011,
         "title": "Fast Five",
-        "character": "Gisele Yashar",
         "budget": 125000000,
         "gross": 626000000
       },
       {
         "year": 2013,
         "title": "Fast & Furious 6",
-        "character": "Gisele Yashar",
         "budget": 160000000,
         "gross": 789000000
       },
       {
         "year": 2016,
         "title": "Batman v Superman: Dawn of Justice",
-        "character": "Diana Prince",
         "budget": 250000000,
         "gross": 874000000
       },
       {
         "year": 2016,
         "title": "Keeping Up with the Joneses",
-        "character": "Natalie Jones",
         "budget": 40000000,
         "gross": 30000000
       },
       {
         "year": 2017,
         "title": "Wonder Woman",
-        "character": "Diana Prince",
         "budget": 149000000,
         "gross": 824000000
       },
       {
         "year": 2017,
         "title": "Justice League",
-        "character": "Diana Prince",
         "budget": 300000000,
         "gross": 658000000
       },
       {
         "year": 2020,
         "title": "Wonder Woman 1984",
-        "character": "Diana Prince",
         "budget": 200000000,
         "gross": 170000000
       },
       {
         "year": 2022,
         "title": "Death on the Nile",
-        "character": "Linnet Ridgeway",
         "budget": 90000000,
         "gross": 137000000
       }
@@ -4392,63 +3877,54 @@
       {
         "year": 2007,
         "title": "Stardust",
-        "character": "Humphrey",
         "budget": 70000000,
         "gross": 137000000
       },
       {
         "year": 2011,
         "title": "Immortals",
-        "character": "Theseus",
         "budget": 75000000,
         "gross": 227000000
       },
       {
         "year": 2013,
         "title": "Man of Steel",
-        "character": "Clark Kent",
         "budget": 225000000,
         "gross": 668000000
       },
       {
         "year": 2015,
         "title": "The Man from U.N.C.L.E.",
-        "character": "Napoleon Solo",
         "budget": 75000000,
         "gross": 107000000
       },
       {
         "year": 2016,
         "title": "Batman v Superman: Dawn of Justice",
-        "character": "Clark Kent",
         "budget": 250000000,
         "gross": 874000000
       },
       {
         "year": 2017,
         "title": "Justice League",
-        "character": "Clark Kent",
         "budget": 300000000,
         "gross": 658000000
       },
       {
         "year": 2018,
         "title": "Mission: Impossible – Fallout",
-        "character": "August Walker",
         "budget": 178000000,
         "gross": 791000000
       },
       {
         "year": 2020,
         "title": "Enola Holmes",
-        "character": "Sherlock Holmes",
         "budget": null,
         "gross": null
       },
       {
         "year": 2024,
         "title": "Argylle",
-        "character": "Agent Argylle",
         "budget": 200000000,
         "gross": 96000000
       }
@@ -4471,63 +3947,54 @@
       {
         "year": 2002,
         "title": "28 Days Later",
-        "character": "Jim",
         "budget": 8000000,
         "gross": 83000000
       },
       {
         "year": 2005,
         "title": "Batman Begins",
-        "character": "Dr. Jonathan Crane",
         "budget": 150000000,
         "gross": 373000000
       },
       {
         "year": 2005,
         "title": "Red Eye",
-        "character": "Jackson Rippner",
         "budget": 26000000,
         "gross": 96000000
       },
       {
         "year": 2006,
         "title": "The Wind That Shakes the Barley",
-        "character": "Damien O'Donovan",
         "budget": 7000000,
         "gross": 23000000
       },
       {
         "year": 2007,
         "title": "Sunshine",
-        "character": "Robert Capa",
         "budget": 40000000,
         "gross": 32000000
       },
       {
         "year": 2010,
         "title": "Inception",
-        "character": "Robert Fischer",
         "budget": 160000000,
         "gross": 839000000
       },
       {
         "year": 2017,
         "title": "Dunkirk",
-        "character": "Shivering Soldier",
         "budget": 100000000,
         "gross": 527000000
       },
       {
         "year": 2021,
         "title": "A Quiet Place Part II",
-        "character": "Emmett",
         "budget": 61000000,
         "gross": 297000000
       },
       {
         "year": 2023,
         "title": "Oppenheimer",
-        "character": "J. Robert Oppenheimer",
         "budget": 100000000,
         "gross": 975000000
       }
@@ -4550,70 +4017,60 @@
       {
         "year": 2015,
         "title": "The Witch",
-        "character": "Thomasin",
         "budget": 4000000,
         "gross": 40000000
       },
       {
         "year": 2016,
         "title": "Split",
-        "character": "Casey Cooke",
         "budget": 9000000,
         "gross": 278000000
       },
       {
         "year": 2019,
         "title": "Glass",
-        "character": "Casey Cooke",
         "budget": 20000000,
         "gross": 247000000
       },
       {
         "year": 2020,
         "title": "Emma",
-        "character": "Emma Woodhouse",
         "budget": 10000000,
         "gross": 26000000
       },
       {
         "year": 2020,
         "title": "The New Mutants",
-        "character": "Magik",
         "budget": 67000000,
         "gross": 49000000
       },
       {
         "year": 2021,
         "title": "Last Night in Soho",
-        "character": "Sandie",
         "budget": 43000000,
         "gross": 23000000
       },
       {
         "year": 2022,
         "title": "The Northman",
-        "character": "Olga",
         "budget": 70000000,
         "gross": 70000000
       },
       {
         "year": 2022,
         "title": "The Menu",
-        "character": "Margot",
         "budget": 30000000,
         "gross": 80000000
       },
       {
         "year": 2023,
         "title": "The Super Mario Bros. Movie",
-        "character": "Princess Peach (voice)",
         "budget": 100000000,
         "gross": 1362000000
       },
       {
         "year": 2024,
         "title": "Furiosa: A Mad Max Saga",
-        "character": "Furiosa",
         "budget": 168000000,
         "gross": 174000000
       }
@@ -4634,56 +4091,48 @@
       {
         "year": 2011,
         "title": "Attack the Block",
-        "character": "Moses",
         "budget": 13000000,
         "gross": 6000000
       },
       {
         "year": 2015,
         "title": "Star Wars: The Force Awakens",
-        "character": "Finn",
         "budget": 447000000,
         "gross": 2071000000
       },
       {
         "year": 2017,
         "title": "Detroit",
-        "character": "Melvin Dismukes",
         "budget": 34000000,
         "gross": 24000000
       },
       {
         "year": 2017,
         "title": "The Circle",
-        "character": "Ty",
         "budget": 18000000,
         "gross": 40000000
       },
       {
         "year": 2017,
         "title": "Star Wars: The Last Jedi",
-        "character": "Finn",
         "budget": 317000000,
         "gross": 1333000000
       },
       {
         "year": 2018,
         "title": "Pacific Rim: Uprising",
-        "character": "Jake Pentecost",
         "budget": 150000000,
         "gross": 291000000
       },
       {
         "year": 2019,
         "title": "Star Wars: The Rise of Skywalker",
-        "character": "Finn",
         "budget": 275000000,
         "gross": 1074000000
       },
       {
         "year": 2022,
         "title": "The Woman King",
-        "character": "King Ghezo",
         "budget": 50000000,
         "gross": 94000000
       }
@@ -4704,70 +4153,60 @@
       {
         "year": 2011,
         "title": "Midnight in Paris",
-        "character": "F. Scott Fitzgerald",
         "budget": 17000000,
         "gross": 151000000
       },
       {
         "year": 2011,
         "title": "Thor",
-        "character": "Loki",
         "budget": 150000000,
         "gross": 449000000
       },
       {
         "year": 2011,
         "title": "War Horse",
-        "character": "Captain Nicholls",
         "budget": 66000000,
         "gross": 177000000
       },
       {
         "year": 2012,
         "title": "The Avengers",
-        "character": "Loki",
         "budget": 220000000,
         "gross": 1519000000
       },
       {
         "year": 2012,
         "title": "The Deep Blue Sea",
-        "character": "Freddie Page",
         "budget": 3000000,
         "gross": 3000000
       },
       {
         "year": 2013,
         "title": "Thor: The Dark World",
-        "character": "Loki",
         "budget": 170000000,
         "gross": 645000000
       },
       {
         "year": 2015,
         "title": "Crimson Peak",
-        "character": "Thomas Sharpe",
         "budget": 55000000,
         "gross": 75000000
       },
       {
         "year": 2017,
         "title": "Kong: Skull Island",
-        "character": "James Conrad",
         "budget": 185000000,
         "gross": 568000000
       },
       {
         "year": 2017,
         "title": "Thor: Ragnarok",
-        "character": "Loki",
         "budget": 180000000,
         "gross": 855000000
       },
       {
         "year": 2018,
         "title": "Avengers: Infinity War",
-        "character": "Loki",
         "budget": 316000000,
         "gross": 2048000000
       }
@@ -4788,70 +4227,60 @@
       {
         "year": 2010,
         "title": "The Social Network",
-        "character": "Eduardo Saverin",
         "budget": 40000000,
         "gross": 225000000
       },
       {
         "year": 2010,
         "title": "Never Let Me Go",
-        "character": "Tommy",
         "budget": 15000000,
         "gross": 9000000
       },
       {
         "year": 2012,
         "title": "The Amazing Spider-Man",
-        "character": "Peter Parker",
         "budget": 230000000,
         "gross": 758000000
       },
       {
         "year": 2014,
         "title": "The Amazing Spider-Man 2",
-        "character": "Peter Parker",
         "budget": 200000000,
         "gross": 709000000
       },
       {
         "year": 2016,
         "title": "Hacksaw Ridge",
-        "character": "Desmond Doss",
         "budget": 40000000,
         "gross": 180000000
       },
       {
         "year": 2016,
         "title": "Silence",
-        "character": "Father Rodrigues",
         "budget": 46000000,
         "gross": 24000000
       },
       {
         "year": 2021,
         "title": "Spider-Man: No Way Home",
-        "character": "Peter Parker",
         "budget": 200000000,
         "gross": 1922000000
       },
       {
         "year": 2021,
         "title": "Tick, Tick... Boom!",
-        "character": "Jonathan Larson",
         "budget": null,
         "gross": null
       },
       {
         "year": 2021,
         "title": "The Eyes of Tammy Faye",
-        "character": "Jim Bakker",
         "budget": 26000000,
         "gross": 3000000
       },
       {
         "year": 2024,
         "title": "We Live in Time",
-        "character": "Tobias",
         "budget": 20000000,
         "gross": 50000000
       }
@@ -4872,70 +4301,60 @@
       {
         "year": 2015,
         "title": "Mission: Impossible – Rogue Nation",
-        "character": "Ilsa Faust",
         "budget": 150000000,
         "gross": 683000000
       },
       {
         "year": 2017,
         "title": "Life",
-        "character": "Miranda North",
         "budget": 58000000,
         "gross": 100000000
       },
       {
         "year": 2017,
         "title": "The Greatest Showman",
-        "character": "Jenny Lind",
         "budget": 84000000,
         "gross": 435000000
       },
       {
         "year": 2018,
         "title": "Mission: Impossible – Fallout",
-        "character": "Ilsa Faust",
         "budget": 178000000,
         "gross": 791000000
       },
       {
         "year": 2019,
         "title": "Doctor Sleep",
-        "character": "Rose the Hat",
         "budget": 45000000,
         "gross": 72000000
       },
       {
         "year": 2019,
         "title": "Men in Black: International",
-        "character": "Riza",
         "budget": 110000000,
         "gross": 253000000
       },
       {
         "year": 2021,
         "title": "Dune",
-        "character": "Lady Jessica",
         "budget": 165000000,
         "gross": 402000000
       },
       {
         "year": 2021,
         "title": "Reminiscence",
-        "character": "Mae",
         "budget": 54000000,
         "gross": 16000000
       },
       {
         "year": 2023,
         "title": "Mission: Impossible – Dead Reckoning Part One",
-        "character": "Ilsa Faust",
         "budget": 291000000,
         "gross": 568000000
       },
       {
         "year": 2024,
         "title": "Dune: Part Two",
-        "character": "Lady Jessica",
         "budget": 190000000,
         "gross": 714000000
       }
