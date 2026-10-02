@@ -51,17 +51,19 @@ Do not commit `.env`. The example file is `.env.example`.
 
 Box Office is a static site. `netlify.toml` publishes the project root with no build step. `index.html` is not cached. `data/actors.json` is cached for five minutes. CSS, JavaScript, images, and the favicon are cached for seven days.
 
-### First link
+Production: https://boxofficethegame.netlify.app
 
-From the project root, with the [Netlify CLI](https://docs.netlify.com/cli/get-started/) installed:
+The Netlify site is `boxofficethegame`, on the Messy Chef team, connected to this GitHub repo. The GitHub build listens to `main`. A production deploy from the CLI publishes the files on disk straight away, including before that branch is merged.
+
+### Link this folder
 
 ```bash
 npm install -g netlify-cli
 netlify login
-netlify init
+netlify link --id b9216996-0fc1-4114-8b1f-0f086dc2ede6
 ```
 
-`netlify init` creates or links a site and writes `.netlify/` (that folder is gitignored). Confirm the publish directory is `.` and that there is no build command.
+`netlify link` writes `.netlify/` (gitignored). The publish directory is `.` and there is no build command.
 
 ### Redeploy
 
@@ -69,17 +71,15 @@ netlify init
 netlify deploy --prod
 ```
 
-The command prints the live URL. After a data refresh, deploy again so `data/actors.json` updates. HTML and the actor file use short cache headers, so a reload picks up a new deal file without a rename.
+After a data refresh, deploy again so `data/actors.json` updates. HTML and the actor file use short cache headers, so a reload picks up a new deal file without a rename.
 
 ### Roll back
 
-1. Open the site in the Netlify dashboard.
+1. Open https://app.netlify.com/projects/boxofficethegame
 2. Go to **Deploys**.
 3. Open the last good deploy and choose **Publish deploy**.
 
-That restores the previous static snapshot, including `data/actors.json`, without a git revert. To roll the source back as well, check out the older commit (the V1 tag is `v1.0.0`) and run `netlify deploy --prod` again.
-
-Production was not deployed from the environment that built V1: the Netlify CLI was not installed and no site was linked. Run the first-link steps above, then `netlify deploy --prod`.
+That restores the previous static snapshot, including `data/actors.json`, without a git revert. To roll the source back as well, check out the older tag (`v1.0.0` or `v1.0.1`) and run `netlify deploy --prod` again.
 
 ## Planned for V2
 
