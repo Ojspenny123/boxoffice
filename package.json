@@ -1,0 +1,12 @@
+{
+  "name": "boxoffice",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "description": "Box Office — name the actor from their biggest films. A static daily movie puzzle.",
+  "scripts": {
+    "start": "python3 -m http.server 8080",
+    "build:actors": "node scripts/build-actors.js",
+    "check": "node scripts/check-game.js"
+  }
+}

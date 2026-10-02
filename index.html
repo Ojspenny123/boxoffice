@@ -1,0 +1,80 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover" />
+    <meta name="color-scheme" content="light" />
+    <meta name="theme-color" content="#FFFBF2" />
+    <meta name="description" content="Box Office — name the actor from their biggest films. A daily movie guessing game." />
+    <title>Box Office</title>
+    <link rel="icon" href="favicon.svg" type="image/svg+xml" />
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link href="https://fonts.googleapis.com/css2?family=Bricolage+Grotesque:opsz,wght@12..96,600;12..96,700;12..96,800&family=DM+Sans:ital,opsz,wght@0,9..40,400;0,9..40,500;0,9..40,600;0,9..40,700;1,9..40,400&display=swap" rel="stylesheet" />
+    <link rel="stylesheet" href="css/styles.css" />
+  </head>
+  <body>
+    <a class="skip" href="#app">Skip to the puzzle</a>
+    <div id="page">
+      <div class="topbar">
+        <div class="accent-strip" aria-hidden="true"></div>
+        <header class="site-header">
+          <div class="wrap header-inner">
+            <div class="brand">
+              <svg class="logo-icon" viewBox="0 0 48 48" aria-hidden="true">
+                <rect x="6" y="16" width="36" height="24" rx="5" fill="#7C3AED" />
+                <path d="M8 16 13.4 7.5h6.4L14.4 16Z" fill="#FFC933" />
+                <path d="M17 16 22.4 7.5h6.4L23.4 16Z" fill="#FF4D8D" />
+                <path d="M26 16 31.4 7.5h6.4L32.4 16Z" fill="#3B82F6" />
+                <path d="M34.6 16 39.2 9.2 42 16Z" fill="#FFC933" />
+                <rect x="6" y="16" width="36" height="6" fill="#5B21B6" />
+                <rect x="12" y="27" width="12" height="3.2" rx="1.6" fill="#FFC933" />
+              </svg>
+              <div class="brand-copy">
+                <h1 class="wordmark">Box Office</h1>
+                <p class="tagline" id="tagline" hidden>Name the actor from their biggest films.</p>
+              </div>
+            </div>
+            <div class="header-actions">
+              <p class="streak-pill" id="streak-pill" aria-label="Current streak: 0 days">
+                <svg class="flame" viewBox="0 0 24 24" aria-hidden="true">
+                  <path fill="#FFC933" stroke="#9A3412" stroke-width="1.2" d="M12 2s2.2 3.1 2.2 5.2c0 1.3-.7 2.2-1.5 2.8.2-1.6-.4-2.8-.4-2.8S8 10.2 8 13.4C8 16.6 10 19 12.4 19S17 16.5 17 13.6c0-2.4-1.2-4.1-1.2-4.1S14.8 11 14 11c.7-1.6 1-3.2.4-4.8C13.6 4.2 12 2 12 2z" />
+                  <path fill="#F97316" d="M12.2 19c-1.5 0-2.8-1.2-3-2.8.9.5 1.6.2 2-.4.6.8 1.6 1 2.4.6-.2 1.5-.8 2.6-1.4 2.6z" />
+                </svg>
+                <span id="streak-count">0</span>
+              </p>
+              <button type="button" class="icon-btn" id="stats-btn" aria-label="Stats">
+                <svg viewBox="0 0 24 24" aria-hidden="true">
+                  <path fill="currentColor" d="M4 19.5A1.5 1.5 0 0 1 5.5 18H7v-5.5A1.5 1.5 0 0 1 8.5 11h1A1.5 1.5 0 0 1 11 12.5V18h2V8.5A1.5 1.5 0 0 1 14.5 7h1A1.5 1.5 0 0 1 17 8.5V18h1.5a1.5 1.5 0 0 1 0 3h-13A1.5 1.5 0 0 1 4 19.5z" />
+                </svg>
+              </button>
+              <button type="button" class="icon-btn" id="help-btn" aria-label="How to play">
+                <svg viewBox="0 0 24 24" aria-hidden="true">
+                  <circle cx="12" cy="12" r="9" fill="none" stroke="currentColor" stroke-width="2" />
+                  <path fill="currentColor" d="M11 16.5h2V18h-2zm1-11a3.4 3.4 0 0 0-3.4 3.1h2A1.4 1.4 0 1 1 12.1 10c-.9.4-1.6 1.2-1.6 2.4V14h2v-1.2c0-.4.2-.7.7-.9A3.3 3.3 0 0 0 12 5.5z" />
+                </svg>
+              </button>
+            </div>
+          </div>
+        </header>
+      </div>
+      <main id="app" tabindex="-1"></main>
+      <footer class="site-footer">
+        <div class="wrap footer-inner">
+          <p class="credit">Created by OJ Spenny Gaming <span class="version" id="version-label">v1.0</span></p>
+          <p class="tmdb-line">
+            <img class="tmdb-logo" src="img/tmdb.svg" alt="TMDB" width="64" height="8" />
+            <span>This product uses the TMDB API but is not endorsed or certified by TMDB.</span>
+          </p>
+        </div>
+      </footer>
+    </div>
+    <div id="modal-root" hidden></div>
+    <div id="toast" role="status" aria-live="polite"></div>
+    <div id="live" class="sr-only" aria-live="polite"></div>
+    <noscript>
+      <p class="noscript">Box Office needs JavaScript to deal today's actors.</p>
+    </noscript>
+    <script type="module" src="js/main.js"></script>
+  </body>
+</html>
