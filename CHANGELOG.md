@@ -1,5 +1,11 @@
 # Changelog
 
+## V1.0.1 — 2026-10-02
+
+- Rebuilt `data/actors.json` from TMDB: photos, posters, budgets, and worldwide grosses.
+- Actors with fewer than eight films at 5,000 votes keep the curated list, with posters and money filled from TMDB when the title matches. Those names are listed in `data/build-report.md`.
+- The build script accepts a TMDB v3 key or a v4 read token.
+
 ## V1.0.0 — 2026-10-02
 
 First playable release of Box Office.

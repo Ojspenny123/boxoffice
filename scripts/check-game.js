@@ -33,7 +33,7 @@ function memoryStorage() {
   };
 }
 
-assert(VERSION === "1.0.0", "version constant");
+assert(VERSION === "1.0.1", "version constant");
 assert(versionLabel() === "v1.0", "footer version label");
 assert(formatMoney(null) === "—", "null money");
 assert(formatMoney(0) === "—", "zero money");

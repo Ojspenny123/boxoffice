@@ -23,6 +23,7 @@ const seedPath = path.join(root, "scripts", "actors-seed.json");
 const outPath = path.join(root, "data", "actors.json");
 const reportPath = path.join(root, "data", "build-report.md");
 const cachePath = path.join(root, "scripts", ".cache", "images.json");
+const tmdbCachePath = path.join(root, "scripts", ".cache", "tmdb.json");
 
 const MIN_VOTES = 5000;
 const DOC_GENRE = 99;
@@ -60,6 +61,13 @@ function fold(value) {
     .toLowerCase();
 }
 
+function plainTitle(value) {
+  return fold(value)
+    .replace(/['’]/g, "")
+    .replace(/[^a-z0-9]+/g, " ")
+    .trim();
+}
+
 function escapeRegExp(value) {
   return value.replace(/[.*+?^${}()|[\]\\]/g, "\\$&");
 }
@@ -77,8 +85,22 @@ function isSelfRole(character) {
   const role = fold(character);
   if (!role) return false;
   if (/^(self|himself|herself|themselves|cameo)$/.test(role)) return true;
-  return /\b(himself|herself|themselves|archive footage|uncredited|cameo)\b/.test(role);
+  return /\b(himself|herself|themselves|archive footage|uncredited|cameo|rejected)\b/.test(role);
 }
+
+function characterIsSelf(character, seed) {
+  if (isSelfRole(character)) return true;
+  const bare = fold(character)
+    .replace(/\(.*?\)/g, " ")
+    .replace(/\bvoice\b/g, " ")
+    .replace(/\s+/g, " ")
+    .trim();
+  if (!bare) return false;
+  return actorNames(seed).some((name) => fold(name) === bare);
+}
+
+/** Billing order above this is a bit part or a cameo in a huge ensemble. */
+const MAX_BILLING_ORDER = 30;
 
 function maskCharacter(character, seed) {
   let text = String(character || "").trim();
@@ -185,20 +207,90 @@ setInterval(() => {
   tmdbTokens = 30;
 }, 10_000).unref?.();
 
+function tmdbUsesBearer() {
+  return String(process.env.TMDB_API_KEY || "").startsWith("eyJ");
+}
+
+let tmdbCache = null;
+function loadTmdbCache() {
+  if (tmdbCache) return tmdbCache;
+  try {
+    tmdbCache = JSON.parse(fs.readFileSync(tmdbCachePath, "utf8"));
+  } catch {
+    tmdbCache = {};
+  }
+  return tmdbCache;
+}
+
+function tmdbCacheKey(pathname, params) {
+  const pairs = Object.keys(params)
+    .sort()
+    .map((key) => `${key}=${params[key]}`);
+  return `${pathname}?${pairs.join("&")}`;
+}
+
+function saveTmdbCache() {
+  if (!tmdbCache) return;
+  fs.mkdirSync(path.dirname(tmdbCachePath), { recursive: true });
+  fs.writeFileSync(tmdbCachePath, JSON.stringify(tmdbCache));
+}
+
 async function tmdb(pathname, params = {}) {
+  const key = tmdbCacheKey(pathname, params);
+  const cached = loadTmdbCache()[key];
+  if (cached) return cached;
   while (tmdbTokens <= 0) await sleep(200);
   tmdbTokens -= 1;
   const url = new URL(`https://api.themoviedb.org/3${pathname}`);
-  url.searchParams.set("api_key", process.env.TMDB_API_KEY);
-  for (const [key, value] of Object.entries(params)) url.searchParams.set(key, value);
-  const response = await fetch(url, { headers: { Accept: "application/json" } });
+  const headers = { Accept: "application/json" };
+  if (tmdbUsesBearer()) headers.Authorization = `Bearer ${process.env.TMDB_API_KEY}`;
+  else url.searchParams.set("api_key", process.env.TMDB_API_KEY);
+  for (const [entry, value] of Object.entries(params)) url.searchParams.set(entry, value);
+  const response = await fetch(url, { headers });
   if (response.status === 429) {
     await sleep(1500);
     tmdbTokens = 0;
     return tmdb(pathname, params);
   }
   if (!response.ok) throw new Error(`TMDB ${response.status} ${pathname}`);
-  return response.json();
+  const body = await response.json();
+  loadTmdbCache()[key] = body;
+  if (Object.keys(tmdbCache).length % 40 === 0) saveTmdbCache();
+  return body;
+}
+
+/** Match a curated title to a TMDB movie so posters and money can be filled in. */
+async function matchMovie(title, year) {
+  const search = await tmdb("/search/movie", { query: title, year: String(year) });
+  const folded = plainTitle(title);
+  return (search.results || []).find((movie) => {
+    const sameName = plainTitle(movie.title) === folded || plainTitle(movie.original_title) === folded;
+    const movieYear = Number(String(movie.release_date || "").slice(0, 4));
+    return sameName && Number.isFinite(movieYear) && Math.abs(movieYear - Number(year)) <= 1;
+  });
+}
+
+async function enrichFromTmdb(films) {
+  const next = [];
+  for (const film of films) {
+    try {
+      const hit = await matchMovie(film.title, film.year);
+      if (!hit) {
+        next.push(film);
+        continue;
+      }
+      const movie = await tmdb(`/movie/${hit.id}`);
+      next.push({
+        ...film,
+        poster: movie.poster_path ? `https://image.tmdb.org/t/p/w185${movie.poster_path}` : film.poster,
+        budget: moneyOrNull(movie.budget) ?? film.budget,
+        gross: moneyOrNull(movie.revenue) ?? film.gross,
+      });
+    } catch {
+      next.push(film);
+    }
+  }
+  return next;
 }
 
 async function findPerson(seed) {
@@ -220,7 +312,8 @@ async function filmsFromTmdb(seed) {
     if ((credit.vote_count || 0) < MIN_VOTES) return false;
     const genres = credit.genre_ids || [];
     if (genres.includes(DOC_GENRE) || genres.includes(TV_MOVIE_GENRE)) return false;
-    if (isSelfRole(credit.character)) return false;
+    if (characterIsSelf(credit.character, seed)) return false;
+    if ((credit.order ?? 0) > MAX_BILLING_ORDER) return false;
     if (titleHasActor(credit.title || credit.original_title || "", seed)) return false;
     if (!credit.release_date) return false;
     return true;
@@ -232,7 +325,7 @@ async function filmsFromTmdb(seed) {
     const genres = (movie.genres || []).map((genre) => genre.id);
     if (genres.includes(DOC_GENRE) || genres.includes(TV_MOVIE_GENRE)) continue;
     if (movie.runtime && movie.runtime > 0 && movie.runtime < 40) continue;
-    if (isSelfRole(credit.character)) continue;
+    if (characterIsSelf(credit.character, seed)) continue;
     const gross = moneyOrNull(movie.revenue);
     if (!gross) continue;
     detailed.push({
@@ -304,7 +397,9 @@ function reportFor(rows, source) {
     `Generated: ${new Date().toISOString()}`,
     `Source: ${source}`,
     "",
-    "Awards, nationalities, and co-stars are hand-curated. When TMDB_API_KEY is missing, budgets and worldwide grosses are rounded public figures from the seed, not a live TMDB pull. Zeros are stored as missing and the game shows an em dash.",
+    source === "tmdb"
+      ? "Films, posters, photos, budgets, and worldwide grosses come from TMDB. Awards, nationalities, and co-stars stay hand-curated. A zero budget or gross is stored as missing and the game shows an em dash."
+      : "Awards, nationalities, and co-stars are hand-curated. When TMDB_API_KEY is missing, budgets and worldwide grosses are rounded public figures from the seed, not a live TMDB pull. Zeros are stored as missing and the game shows an em dash.",
     "",
     "## Needs a look",
     "",
@@ -318,6 +413,10 @@ function reportFor(rows, source) {
     const missingPosters = row.films.filter((film) => !film.poster).length;
     if (missingBudget.length) notes.push(`missing budget: ${missingBudget.join(", ")}`);
     if (missingGross.length) notes.push(`missing gross: ${missingGross.join(", ")}`);
+    const suspiciousGross = row.films
+      .filter((film) => film.gross != null && film.budget != null && film.budget >= 20_000_000 && film.gross * 50 < film.budget)
+      .map((film) => film.title);
+    if (suspiciousGross.length) notes.push(`gross looks too small next to the budget: ${suspiciousGross.join(", ")}`);
     if (!row.photo) notes.push("missing photo");
     if (missingPosters) {
       const titles = row.films.filter((film) => !film.poster).map((film) => film.title);
@@ -370,13 +469,13 @@ async function main() {
         photo = remote.photo;
         if (remote.films.length >= 8) films = remote.films;
         else {
-          note = `TMDB returned ${remote.films.length} qualifying films; kept the curated list`;
-          films = filmsFromSeed(person);
+          note = `TMDB returned ${remote.films.length} films with 5,000 votes and a known gross; kept the curated list, with posters and money filled from TMDB where the title matched`;
+          films = await enrichFromTmdb(filmsFromSeed(person));
           if (remote.photo) photo = remote.photo;
         }
       } catch (error) {
         note = `TMDB failed (${error.message}); kept the curated list`;
-        films = filmsFromSeed(person);
+        films = await enrichFromTmdb(filmsFromSeed(person));
       }
     } else {
       films = filmsFromSeed(person);
@@ -428,11 +527,12 @@ async function main() {
   }));
 
   const payload = {
-    version: "1.0.0",
+    version: JSON.parse(fs.readFileSync(path.join(root, "package.json"), "utf8")).version,
     source,
     generatedAt: new Date().toISOString(),
     actors,
   };
+  saveTmdbCache();
   fs.mkdirSync(path.dirname(outPath), { recursive: true });
   fs.writeFileSync(outPath, `${JSON.stringify(payload, null, 2)}\n`);
   fs.writeFileSync(reportPath, reportFor(reportRows, source));

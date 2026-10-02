@@ -1,6 +1,6 @@
 # Box Office
 
-Version 1.0.0
+Version 1.0.1
 
 Name the actor from their biggest films.
 
@@ -41,7 +41,7 @@ npm run build:actors
 
 With `TMDB_API_KEY` set, films come from TMDB person credits plus movie details: vote count at least 5,000, no documentaries, TV movies, shorts, cameos, or self roles, then the top 8–10 by popularity, sorted by year. Budget and worldwide gross come from the movie record. A missing or zero figure is stored as missing and the table shows an em dash.
 
-The V1 file shipped in this repo was built from the curated seed, because no TMDB key was available in the build environment. Photos and posters are Wikipedia thumbnails. Awards, nationalities, and co-stars are hand-curated either way. Re-run the script with a key to refresh films, money, and images from TMDB. Read `data/build-report.md` afterwards. It lists missing posters, missing money, and any actor who falls short of eight known films.
+The file in this repo was built with a TMDB read token. Films, photos, posters, budgets, and worldwide grosses come from TMDB. Awards, nationalities, and co-stars stay hand-curated. An actor with fewer than eight films that have 5,000 votes and a known gross keeps the curated film list, and those titles are matched back to TMDB for posters and money. Read `data/build-report.md` afterwards. It lists anyone below that line, plus films whose budget or gross is missing.
 
 Names and locked clues are base64 in `actors.json`. That only deters casual spoiling. The page title, URL, and autocomplete list do not reveal today's answers.
 

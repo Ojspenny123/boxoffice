@@ -1,5 +1,5 @@
 /** Single source of truth for the Box Office release. */
-export const VERSION = "1.0.0";
+export const VERSION = "1.0.1";
 
 /** Footer label, e.g. "v1.0". */
 export function versionLabel(version = VERSION) {
