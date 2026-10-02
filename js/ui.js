@@ -157,12 +157,6 @@ function fillTable(container, actor) {
     title.className = "film-title";
     title.textContent = film.title;
     copy.appendChild(title);
-    if (film.character) {
-      const character = document.createElement("span");
-      character.className = "character";
-      character.textContent = film.character;
-      copy.appendChild(character);
-    }
     wrap.appendChild(copy);
     filmCell.appendChild(wrap);
 
@@ -628,7 +622,7 @@ export function helpBody() {
     <p class="modal-tagline">Name the actor from their biggest films.</p>
     <ol class="how-list">
       <li>Each day you get three actors. Everyone plays the same three.</li>
-      <li>The table shows their best-known films. Year, budget, worldwide gross, and the character they played. The name stays hidden.</li>
+      <li>The table shows their best-known films. Year, budget, and worldwide gross. The name stays hidden.</li>
       <li>You have five guesses. Type a name and pick someone from the list.</li>
       <li>Every wrong guess unlocks the next clue: nationality, birth decade, Oscars, then a famous co-star.</li>
       <li>Finish all three, win or lose, to keep your streak. Miss a day and it resets.</li>

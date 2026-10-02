@@ -32,7 +32,6 @@ export function decodeActor(raw) {
     films: (raw.films || []).map((film) => ({
       year: film.year,
       title: film.title,
-      character: film.character,
       poster: film.poster || "",
       budget: film.budget ?? null,
       gross: film.gross ?? null,

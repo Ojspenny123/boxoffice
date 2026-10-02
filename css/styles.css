@@ -263,15 +263,6 @@ main {
   line-height: 1.2;
   overflow-wrap: anywhere;
 }
-.character {
-  display: block;
-  margin-top: 1px;
-  color: #5c6b8a;
-  font-size: 0.75rem;
-  font-weight: 500;
-  line-height: 1.2;
-  overflow-wrap: anywhere;
-}
 .money { font-weight: 700; font-variant-numeric: tabular-nums; white-space: nowrap; }
 .gross { font-weight: 800; }
 .gross.best {
